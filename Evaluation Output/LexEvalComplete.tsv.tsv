@@ -1,0 +1,1255 @@
+# Wordlist
+
+# DATA
+ID	COGNACY	CONCEPT	COUNTERPART	IPA	DOCULECT	COGID	TOKENS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	DUPLICATES	LEXSTATID
+#
+1	0	I	I	aɪ	English	1	aɪ	7	X	A	4	4.A.V	1.5	0	4
+2	0	I	ma͠i	mɛː	Hindi	41	m ɛː	4 7	AX	ME	6	6.M.C 6.E.V	2.0 1.5	0	1
+3	0	I	ma͠i	mɛː	Urdu	41	m ɛː	4 7	AX	ME	15	15.M.C 15.E.V	2.0 1.5	0	1
+4	0	I	ma	mə	Nepali	41	m ə	4 7	AX	ME	9	9.M.C 9.E.V	2.0 1.5	0	1
+5	0	I	maĩ	mɛː	Punjabi	41	m ɛː	4 7	AX	ME	11	11.M.C 11.E.V	2.0 1.5	0	1
+6	0	I	āū̃	maːna	Sindhi	41	m aː n a	4 7 4 7	AXBZ	MANA	13	13.M.C 13.A.V 13.N.C 13.A.V	2.0 1.5 1.75 0.8	0	13
+7	0	I	hũ	None	Gujarati	41	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	0	5
+8	0	I	mī	amʱi	Marathi	41	a mʱ i	7 4 7	XBZ	AMI	8	8.A.V 8.M.C 8.I.V	1.5 1.75 0.8	0	8
+9	0	I	hā̃v	ɦɑːʋ	Konkani	41	ɦ ɑː ʋ	3 7 6	AXN	HAW	7	7.H.C 7.A.V 7.W.c	2.0 1.5 0.8	0	7
+10	0	I	moi	mɔɪ	Assamese	41	m ɔɪ	4 7	AX	MU	1	1.M.C 1.U.V	2.0 1.5	0	1
+11	0	I	ami	ami	Bengali	41	a m i	7 4 7	XBZ	AMI	2	2.A.V 2.M.C 2.I.V	1.5 1.75 0.8	0	2
+12	0	I	mum̐	mũ	Oriya	41	m ũ	4 7	AX	MY	10	10.M.C 10.Y.V	2.0 1.5	0	1
+13	0	I	mama	None	Sinhalese	41	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	0	14
+14	0	I	aharen̊‎	None	Dhivehi	41	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	0	3
+15	0	I	me	miː	Romani	41	m iː	4 7	AX	MI	12	12.M.C 12.I.V	2.0 1.5	0	8
+#
+121	8	all	all	ɔːl	English	21	ɔː l	7 5	XN	UL	4	4.U.V 4.L.c	1.5 0.8	0	18
+122	8	all	sab	None	Hindi	1	N o n e	0 7 4 7	AXBZ	0UNE	6	6.0.C 6.U.V 6.N.C 6.E.V	2.0 1.5 1.75 0.8	0	20
+123	8	all	sab	None	Urdu	1	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	29
+124	8	all	sabai	None	Nepali	1	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	23
+125	8	all	sārā	None	Punjabi	1	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	25
+126	8	all	sabhu	None	Sindhi	1	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	27
+127	8	all	badhũ	None	Gujarati	1	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	19
+128	8	all	sagḷe	None	Marathi	270	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	0	22
+129	8	all	sagḷe	səɡɭe	Konkani	270	s ə ɡ ɭ e	3 7 1 5 7	AXBCZ	SEKLE	7	7.S.C 7.E.V 7.K.C 7.L.C 7.E.V	2.0 1.5 1.75 1.5 0.8	0	21
+130	8	all	atai	xɔkɔlʊ	Assamese	1	x ɔ k ɔ l ʊ	3 7 1 7 5 7	AXBYBZ	GUKULY	1	1.G.C 1.U.V 1.K.C 1.U.V 1.L.C 1.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	0	15
+131	8	all	śôb	ʃɔb	Bengali	1	ʃ ɔ b	3 7 1	AXN	SUP	2	2.S.C 2.U.V 2.P.c	2.0 1.5 0.8	0	16
+132	8	all	sôbu	None	Oriya	1	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	24
+133	8	all	hæma	None	Sinhalese	270	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	22
+134	8	all	hurihā	None	Dhivehi	174	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	17
+135	8	all	sa	sa	Romani	1	s a	3 7	AX	SA	12	12.S.C 12.A.V	2.0 1.5	0	26
+#
+916	61	ash	ash	æʃ	English	52	æ ʃ	7 3	XN	ES	4	4.E.V 4.S.c	1.5 0.8	0	33
+917	61	ash	rākh	ɾɑːkʰ	Hindi	3	ɾ ɑː kʰ	5 7 1	AXN	RAK	6	6.R.C 6.A.V 6.K.c	2.0 1.5 0.8	0	35
+918	61	ash	rākh	ɾɑːkʰ	Urdu	1	ɾ ɑː kʰ	5 7 1	AXN	RAK	15	15.R.C 15.A.V 15.K.c	2.0 1.5 0.8	0	35
+919	61	ash	kharānī	kʰʌɾäni	Nepali	140	kʰ ʌ ɾ ä n i	1 7 5 7 4 7	AXBYBZ	KERANI	9	9.K.C 9.E.V 9.R.C 9.A.V 9.N.C 9.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0	38
+920	61	ash	suāha	None	Punjabi	111	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	40
+921	61	ash	chāī	None	Sindhi	3	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	42
+922	61	ash	rākh	None	Gujarati	3	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	34
+923	61	ash	rākh	ɾɑːkʰ	Marathi	3	ɾ ɑː kʰ	5 7 1	AXN	RAK	8	8.R.C 8.A.V 8.K.c	2.0 1.5 0.8	0	35
+924	61	ash	rākh	ɾɑːkʰ	Konkani	606	ɾ ɑː kʰ	5 7 1	AXN	RAK	7	7.R.C 7.A.V 7.K.c	2.0 1.5 0.8	0	35
+925	61	ash	sai	saɪ	Assamese	152	s aɪ	3 7	AX	SA	1	1.S.C 1.A.V	2.0 1.5	0	30
+926	61	ash	chai	saɪ	Bengali	152	s aɪ	3 7	AX	SA	2	2.S.C 2.A.V	2.0 1.5	0	30
+927	61	ash	paum̐śô	None	Oriya	567	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	39
+928	61	ash	mārga	None	Sinhalese	382	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	43
+929	61	ash	alhu	None	Dhivehi	382	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	32
+930	61	ash	ushar	None	Romani	140	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	41
+#
+376	25	bark	bark	bɑːk	English	111	b ɑː k	1 7 1	AXN	PAK	4	4.P.C 4.A.V 4.K.c	2.0 1.5 0.8	0	47
+377	25	bark	chāl	tʃʰɑːl	Hindi	4	t ʃʰ ɑː l	1 3 7 5	ACXN	TSAL	6	6.T.C 6.S.C 6.A.V 6.L.c	2.0 1.5 1.5 0.8	0	45
+378	25	bark	chāl	tʃʰälə	Urdu	4	t ʃʰ ä l ə	1 3 7 5 7	ACXBZ	TSALE	15	15.T.C 15.S.C 15.A.V 15.L.C 15.E.V	2.0 1.5 1.5 1.75 0.8	0	58
+379	25	bark	(rūkhko)	None	Nepali	328	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	52
+380	25	bark	chilla	None	Punjabi	4	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	54
+381	25	bark	choᶑo	None	Sindhi	4	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	56
+382	25	bark	chāl	None	Gujarati	4	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	48
+383	25	bark	(j̈hāḍācī)	sɑːl	Marathi	4	s ɑː l	3 7 5	AXN	SAL	8	8.S.C 8.A.V 8.L.c	2.0 1.5 0.8	0	45
+384	25	bark	(jhāḍāce)	sɑːl	Konkani	4	s ɑː l	3 7 5	AXN	SAL	7	7.S.C 7.A.V 7.L.c	2.0 1.5 0.8	0	45
+385	25	bark	bakoli	bakɔli	Assamese	328	b a k ɔ l i	1 7 1 7 5 7	AXBYBZ	PAKULI	1	1.P.C 1.A.V 1.K.C 1.U.V 1.L.C 1.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0	44
+386	25	bark	chal	sal	Bengali	4	s a l	3 7 5	AXN	SAL	2	2.S.C 2.A.V 2.L.c	2.0 1.5 0.8	0	45
+387	25	bark	bôkôḷô	None	Oriya	4	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	53
+388	25	bark	potu	None	Sinhalese	383	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	52
+389	25	bark	toṣi	None	Dhivehi	523	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	46
+390	25	bark	korca	None	Romani	-1	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	55
+#
+676	45	belly	belly	ˈbɛli	English	139	ˈb ɛ l i	1 7 5 7	AXBZ	PELI	4	4.P.C 4.E.V 4.L.C 4.I.V	2.0 1.5 1.75 0.8	0	62
+677	45	belly	peṭ	peːʈ	Hindi	678	p eː ʈ	1 7 1	AXN	PET	6	6.P.C 6.E.V 6.T.c	2.0 1.5 0.8	0	59
+678	45	belly	peṭ	None	Urdu	678	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	73
+679	45	belly	peṭ	None	Nepali	678	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	67
+680	45	belly	ḍhiḍḍa	None	Punjabi	678	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	69
+681	45	belly	peṭu	None	Sindhi	678	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	71
+682	45	belly	peṭ	None	Gujarati	678	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	63
+683	45	belly	poṭ	None	Marathi	-1	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	66
+684	45	belly	poṭ	None	Konkani	-1	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	65
+685	45	belly	pet	pɛt	Assamese	678	p ɛ t	1 7 1	AXN	PET	1	1.P.C 1.E.V 1.T.c	2.0 1.5 0.8	0	59
+686	45	belly	peṭ	pɛt	Bengali	678	p ɛ t	1 7 1	AXN	PET	2	2.P.C 2.E.V 2.T.c	2.0 1.5 0.8	0	59
+687	45	belly	peṭô	peʈɔ	Oriya	678	p e ʈ ɔ	1 7 1 7	AXBZ	PETU	10	10.P.C 10.E.V 10.T.C 10.U.V	2.0 1.5 1.75 0.8	0	59
+688	45	belly	baḍa	None	Sinhalese	329	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	66
+689	45	belly	baⁿḍu	None	Dhivehi	329	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	61
+690	45	belly	per	pɜːɹ	Romani	678	p ɜː ɹ	1 7 5	AXN	PER	12	12.P.C 12.E.V 12.R.c	2.0 1.5 0.8	0	70
+#
+181	12	big	big	bɪɡ	English	156	b ɪ ɡ	1 7 1	AXN	PIK	4	4.P.C 4.I.V 4.K.c	2.0 1.5 0.8	0	77
+182	12	big	baṛā	bəɽɑː	Hindi	5	b ə ɽ ɑː	1 7 5 7	AXBZ	PERA	6	6.P.C 6.E.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	0	75
+183	12	big	baṛā	bəɽɑː	Urdu	5	b ə ɽ ɑː	1 7 5 7	AXBZ	PERA	15	15.P.C 15.E.V 15.R.C 15.A.V	2.0 1.5 1.75 0.8	0	75
+184	12	big	ṭhūlo	ʈʰulo	Nepali	358	ʈʰ u l o	1 7 5 7	AXBZ	TYLU	9	9.T.C 9.Y.V 9.L.C 9.U.V	2.0 1.5 1.75 0.8	0	82
+185	12	big	vaḍḍā	None	Punjabi	5	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	84
+186	12	big	vaᶑo	None	Sindhi	5	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	86
+187	12	big	moṭũ	None	Gujarati	248	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	78
+188	12	big	moṭhe	None	Marathi	248	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	81
+189	12	big	vhoḍ	None	Konkani	5	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	80
+190	12	big	daṅor	daŋɔɹ	Assamese	5	d a ŋ ɔ ɹ	1 7 4 7 5	AXBYN	TANUR	1	1.T.C 1.A.V 1.N.C 1.U.V 1.R.c	2.0 1.5 1.75 1.3 0.8	0	74
+191	12	big	bôṛ	ˈbɔɽo	Bengali	5	ˈb ɔ ɽ o	1 7 5 7	AXBZ	PURU	2	2.P.C 2.U.V 2.R.C 2.U.V	2.0 1.5 1.75 0.8	0	75
+192	12	big	bôṛô	bɔɽɔ	Oriya	5	b ɔ ɽ ɔ	1 7 5 7	AXBZ	PURU	10	10.P.C 10.U.V 10.R.C 10.U.V	2.0 1.5 1.75 0.8	0	75
+193	12	big	loku	None	Sinhalese	385	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	81
+194	12	big	boḍu	None	Dhivehi	669	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	76
+195	12	big	baro	ˈbaːrəʊ	Romani	5	ˈb aː r əʊ	1 7 5 7	AXBZ	PARE	12	12.P.C 12.A.V 12.R.C 12.E.V	2.0 1.5 1.75 0.8	0	75
+#
+271	18	bird	bird	bɜːd	English	173	b ɜː d	1 7 1	AXN	PET	4	4.P.C 4.E.V 4.T.c	2.0 1.5 0.8	0	90
+272	18	bird	ciṛiyā	tʃɪɽɪjɑː	Hindi	6	t ʃ ɪ ɽ ɪ j ɑː	1 3 7 5 7 6 7	ACXBYBZ	TSIRIJA	6	6.T.C 6.S.C 6.I.V 6.R.C 6.I.V 6.J.C 6.A.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	0	87
+273	18	bird	ciṛiyā	tʃɪɽɪjɑː	Urdu	6	t ʃ ɪ ɽ ɪ j ɑː	1 3 7 5 7 6 7	ACXBYBZ	TSIRIJA	15	15.T.C 15.S.C 15.I.V 15.R.C 15.I.V 15.J.C 15.A.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	0	87
+274	18	bird	carā	None	Nepali	6	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	95
+275	18	bird	pañchī	None	Punjabi	7	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	97
+276	18	bird	pakhī	None	Sindhi	7	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	99
+277	18	bird	paṅkhī	ˈpəkʃi	Gujarati	7	ˈp ə k ʃ i	1 7 1 3 7	AXBCZ	PEKSI	5	5.P.C 5.E.V 5.K.C 5.S.C 5.I.V	2.0 1.5 1.75 1.5 0.8	0	91
+278	18	bird	pakṣī	pakʰɾu	Marathi	-2	p a kʰ ɾ u	1 7 1 5 7	AXBCZ	PAKRY	8	8.P.C 8.A.V 8.K.C 8.R.C 8.Y.V	2.0 1.5 1.75 1.5 0.8	0	88
+279	18	bird	pakṣi	None	Konkani	7	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	93
+280	18	bird	sorai	sɔɹaɪ	Assamese	6	s ɔ ɹ aɪ	3 7 5 7	AXBZ	SURA	1	1.S.C 1.U.V 1.R.C 1.A.V	2.0 1.5 1.75 0.8	0	87
+281	18	bird	pakhi	pakʰi	Bengali	7	p a kʰ i	1 7 1 7	AXBZ	PAKI	2	2.P.C 2.A.V 2.K.C 2.I.V	2.0 1.5 1.75 0.8	0	88
+282	18	bird	côṛhei	pɔksi	Oriya	6	p ɔ k s i	1 7 1 3 7	AXBCZ	PUKSI	10	10.P.C 10.U.V 10.K.C 10.S.C 10.I.V	2.0 1.5 1.75 1.5 0.8	0	91
+283	18	bird	kurullā	None	Sinhalese	-1	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	95
+284	18	bird	dūni	None	Dhivehi	524	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	89
+285	18	bird	ćiriklo	None	Romani	6	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	98
+#
+1021	68	black	black	blæk	English	206	b l æ k	1 5 7 1	ACXN	PLEK	4	4.P.C 4.L.C 4.E.V 4.K.c	2.0 1.5 1.5 0.8	0	103
+1022	68	black	kālā	kɑːlɑː	Hindi	9	k ɑː l ɑː	1 7 5 7	AXBZ	KALA	6	6.K.C 6.A.V 6.L.C 6.A.V	2.0 1.5 1.75 0.8	0	100
+1023	68	black	siyāh	None	Urdu	9	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	114
+1024	68	black	kālo	kälo	Nepali	9	k ä l o	1 7 5 7	AXBZ	KALU	9	9.K.C 9.A.V 9.L.C 9.U.V	2.0 1.5 1.75 0.8	0	100
+1025	68	black	kālā	None	Punjabi	9	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	110
+1026	68	black	kāro	None	Sindhi	9	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	112
+1027	68	black	kāḷo	None	Gujarati	9	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	104
+1028	68	black	kāḷe	None	Marathi	9	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	107
+1029	68	black	kāḷo	None	Konkani	9	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	106
+1030	68	black	köla	kola	Assamese	9	k o l a	1 7 5 7	AXBZ	KULA	1	1.K.C 1.U.V 1.L.C 1.A.V	2.0 1.5 1.75 0.8	0	100
+1031	68	black	kalo	kalo	Bengali	9	k a l o	1 7 5 7	AXBZ	KALU	2	2.K.C 2.A.V 2.L.C 2.U.V	2.0 1.5 1.75 0.8	0	100
+1032	68	black	kôḷa	None	Oriya	9	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	109
+1033	68	black	kaḷu	None	Sinhalese	9	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	107
+1034	68	black	kaḷu	None	Dhivehi	9	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	102
+1035	68	black	kalo	ˈkaloʔ	Romani	9	ˈk a l o ʔ	1 7 5 7 1	AXBYN	KALUH	12	12.K.C 12.A.V 12.L.C 12.U.V 12.H.c	2.0 1.5 1.75 1.3 0.8	0	111
+#
+421	28	blood	blood	blʌd	English	221	b l ʌ d	1 5 7 1	ACXN	PLET	4	4.P.C 4.L.C 4.E.V 4.T.c	2.0 1.5 1.5 0.8	0	118
+422	28	blood	xūn	kʰuːn	Hindi	10	kʰ uː n	1 7 4	AXN	KYN	6	6.K.C 6.Y.V 6.N.c	2.0 1.5 0.8	0	120
+423	28	blood	xūn	xuːn	Urdu	10	x uː n	3 7 4	AXN	GYN	15	15.G.C 15.Y.V 15.N.c	2.0 1.5 0.8	0	120
+424	28	blood	ragat	None	Nepali	-1	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	123
+425	28	blood	xūn	None	Punjabi	10	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	125
+426	28	blood	ratu	ɾʊtːᵊ	Sindhi	115	ɾ ʊ tːᵊ	5 7 1	AXN	RYT	13	13.R.C 13.Y.V 13.T.c	2.0 1.5 0.8	0	116
+427	28	blood	lohī	None	Gujarati	10	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	119
+428	28	blood	rakta	ɾəkt	Marathi	-3	ɾ ə k t	5 7 1 1	AXLN	REKT	8	8.R.C 8.E.V 8.K.c 8.T.c	2.0 1.5 1.1 0.8	0	116
+429	28	blood	ragat	None	Konkani	-2	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	121
+430	28	blood	tez	None	Assamese	-33	N o n e	0 7 4 7	AXBZ	0UNE	1	1.0.C 1.U.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	1	115
+431	28	blood	rôkt	rɔkto	Bengali	-1	r ɔ k t o	5 7 1 1 7	AXMBZ	RUKTU	2	2.R.C 2.U.V 2.K.c 2.T.C 2.U.V	2.0 1.5 1.1 1.75 0.8	0	116
+432	28	blood	rôktô	None	Oriya	-1	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	124
+433	28	blood	lē	leː	Sinhalese	10	l eː	5 7	AX	LE	14	14.L.C 14.E.V	2.0 1.5	0	128
+434	28	blood	lē	None	Dhivehi	10	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	117
+435	28	blood	rat	ɹæt	Romani	115	ɹ æ t	5 7 1	AXN	RET	12	12.R.C 12.E.V 12.T.c	2.0 1.5 0.8	0	116
+#
+436	29	bone	bone	ˈboʊn	English	245	ˈb oʊ n	1 7 4	AXN	PUN	4	4.P.C 4.U.V 4.N.c	2.0 1.5 0.8	0	132
+437	29	bone	haḍḍī	ɦəɖɖiː	Hindi	11	ɦ ə ɖɖ iː	3 7 1 7	AXBZ	HETI	6	6.H.C 6.E.V 6.T.C 6.I.V	2.0 1.5 1.75 0.8	0	134
+438	29	bone	haḍḍī	None	Urdu	11	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	143
+439	29	bone	hāḍ	ɦəɖɖiː	Nepali	11	ɦ ə ɖɖ iː	3 7 1 7	AXBZ	HETI	9	9.H.C 9.E.V 9.T.C 9.I.V	2.0 1.5 1.75 0.8	0	134
+440	29	bone	haḍḍī	ɦəɖːiː	Punjabi	11	ɦ ə ɖː iː	3 7 1 7	AXBZ	HETI	11	11.H.C 11.E.V 11.T.C 11.I.V	2.0 1.5 1.75 0.8	0	134
+441	29	bone	haᶑo	None	Sindhi	11	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	141
+442	29	bone	hāḍkũ	None	Gujarati	11	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	133
+443	29	bone	hāḍ	None	Marathi	11	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	136
+444	29	bone	hāḍ	None	Konkani	11	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	135
+445	29	bone	har	ɦaɹ	Assamese	11	ɦ a ɹ	3 7 5	AXN	HAR	1	1.H.C 1.A.V 1.R.c	2.0 1.5 0.8	0	129
+446	29	bone	haṛ	ɦaɹ	Bengali	11	ɦ a ɹ	3 7 5	AXN	HAR	2	2.H.C 2.A.V 2.R.c	2.0 1.5 0.8	0	129
+447	29	bone	haḍô	None	Oriya	11	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	138
+448	29	bone	kaṭu	None	Sinhalese	11	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	136
+449	29	bone	kaṣi	None	Dhivehi	11	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	131
+450	29	bone	kòkalo	None	Romani	11	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	140
+#
+706	47	breast	breast	bɹɛst	English	263	b ɹ ɛ s t	1 5 7 3 1	ACXLN	PREST	4	4.P.C 4.R.C 4.E.V 4.S.c 4.T.c	2.0 1.5 1.5 1.1 0.8	0	147
+707	47	breast	chātī	tʃʰɑːtiː	Hindi	12	t ʃʰ ɑː t iː	1 3 7 1 7	ACXBZ	TSATI	6	6.T.C 6.S.C 6.A.V 6.T.C 6.I.V	2.0 1.5 1.5 1.75 0.8	0	149
+708	47	breast	sīnā	siːna	Urdu	12	s iː n a	3 7 4 7	AXBZ	SINA	15	15.S.C 15.I.V 15.N.C 15.A.V	2.0 1.5 1.75 0.8	0	151
+709	47	breast	chātī	stɐnɐ	Nepali	12	s t ɐ n ɐ	3 1 7 4 7	ACYBZ	STENE	9	9.S.C 9.T.C 9.E.V 9.N.C 9.E.V	2.0 1.5 1.3 1.75 0.8	0	151
+710	47	breast	chātī	None	Punjabi	12	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	154
+711	47	breast	chātī	None	Sindhi	12	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	156
+712	47	breast	chātī	None	Gujarati	12	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	148
+713	47	breast	chātī	stɐnɐ	Marathi	-4	s t ɐ n ɐ	3 1 7 4 7	ACYBZ	STENE	8	8.S.C 8.T.C 8.E.V 8.N.C 8.E.V	2.0 1.5 1.3 1.75 0.8	0	151
+714	47	breast	chātī	tʰɑn	Konkani	116	tʰ ɑ n	1 7 4	AXN	TAN	7	7.T.C 7.A.V 7.N.c	2.0 1.5 0.8	0	150
+715	47	breast	buku	buku	Assamese	297	b u k u	1 7 1 7	AXBZ	PYKY	1	1.P.C 1.Y.V 1.K.C 1.Y.V	2.0 1.5 1.75 0.8	0	144
+716	47	breast	buk	None	Bengali	297	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	145
+717	47	breast	stônô	None	Oriya	12	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	153
+718	47	breast	tanē	None	Sinhalese	116	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	150
+719	47	breast	kisfā	None	Dhivehi	297	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	146
+720	47	breast	ćući	None	Romani	592	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	155
+#
+871	58	cloud	cloud	klaʊd	English	208	k l aʊ d	1 5 7 1	ACXN	KLAT	4	4.K.C 4.L.C 4.A.V 4.T.c	2.0 1.5 1.5 0.8	0	160
+872	58	cloud	bādal	bɑːdəl	Hindi	15	b ɑː d ə l	1 7 1 7 5	AXBYN	PATEL	6	6.P.C 6.A.V 6.T.C 6.E.V 6.L.c	2.0 1.5 1.75 1.3 0.8	0	162
+873	58	cloud	bādal	bɑːdəl	Urdu	15	b ɑː d ə l	1 7 1 7 5	AXBYN	PATEL	15	15.P.C 15.A.V 15.T.C 15.E.V 15.L.c	2.0 1.5 1.75 1.3 0.8	0	162
+874	58	cloud	bādal	bɑːdəl	Nepali	15	b ɑː d ə l	1 7 1 7 5	AXBYN	PATEL	9	9.P.C 9.A.V 9.T.C 9.E.V 9.L.c	2.0 1.5 1.75 1.3 0.8	0	162
+875	58	cloud	baddal	None	Punjabi	15	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	167
+876	58	cloud	kakaru	None	Sindhi	179	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	169
+877	58	cloud	vādaḷ	None	Gujarati	15	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	161
+878	58	cloud	ḍhag	None	Marathi	272	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	164
+879	58	cloud	kūp	kúːpɐ	Konkani	-3	k úː p ɐ	1 7 1 7	AXBZ	KYPE	7	7.K.C 7.Y.V 7.P.C 7.E.V	2.0 1.5 1.75 0.8	0	163
+880	58	cloud	megh	mɛɡ	Assamese	15	m ɛ ɡ	4 7 1	AXN	MEK	1	1.M.C 1.E.V 1.K.c	2.0 1.5 0.8	0	157
+881	58	cloud	megh	mɛɡ	Bengali	-2	m ɛ ɡ	4 7 1	AXN	MEK	2	2.M.C 2.E.V 2.K.c	2.0 1.5 0.8	0	157
+882	58	cloud	meghô	meɡʱɔ	Oriya	-2	m e ɡʱ ɔ	4 7 1 7	AXBZ	MEKU	10	10.M.C 10.E.V 10.K.C 10.U.V	2.0 1.5 1.75 0.8	0	157
+883	58	cloud	wæli	None	Sinhalese	391	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	164
+884	58	cloud	vilā	ʋiləː	Dhivehi	391	ʋ i l əː	6 7 5 7	AXBZ	WILE	3	3.W.C 3.I.V 3.L.C 3.E.V	2.0 1.5 1.75 0.8	0	159
+885	58	cloud	noro	noro	Romani	-4	n o r o	4 7 5 7	AXBZ	NURU	12	12.N.C 12.U.V 12.R.C 12.U.V	2.0 1.5 1.75 0.8	0	168
+#
+1066	71	cold	cold	ˈkəʊld	English	321	ˈk əʊ l d	1 7 5 1	AXLN	KELT	4	4.K.C 4.E.V 4.L.c 4.T.c	2.0 1.5 1.1 0.8	0	173
+1067	71	cold	ṭhaṇḍā	ʈʰəɳɖɑː	Hindi	458	ʈʰ ə ɳ ɖ ɑː	1 7 4 1 7	AXMBZ	TENTA	6	6.T.C 6.E.V 6.N.c 6.T.C 6.A.V	2.0 1.5 1.1 1.75 0.8	0	175
+1068	71	cold	sard	None	Urdu	458	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	184
+1069	71	cold	ṭhaṇḍā	tsiso	Nepali	332	t s i s o	1 3 7 3 7	ACXBZ	TSISU	9	9.T.C 9.S.C 9.I.V 9.S.C 9.U.V	2.0 1.5 1.5 1.75 0.8	0	178
+1070	71	cold	ṭhaṇḍā	None	Punjabi	458	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	180
+1071	71	cold	thadho	None	Sindhi	458	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	182
+1072	71	cold	ṭhaṇḍu	None	Gujarati	458	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	174
+1073	71	cold	gār	None	Marathi	458	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	177
+1074	71	cold	thaṇḍa	None	Konkani	458	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	176
+1075	71	cold	sẽsa	None	Assamese	458	N o n e	0 7 4 7	AXBZ	0UNE	1	1.0.C 1.U.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	1	170
+1076	71	cold	ṭhanḍa	None	Bengali	458	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	171
+1077	71	cold	thôṇḍa	tʰɔɳɖa	Oriya	458	tʰ ɔ ɳ ɖ a	1 7 4 1 7	AXMBZ	TUNTA	10	10.T.C 10.U.V 10.N.c 10.T.C 10.A.V	2.0 1.5 1.1 1.75 0.8	0	175
+1078	71	cold	sisil	None	Sinhalese	392	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	177
+1079	71	cold	fini	None	Dhivehi	528	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	172
+1080	71	cold	śudro	None	Romani	218	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	181
+#
+286	19	dog	dog	dɒɡ	English	438	d ɒ ɡ	1 7 1	AXN	TOK	4	4.T.C 4.O.V 4.K.c	2.0 1.5 0.8	0	188
+287	19	dog	kuttā	kʊttɑː	Hindi	18	k ʊ tt ɑː	1 7 1 7	AXBZ	KYTA	6	6.K.C 6.Y.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	0	190
+288	19	dog	kuttā	kʊttɑː	Urdu	18	k ʊ tt ɑː	1 7 1 7	AXBZ	KYTA	15	15.K.C 15.Y.V 15.T.C 15.A.V	2.0 1.5 1.75 0.8	0	190
+289	19	dog	kukur	kukur	Nepali	302	k u k u r	1 7 1 7 5	AXBYN	KYKYR	9	9.K.C 9.Y.V 9.K.C 9.Y.V 9.R.c	2.0 1.5 1.75 1.3 0.8	0	185
+290	19	dog	kuttā	None	Punjabi	18	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	195
+291	19	dog	kuto	None	Sindhi	18	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	197
+292	19	dog	kutro	None	Gujarati	18	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	189
+293	19	dog	kutrā	None	Marathi	18	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	192
+294	19	dog	kutro	None	Konkani	18	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	191
+295	19	dog	kukur	kukuɹ	Assamese	302	k u k u ɹ	1 7 1 7 5	AXBYN	KYKYR	1	1.K.C 1.Y.V 1.K.C 1.Y.V 1.R.c	2.0 1.5 1.75 1.3 0.8	0	185
+296	19	dog	kukur	kukuɾ	Bengali	302	k u k u ɾ	1 7 1 7 5	AXBYN	KYKYR	2	2.K.C 2.Y.V 2.K.C 2.Y.V 2.R.c	2.0 1.5 1.75 1.3 0.8	0	185
+297	19	dog	kukurô	kukuɾɔ	Oriya	302	k u k u ɾ ɔ	1 7 1 7 5 7	AXBYBZ	KYKYRU	10	10.K.C 10.Y.V 10.K.C 10.Y.V 10.R.C 10.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0	185
+298	19	dog	ballā	None	Sinhalese	394	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	192
+299	19	dog	baḷu	None	Dhivehi	302	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	187
+300	19	dog	ʒukel	None	Romani	595	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	196
+#
+1141	76	dry	dry	dɹaɪ	English	472	d ɹ aɪ	1 5 7	ACX	TRA	4	4.T.C 4.R.C 4.A.V	2.0 1.5 1.5	0	201
+1142	76	dry	sūkhā	suːkʰɑː	Hindi	20	s uː kʰ ɑː	3 7 1 7	AXBZ	SYKA	6	6.S.C 6.Y.V 6.K.C 6.A.V	2.0 1.5 1.75 0.8	0	198
+1143	76	dry	xuśk	xuʃk	Urdu	20	x u ʃ k	3 7 3 1	AXLN	GYSK	15	15.G.C 15.Y.V 15.S.c 15.K.c	2.0 1.5 1.1 0.8	0	212
+1144	76	dry	sukkhā	sukkʰä	Nepali	20	s u k kʰ ä	3 7 1 1 7	AXMBZ	SYKKA	9	9.S.C 9.Y.V 9.K.c 9.K.C 9.A.V	2.0 1.5 1.1 1.75 0.8	0	198
+1145	76	dry	sukkā	None	Punjabi	20	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	208
+1146	76	dry	sukal	None	Sindhi	20	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	210
+1147	76	dry	sukũ	None	Gujarati	20	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	202
+1148	76	dry	korḍe	None	Marathi	20	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	205
+1149	76	dry	sukẽ	None	Konkani	20	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	204
+1150	76	dry	xukan	xukan	Assamese	20	x u k a n	3 7 1 7 4	AXBYN	GYKAN	1	1.G.C 1.Y.V 1.K.C 1.A.V 1.N.c	2.0 1.5 1.75 1.3 0.8	0	198
+1151	76	dry	śukna	None	Bengali	20	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	199
+1152	76	dry	śukhila	None	Oriya	20	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	207
+1153	76	dry	wiyaḷi	None	Sinhalese	456	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	205
+1154	76	dry	dahan̊’gu	None	Dhivehi	20	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	200
+1155	76	dry	shuko	None	Romani	20	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	209
+#
+556	37	ear	ear	ɪə	English	515	ɪə	7	X	I	4	4.I.V	1.5	0	216
+557	37	ear	kān	kɑːn	Hindi	21	k ɑː n	1 7 4	AXN	KAN	6	6.K.C 6.A.V 6.N.c	2.0 1.5 0.8	0	213
+558	37	ear	kān	kɑːn	Urdu	21	k ɑː n	1 7 4	AXN	KAN	15	15.K.C 15.A.V 15.N.c	2.0 1.5 0.8	0	213
+559	37	ear	kān	kɑːn	Nepali	21	k ɑː n	1 7 4	AXN	KAN	9	9.K.C 9.A.V 9.N.c	2.0 1.5 0.8	0	213
+560	37	ear	kann	kənː	Punjabi	21	k ə nː	1 7 4	AXN	KEN	11	11.K.C 11.E.V 11.N.c	2.0 1.5 0.8	0	213
+561	37	ear	kana	None	Sindhi	21	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	225
+562	37	ear	kān	None	Gujarati	21	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	217
+563	37	ear	kān	kɑːn	Marathi	21	k ɑː n	1 7 4	AXN	KAN	8	8.K.C 8.A.V 8.N.c	2.0 1.5 0.8	0	213
+564	37	ear	kān	kɑːn	Konkani	21	k ɑː n	1 7 4	AXN	KAN	7	7.K.C 7.A.V 7.N.c	2.0 1.5 0.8	0	213
+565	37	ear	kan	kɑn	Assamese	21	k ɑ n	1 7 4	AXN	KAN	1	1.K.C 1.A.V 1.N.c	2.0 1.5 0.8	0	213
+566	37	ear	kan	kɑn	Bengali	21	k ɑ n	1 7 4	AXN	KAN	2	2.K.C 2.A.V 2.N.c	2.0 1.5 0.8	0	213
+567	37	ear	kanô	kanɔ	Oriya	21	k a n ɔ	1 7 4 7	AXBZ	KANU	10	10.K.C 10.A.V 10.N.C 10.U.V	2.0 1.5 1.75 0.8	0	213
+568	37	ear	kana	None	Sinhalese	21	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	224
+569	37	ear	kan̊fat̊	None	Dhivehi	21	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	215
+570	37	ear	kan	kan	Romani	21	k a n	1 7 4	AXN	KAN	12	12.K.C 12.A.V 12.N.c	2.0 1.5 0.8	0	224
+#
+856	57	earth	earth	ɜːθ	English	531	ɜː θ	7 3	XN	ED	4	4.E.V 4.D.c	1.5 0.8	0	229
+857	57	earth	dhartī	dʱəɾtiː	Hindi	22	dʱ ə ɾ t iː	1 7 5 1 7	AXMBZ	TERTI	6	6.T.C 6.E.V 6.R.c 6.T.C 6.I.V	2.0 1.5 1.1 1.75 0.8	0	227
+858	57	earth	zamīn	zamiːn	Urdu	22	z a m iː n	3 7 4 7 4	AXBYN	SAMIN	15	15.S.C 15.A.V 15.M.C 15.I.V 15.N.c	2.0 1.5 1.75 1.3 0.8	0	240
+859	57	earth	dhartī	pɾɪtʰʋiː	Nepali	22	p ɾ ɪ tʰ ʋ iː	1 5 7 1 6 7	ACXBCZ	PRITWI	9	9.P.C 9.R.C 9.I.V 9.T.C 9.W.C 9.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0	226
+860	57	earth	zamīn	None	Punjabi	22	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	236
+861	57	earth	dhartī	None	Sindhi	22	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	238
+862	57	earth	pṛthvī	None	Gujarati	22	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	230
+863	57	earth	pruthvī	pɾɪtʰʋiː	Marathi	118	p ɾ ɪ tʰ ʋ iː	1 5 7 1 6 7	ACXBCZ	PRITWI	8	8.P.C 8.R.C 8.I.V 8.T.C 8.W.C 8.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0	226
+864	57	earth	jamīn	None	Konkani	118	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	232
+865	57	earth	prithiwi	pitʰibi	Assamese	157	p i tʰ i b i	1 7 1 7 1 7	AXBYBZ	PITIPI	1	1.P.C 1.I.V 1.T.C 1.I.V 1.P.C 1.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0	226
+866	57	earth	maṭi	mati	Bengali	157	m a t i	4 7 1 7	AXBZ	MATI	2	2.M.C 2.A.V 2.T.C 2.I.V	2.0 1.5 1.75 0.8	0	227
+867	57	earth	pruthwi	None	Oriya	157	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	235
+868	57	earth	bima	None	Sinhalese	396	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	239
+869	57	earth	bin̊	bin	Dhivehi	118	b i n	1 7 4	AXN	PIN	3	3.P.C 3.I.V 3.N.c	2.0 1.5 0.8	0	228
+870	57	earth	phuv	None	Romani	118	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	237
+#
+466	31	egg	egg	ɛɡ	English	0	ɛ ɡ	7 1	XN	EK	4	4.E.V 4.K.c	1.5 0.8	0	244
+467	31	egg	aṇḍā	əɳɖɑː	Hindi	24	ə ɳ ɖ ɑː	7 4 1 7	XMBZ	ENTA	6	6.E.V 6.N.c 6.T.C 6.A.V	1.5 1.1 1.75 0.8	0	246
+468	31	egg	anḍā	None	Urdu	24	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	255
+469	31	egg	phul	əɳɖɑː	Nepali	24	ə ɳ ɖ ɑː	7 4 1 7	XMBZ	ENTA	9	9.E.V 9.N.c 9.T.C 9.A.V	1.5 1.1 1.75 0.8	0	246
+470	31	egg	iṅgā	None	Punjabi	24	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	251
+471	31	egg	āno	None	Sindhi	24	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	253
+472	31	egg	ī̃ḍũ	None	Gujarati	24	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	245
+473	31	egg	aṇḍe	əɳɖe	Marathi	24	ə ɳ ɖ e	7 4 1 7	XMBZ	ENTE	8	8.E.V 8.N.c 8.T.C 8.E.V	1.5 1.1 1.75 0.8	0	246
+474	31	egg	tātī	None	Konkani	-4	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	247
+475	31	egg	koni	kɔni	Assamese	304	k ɔ n i	1 7 4 7	AXBZ	KUNI	1	1.K.C 1.U.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	0	241
+476	31	egg	ḍim	dim	Bengali	304	d i m	1 7 4	AXN	TIM	2	2.T.C 2.I.V 2.M.c	2.0 1.5 0.8	0	242
+477	31	egg	ôṇḍa	ɔɳɖa	Oriya	304	ɔ ɳ ɖ a	7 4 1 7	XMBZ	UNTA	10	10.U.V 10.N.c 10.T.C 10.A.V	1.5 1.1 1.75 0.8	0	246
+478	31	egg	bittaraya	None	Sinhalese	24	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	241
+479	31	egg	bis	bis	Dhivehi	398	b i s	1 7 3	AXN	PIS	3	3.P.C 3.I.V 3.S.c	2.0 1.5 0.8	0	243
+480	31	egg	anro	None	Romani	24	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	252
+#
+571	38	eye	eye	aɪ	English	572	aɪ	7	X	A	4	4.A.V	1.5	1	259
+572	38	eye	ā̃kh	ɑːkʰ	Hindi	25	ɑː kʰ	7 1	XN	AK	6	6.A.V 6.K.c	1.5 0.8	0	261
+573	38	eye	ā̃kh	None	Urdu	25	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	270
+574	38	eye	ā̃khā	äkʰä	Nepali	25	ä kʰ ä	7 1 7	XBZ	AKA	9	9.A.V 9.K.C 9.A.V	1.5 1.75 0.8	0	261
+575	38	eye	akkha	əkːʰ	Punjabi	25	ə kːʰ	7 1	XN	EK	11	11.E.V 11.K.c	1.5 0.8	0	266
+576	38	eye	akhi	ɪkː	Sindhi	25	ɪ kː	7 1	XN	IK	13	13.I.V 13.K.c	1.5 0.8	0	268
+577	38	eye	ā̃kha	None	Gujarati	25	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	260
+578	38	eye	ḍoḷā	None	Marathi	274	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	263
+579	38	eye	doḷo	None	Konkani	274	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	262
+580	38	eye	soku	sɔku	Assamese	305	s ɔ k u	3 7 1 7	AXBZ	SUKY	1	1.S.C 1.U.V 1.K.C 1.Y.V	2.0 1.5 1.75 0.8	0	256
+581	38	eye	cokh	tʃokʰ	Bengali	305	t ʃ o kʰ	1 3 7 1	ACXN	TSUK	2	2.T.C 2.S.C 2.U.V 2.K.c	2.0 1.5 1.5 0.8	0	257
+582	38	eye	akhi	akʰi	Oriya	25	a kʰ i	7 1 7	XBZ	AKI	10	10.A.V 10.K.C 10.I.V	1.5 1.75 0.8	0	261
+583	38	eye	æsa	None	Sinhalese	25	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	263
+584	38	eye	lō	None	Dhivehi	529	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	258
+585	38	eye	jakh	None	Romani	25	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	267
+#
+451	30	fat	fat	fæt	English	619	f æ t	3 7 1	AXN	BET	4	4.B.C 4.E.V 4.T.c	2.0 1.5 0.8	0	274
+452	30	fat	carbī	tʃəɾbiː	Hindi	-2	t ʃ ə ɾ b iː	1 3 7 5 1 7	ACXMBZ	TSERPI	6	6.T.C 6.S.C 6.E.V 6.R.c 6.P.C 6.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0	272
+453	30	fat	carbī	tʃaɾbiː	Urdu	-2	t ʃ a ɾ b iː	1 3 7 5 1 7	ACXMBZ	TSARPI	15	15.T.C 15.S.C 15.A.V 15.R.c 15.P.C 15.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0	272
+454	30	fat	cillo	None	Nepali	361	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	279
+455	30	fat	carbī	None	Punjabi	-1	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	281
+456	30	fat	carɓī	None	Sindhi	-1	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	283
+457	30	fat	carbī	None	Gujarati	-1	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	275
+458	30	fat	carbī	tʃəɾbiː	Marathi	-5	t ʃ ə ɾ b iː	1 3 7 5 1 7	ACXMBZ	TSERPI	8	8.T.C 8.S.C 8.E.V 8.R.c 8.P.C 8.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0	272
+459	30	fat	vos	None	Konkani	361	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	277
+460	30	fat	sorri	tɛl	Assamese	-1	t ɛ l	1 7 5	AXN	TEL	1	1.T.C 1.E.V 1.L.c	2.0 1.5 0.8	0	271
+461	30	fat	côrbi	tʃorbi	Bengali	-3	t ʃ o r b i	1 3 7 5 1 7	ACXMBZ	TSURPI	2	2.T.C 2.S.C 2.U.V 2.R.c 2.P.C 2.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0	272
+462	30	fat	moṭa	None	Oriya	-3	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	280
+463	30	fat	mēda	None	Sinhalese	399	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	279
+464	30	fat	sarubī	None	Dhivehi	-1	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	273
+465	30	fat	thulo	None	Romani	220	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	282
+#
+511	34	feather	feather	ˈfɛðəɹ	English	669	ˈf ɛ ð ə ɹ	3 7 3 7 5	AXBYN	BEDER	4	4.B.C 4.E.V 4.D.C 4.E.V 4.R.c	2.0 1.5 1.75 1.3 0.8	0	287
+512	34	feather	paṅkh	pəŋkʰ	Hindi	26	p ə ŋ kʰ	1 7 4 1	AXLN	PENK	6	6.P.C 6.E.V 6.N.c 6.K.c	2.0 1.5 1.1 0.8	0	289
+513	34	feather	par	puɾ	Urdu	26	p u ɾ	1 7 5	AXN	PYR	15	15.P.C 15.Y.V 15.R.c	2.0 1.5 0.8	0	295
+514	34	feather	pwā̃kh	None	Nepali	26	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	292
+515	34	feather	pant	None	Punjabi	26	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	294
+516	34	feather	khambhu	None	Sindhi	119	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	296
+517	34	feather	pī̃chũ	None	Gujarati	250	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	288
+518	34	feather	pīs	pis	Marathi	26	p i s	1 7 3	AXN	PIS	8	8.P.C 8.I.V 8.S.c	2.0 1.5 0.8	0	291
+519	34	feather	pāk	pɑːk	Konkani	26	p ɑː k	1 7 1	AXN	PAK	7	7.P.C 7.A.V 7.K.c	2.0 1.5 0.8	0	289
+520	34	feather	pakhi	pakʰi	Assamese	26	p a kʰ i	1 7 1 7	AXBZ	PAKI	1	1.P.C 1.A.V 1.K.C 1.I.V	2.0 1.5 1.75 0.8	0	284
+521	34	feather	pôr	pɔɾ	Bengali	306	p ɔ ɾ	1 7 5	AXN	PUR	2	2.P.C 2.U.V 2.R.c	2.0 1.5 0.8	0	285
+522	34	feather	pôrô	pɔɾɔ	Oriya	306	p ɔ ɾ ɔ	1 7 5 7	AXBZ	PURU	10	10.P.C 10.U.V 10.R.C 10.U.V	2.0 1.5 1.75 0.8	0	285
+523	34	feather	pihāṭu	None	Sinhalese	250	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	292
+524	34	feather	dūnifat̊	None	Dhivehi	250	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	286
+525	34	feather	por	pɔɹ	Romani	-5	p ɔ ɹ	1 7 5	AXN	PUR	12	12.P.C 12.U.V 12.R.c	2.0 1.5 0.8	0	295
+#
+901	60	fire	fire	ˈfaɪə	English	727	ˈf aɪə	3 7	AX	BA	4	4.B.C 4.A.V	2.0 1.5	0	300
+902	60	fire	āg	ɑːɡ	Hindi	27	ɑː ɡ	7 1	XN	AK	6	6.A.V 6.K.c	1.5 0.8	0	302
+903	60	fire	āg	ɑːɡ	Urdu	27	ɑː ɡ	7 1	XN	AK	15	15.A.V 15.K.c	1.5 0.8	0	302
+904	60	fire	āgo	äɡo	Nepali	27	ä ɡ o	7 1 7	XBZ	AKU	9	9.A.V 9.K.C 9.U.V	1.5 1.75 0.8	0	298
+905	60	fire	agga	None	Punjabi	27	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	307
+906	60	fire	bāhi	None	Sindhi	679	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	309
+907	60	fire	āga	None	Gujarati	27	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	301
+908	60	fire	āg	ɑːɡ	Marathi	27	ɑː ɡ	7 1	XN	AK	8	8.A.V 8.K.c	1.5 0.8	0	302
+909	60	fire	ujo	uːzɔː	Konkani	334	uː z ɔː	7 3 7	XBZ	YSU	7	7.Y.V 7.S.C 7.U.V	1.5 1.75 0.8	0	303
+910	60	fire	zui	zui	Assamese	334	z ui	3 7	AX	SY	1	1.S.C 1.Y.V	2.0 1.5	0	297
+911	60	fire	agun	aɡun	Bengali	-4	a ɡ u n	7 1 7 4	XBYN	AKYN	2	2.A.V 2.K.C 2.Y.V 2.N.c	1.5 1.75 1.3 0.8	0	298
+912	60	fire	niam̐	None	Oriya	673	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	306
+913	60	fire	gini	None	Sinhalese	-2	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	310
+914	60	fire	alifān̊	əlifəːn	Dhivehi	531	ə l i f əː n	7 5 7 3 7 4	XBYBYN	ELIBEN	3	3.E.V 3.L.C 3.I.V 3.B.C 3.E.V 3.N.c	1.5 1.75 1.3 1.75 1.3 0.8	0	299
+915	60	fire	jag	dʒæɡ	Romani	27	d ʒ æ ɡ	1 3 7 1	ACXN	TSEK	12	12.T.C 12.S.C 12.E.V 12.K.c	2.0 1.5 1.5 0.8	0	308
+#
+256	17	fish	fish	fɪʃ	English	736	f ɪ ʃ	3 7 3	AXN	BIS	4	4.B.C 4.I.V 4.S.c	2.0 1.5 0.8	0	314
+257	17	fish	machlī	mətʃʰliː	Hindi	28	m ə t ʃʰ l iː	4 7 1 3 5 7	AXBCCZ	METSLI	6	6.M.C 6.E.V 6.T.C 6.S.C 6.L.C 6.I.V	2.0 1.5 1.75 1.5 1.5 0.8	0	316
+258	17	fish	machlī	mətʃʰliː	Urdu	28	m ə t ʃʰ l iː	4 7 1 3 5 7	AXBCCZ	METSLI	15	15.M.C 15.E.V 15.T.C 15.S.C 15.L.C 15.I.V	2.0 1.5 1.75 1.5 1.5 0.8	0	316
+259	17	fish	māchā	mätsʰä	Nepali	28	m ä t sʰ ä	4 7 1 3 7	AXBCZ	MATSA	9	9.M.C 9.A.V 9.T.C 9.S.C 9.A.V	2.0 1.5 1.75 1.5 0.8	0	316
+260	17	fish	macchī	mətʃʰːiː	Punjabi	28	m ə t ʃʰː iː	4 7 1 3 7	AXBCZ	METSI	11	11.M.C 11.E.V 11.T.C 11.S.C 11.I.V	2.0 1.5 1.75 1.5 0.8	0	316
+261	17	fish	machī	None	Sindhi	28	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	323
+262	17	fish	māchlī	None	Gujarati	28	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	315
+263	17	fish	māsā	None	Marathi	28	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	318
+264	17	fish	māsoḷī	None	Konkani	28	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	317
+265	17	fish	mas	mas	Assamese	28	m a s	4 7 3	AXN	MAS	1	1.M.C 1.A.V 1.S.c	2.0 1.5 0.8	0	311
+266	17	fish	mach	mas	Bengali	28	m a s	4 7 3	AXN	MAS	2	2.M.C 2.A.V 2.S.c	2.0 1.5 0.8	0	311
+267	17	fish	machô	matʃʰɔ	Oriya	28	m a t ʃʰ ɔ	4 7 1 3 7	AXBCZ	MATSU	10	10.M.C 10.A.V 10.T.C 10.S.C 10.U.V	2.0 1.5 1.75 1.5 0.8	0	316
+268	17	fish	māḷuwā	None	Sinhalese	-3	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	318
+269	17	fish	mas	None	Dhivehi	28	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	313
+270	17	fish	maćho	matʃʰo	Romani	28	m a t ʃʰ o	4 7 1 3 7	AXBCZ	MATSU	12	12.M.C 12.A.V 12.T.C 12.S.C 12.U.V	2.0 1.5 1.75 1.5 0.8	0	316
+#
+631	42	foot	foot	fʊt	English	833	f ʊ t	3 7 1	AXN	BYT	4	4.B.C 4.Y.V 4.T.c	2.0 1.5 0.8	0	327
+632	42	foot	pair	pɛːɾ	Hindi	30	p ɛː ɾ	1 7 5	AXN	PER	6	6.P.C 6.E.V 6.R.c	2.0 1.5 0.8	0	325
+633	42	foot	pair	pɑːũː	Urdu	30	p ɑːũː	1 7	AX	PA	15	15.P.C 15.A.V	2.0 1.5	0	325
+634	42	foot	pāu	kʰuʈʈä	Nepali	30	kʰ u ʈʈ ä	1 7 1 7	AXBZ	KYTA	9	9.K.C 9.Y.V 9.T.C 9.A.V	2.0 1.5 1.75 0.8	0	332
+635	42	foot	pair	pɛːɾ	Punjabi	30	p ɛː ɾ	1 7 5	AXN	PER	11	11.P.C 11.E.V 11.R.c	2.0 1.5 0.8	0	324
+636	42	foot	peru	None	Sindhi	30	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	336
+637	42	foot	pagno	None	Gujarati	30	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	328
+638	42	foot	pāūl	None	Marathi	30	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	331
+639	42	foot	pāy	paj	Konkani	30	p a j	1 7 6	AXN	PAJ	7	7.P.C 7.A.V 7.J.c	2.0 1.5 0.8	0	327
+640	42	foot	bhori	bʱoɹi	Assamese	30	bʱ o ɹ i	1 7 5 7	AXBZ	PURI	1	1.P.C 1.U.V 1.R.C 1.I.V	2.0 1.5 1.75 0.8	0	324
+641	42	foot	pa	pa	Bengali	30	p a	1 7	AX	PA	2	2.P.C 2.A.V	2.0 1.5	0	325
+642	42	foot	padô	None	Oriya	30	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	333
+643	42	foot	paya	None	Sinhalese	30	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	331
+644	42	foot	faitila	None	Dhivehi	30	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	326
+645	42	foot	punro	None	Romani	596	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	335
+#
+1081	72	full	full	fʊl	English	893	f ʊ l	3 7 5	AXN	BYL	4	4.B.C 4.Y.V 4.L.c	2.0 1.5 0.8	0	340
+1082	72	full	pūrā	puːɾɑː	Hindi	31	p uː ɾ ɑː	1 7 5 7	AXBZ	PYRA	6	6.P.C 6.Y.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	0	338
+1083	72	full	pūrā	puːɾɑː	Urdu	31	p uː ɾ ɑː	1 7 5 7	AXBZ	PYRA	15	15.P.C 15.Y.V 15.R.C 15.A.V	2.0 1.5 1.75 0.8	0	338
+1084	72	full	bharī	None	Nepali	31	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	345
+1085	72	full	pūrā	None	Punjabi	31	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	347
+1086	72	full	bharyal	None	Sindhi	31	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	349
+1087	72	full	bharelũ	None	Gujarati	32	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	341
+1088	72	full	sampūrṇa	səmpuːɾɳ	Marathi	31	s ə m p uː ɾ ɳ	3 7 4 1 7 5 4	AXMBYLN	SEMPYRN	8	8.S.C 8.E.V 8.M.c 8.P.C 8.Y.V 8.R.c 8.N.c	2.0 1.5 1.1 1.75 1.3 1.1 0.8	0	344
+1089	72	full	purāy	None	Konkani	31	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	343
+1090	72	full	bhora	None	Assamese	32	N o n e	0 7 4 7	AXBZ	0UNE	1	1.0.C 1.U.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	1	337
+1091	72	full	bhôra	bʰɔra	Bengali	31	bʰ ɔ r a	1 7 5 7	AXBZ	PURA	2	2.P.C 2.U.V 2.R.C 2.A.V	2.0 1.5 1.75 0.8	0	338
+1092	72	full	purṇṇô	None	Oriya	32	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	346
+1093	72	full	pura	None	Sinhalese	32	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	345
+1094	72	full	furifai	None	Dhivehi	32	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	339
+1095	72	full	pherdo	None	Romani	31	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	348
+#
+1111	74	good	good	ɡʊd	English	919	ɡ ʊ d	1 7 1	AXN	KYT	4	4.K.C 4.Y.V 4.T.c	2.0 1.5 0.8	0	353
+1112	74	good	acchā	ətʃtʃʰɑː	Hindi	34	ə t ʃ t ʃʰ ɑː	7 1 3 1 3 7	XBYBCZ	ETSTSA	6	6.E.V 6.T.C 6.S.V 6.T.C 6.S.C 6.A.V	1.5 1.75 1.3 1.75 1.5 0.8	0	355
+1113	74	good	acchā	ətʃtʃʰɑː	Urdu	34	ə t ʃ t ʃʰ ɑː	7 1 3 1 3 7	XBYBCZ	ETSTSA	15	15.E.V 15.T.C 15.S.V 15.T.C 15.S.C 15.A.V	1.5 1.75 1.3 1.75 1.5 0.8	0	355
+1114	74	good	rāmro	rämro	Nepali	362	r ä m r o	5 7 4 5 7	AXBCZ	RAMRU	9	9.R.C 9.A.V 9.M.C 9.R.C 9.U.V	2.0 1.5 1.75 1.5 0.8	0	358
+1115	74	good	caṅgā	tʃəŋɡɑː	Punjabi	34	t ʃ ə ŋ ɡ ɑː	1 3 7 4 1 7	ACXMBZ	TSENKA	11	11.T.C 11.S.C 11.E.V 11.N.c 11.K.C 11.A.V	2.0 1.5 1.5 1.1 1.75 0.8	0	360
+1116	74	good	suṭho	None	Sindhi	120	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	362
+1117	74	good	sārũ	None	Gujarati	184	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	354
+1118	74	good	cāṅgle	None	Marathi	120	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	357
+1119	74	good	barẽ	None	Konkani	120	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	356
+1120	74	good	bhal	bʱal	Assamese	184	bʱ a l	1 7 5	AXN	PAL	1	1.P.C 1.A.V 1.L.c	2.0 1.5 0.8	0	350
+1121	74	good	bhalo	bʱalo	Bengali	184	bʱ a l o	1 7 5 7	AXBZ	PALU	2	2.P.C 2.A.V 2.L.C 2.U.V	2.0 1.5 1.75 0.8	0	350
+1122	74	good	bhôlô	None	Oriya	184	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	359
+1123	74	good	hoⁿda	None	Sinhalese	402	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	357
+1124	74	good	raⁿgaḷu	None	Dhivehi	533	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	352
+1125	74	good	laćho	None	Romani	34	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	361
+#
+976	65	green	green	ɡɹiːn	English	955	ɡ ɹ iː n	1 5 7 4	ACXN	KRIN	4	4.K.C 4.R.C 4.I.V 4.N.c	2.0 1.5 1.5 0.8	0	366
+977	65	green	harā	ɦəˈɾaː	Hindi	35	ɦ ə ˈɾ aː	3 7 5 7	AXBZ	HERA	6	6.H.C 6.E.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	0	368
+978	65	green	sabz	sabz	Urdu	35	s a b z	3 7 1 3	AXBC	SAPS	15	15.S.C 15.A.V 15.P.C 15.S.C	2.0 1.5 1.75 1.5	0	363
+979	65	green	hariyo	ɦʌɾijo	Nepali	35	ɦ ʌ ɾ i j o	3 7 5 7 6 7	AXBYBZ	HERIJU	9	9.H.C 9.E.V 9.R.C 9.I.V 9.J.C 9.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0	368
+980	65	green	harā	None	Punjabi	35	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	373
+981	65	green	sāo	None	Sindhi	160	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	375
+982	65	green	līlo	None	Gujarati	253	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	367
+983	65	green	hirve	None	Marathi	35	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	370
+984	65	green	pācvoẽ	None	Konkani	612	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	369
+985	65	green	xeuzia	xɛuzia	Assamese	-2	x ɛu z ia	3 7 3 7	AXBZ	GESI	1	1.G.C 1.E.V 1.S.C 1.I.V	2.0 1.5 1.75 0.8	0	363
+986	65	green	śôbuj	None	Bengali	-5	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	364
+987	65	green	sôbujô	None	Oriya	-4	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	372
+988	65	green	koḷa	None	Sinhalese	404	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	370
+989	65	green	fehikulaige	None	Dhivehi	534	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	365
+990	65	green	zèleno	None	Romani	-6	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	374
+#
+526	35	hair	hair	hɛə	English	989	h ɛə	3 7	AX	HE	4	4.H.C 4.E.V	2.0 1.5	0	379
+527	35	hair	bāl	bɑːl	Hindi	36	b ɑː l	1 7 5	AXN	PAL	6	6.P.C 6.A.V 6.L.c	2.0 1.5 0.8	0	381
+528	35	hair	bāl	baːla	Urdu	36	b aː l a	1 7 5 7	AXBZ	PALA	15	15.P.C 15.A.V 15.L.C 15.A.V	2.0 1.5 1.75 0.8	0	381
+529	35	hair	kapāl	kɐjɕɐ	Nepali	36	k ɐ j ɕ ɐ	1 7 6 3 7	AXMBZ	KEJSE	9	9.K.C 9.E.V 9.J.c 9.S.C 9.E.V	2.0 1.5 1.1 1.75 0.8	0	382
+530	35	hair	vāl	ʋɑːl	Punjabi	36	ʋ ɑː l	6 7 5	AXN	WAL	11	11.W.C 11.A.V 11.L.c	2.0 1.5 0.8	0	386
+531	35	hair	vāra	ʋɑːɾ	Sindhi	36	ʋ ɑː ɾ	6 7 5	AXN	WAR	13	13.W.C 13.A.V 13.R.c	2.0 1.5 0.8	0	388
+532	35	hair	vāḷ	None	Gujarati	36	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	380
+533	35	hair	kes	kɛːs	Marathi	185	k ɛː s	1 7 3	AXN	KES	8	8.K.C 8.E.V 8.S.c	2.0 1.5 0.8	0	382
+534	35	hair	kes	kɛːs	Konkani	185	k ɛː s	1 7 3	AXN	KES	7	7.K.C 7.E.V 7.S.c	2.0 1.5 0.8	0	382
+535	35	hair	suli	suli	Assamese	308	s u l i	3 7 5 7	AXBZ	SYLI	1	1.S.C 1.Y.V 1.L.C 1.I.V	2.0 1.5 1.75 0.8	0	376
+536	35	hair	cul	tʃul	Bengali	308	t ʃ u l	1 3 7 5	ACXN	TSYL	2	2.T.C 2.S.C 2.Y.V 2.L.c	2.0 1.5 1.5 0.8	0	376
+537	35	hair	baḷô	None	Oriya	308	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	385
+538	35	hair	kes	None	Sinhalese	185	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	389
+539	35	hair	istaṣi	None	Dhivehi	535	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	378
+540	35	hair	bal	bal	Romani	36	b a l	1 7 5	AXN	PAL	12	12.P.C 12.A.V 12.L.c	2.0 1.5 0.8	0	381
+#
+661	44	hand	hand	hænd	English	1006	h æ n d	3 7 4 1	AXLN	HENT	4	4.H.C 4.E.V 4.N.c 4.T.c	2.0 1.5 1.1 0.8	0	393
+662	44	hand	hāth	ɦɑːtʰ	Hindi	37	ɦ ɑː tʰ	3 7 1	AXN	HAT	6	6.H.C 6.A.V 6.T.c	2.0 1.5 0.8	0	391
+663	44	hand	hāth	ɦɑːtʰ	Urdu	37	ɦ ɑː tʰ	3 7 1	AXN	HAT	15	15.H.C 15.A.V 15.T.c	2.0 1.5 0.8	0	391
+664	44	hand	hāt	ɦat	Nepali	37	ɦ a t	3 7 1	AXN	HAT	9	9.H.C 9.A.V 9.T.c	2.0 1.5 0.8	0	390
+665	44	hand	hattha	ɦətːʰə	Punjabi	37	ɦ ə tːʰ ə	3 7 1 7	AXBZ	HETE	11	11.H.C 11.E.V 11.T.C 11.E.V	2.0 1.5 1.75 0.8	0	390
+666	44	hand	hatha	None	Sindhi	37	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	402
+667	44	hand	hāth	None	Gujarati	37	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	394
+668	44	hand	hāt	ɦat	Marathi	37	ɦ a t	3 7 1	AXN	HAT	8	8.H.C 8.A.V 8.T.c	2.0 1.5 0.8	0	393
+669	44	hand	hāt	ɦat	Konkani	37	ɦ a t	3 7 1	AXN	HAT	7	7.H.C 7.A.V 7.T.c	2.0 1.5 0.8	0	391
+670	44	hand	hat	ɦat	Assamese	37	ɦ a t	3 7 1	AXN	HAT	1	1.H.C 1.A.V 1.T.c	2.0 1.5 0.8	0	390
+671	44	hand	hat	ɦat	Bengali	37	ɦ a t	3 7 1	AXN	HAT	2	2.H.C 2.A.V 2.T.c	2.0 1.5 0.8	0	391
+672	44	hand	hatô	hatɔ	Oriya	37	h a t ɔ	3 7 1 7	AXBZ	HATU	10	10.H.C 10.A.V 10.T.C 10.U.V	2.0 1.5 1.75 0.8	0	390
+673	44	hand	ata	None	Sinhalese	37	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	403
+674	44	hand	at̊	None	Dhivehi	37	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	392
+675	44	hand	vast	vɑːst	Romani	37	v ɑː s t	3 7 3 1	AXLN	BAST	12	12.B.C 12.A.V 12.S.c 12.T.c	2.0 1.5 1.1 0.8	0	401
+#
+541	36	head	head	hɛd	English	1026	h ɛ d	3 7 1	AXN	HET	4	4.H.C 4.E.V 4.T.c	2.0 1.5 0.8	0	407
+542	36	head	sir	sɪɾ	Hindi	38	s ɪ ɾ	3 7 5	AXN	SIR	6	6.S.C 6.I.V 6.R.c	2.0 1.5 0.8	0	409
+543	36	head	sar	saɾ	Urdu	38	s a ɾ	3 7 5	AXN	SAR	15	15.S.C 15.A.V 15.R.c	2.0 1.5 0.8	0	409
+544	36	head	ṭāuko	None	Nepali	338	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	412
+545	36	head	sir	sɪɾə	Punjabi	38	s ɪ ɾ ə	3 7 5 7	AXBZ	SIRE	11	11.S.C 11.I.V 11.R.C 11.E.V	2.0 1.5 1.75 0.8	0	409
+546	36	head	matho	None	Sindhi	38	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	416
+547	36	head	māthũ	None	Gujarati	186	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	408
+548	36	head	ḍoke	None	Marathi	254	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	411
+549	36	head	taklī	None	Konkani	186	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	410
+550	36	head	mur	matʰa	Assamese	338	m a tʰ a	4 7 1 7	AXBZ	MATA	1	1.M.C 1.A.V 1.T.C 1.A.V	2.0 1.5 1.75 0.8	0	404
+551	36	head	matha	matʰa	Bengali	186	m a tʰ a	4 7 1 7	AXBZ	MATA	2	2.M.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	0	404
+552	36	head	muṇḍô	None	Oriya	38	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	413
+553	36	head	oluwa	None	Sinhalese	38	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	411
+554	36	head	saru	None	Dhivehi	38	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	406
+555	36	head	śero	None	Romani	38	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	415
+#
+721	48	heart	heart	hɑːt	English	1049	h ɑː t	3 7 1	AXN	HAT	4	4.H.C 4.A.V 4.T.c	2.0 1.5 0.8	0	420
+722	48	heart	dil	dɪl	Hindi	-3	d ɪ l	1 7 5	AXN	TIL	6	6.T.C 6.I.V 6.L.c	2.0 1.5 0.8	0	422
+723	48	heart	dil	dalla	Urdu	-3	d a ll a	1 7 5 7	AXBZ	TALA	15	15.T.C 15.A.V 15.L.C 15.A.V	2.0 1.5 1.75 0.8	0	422
+724	48	heart	muṭu	ɦɾɪdəj	Nepali	365	ɦ ɾ ɪ d ə j	3 5 7 1 7 6	ACXBYN	HRITEJ	9	9.H.C 9.R.C 9.I.V 9.T.C 9.E.V 9.J.c	2.0 1.5 1.5 1.75 1.3 0.8	0	424
+725	48	heart	dil	dɪl	Punjabi	-2	d ɪ l	1 7 5	AXN	TIL	11	11.T.C 11.I.V 11.L.c	2.0 1.5 0.8	0	422
+726	48	heart	dil	dalla	Sindhi	161	d a ll a	1 7 5 7	AXBZ	TALA	13	13.T.C 13.A.V 13.L.C 13.A.V	2.0 1.5 1.75 0.8	0	423
+727	48	heart	hṛdya	None	Gujarati	-2	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	421
+728	48	heart	hruday	ɦɾɪdəj	Marathi	-6	ɦ ɾ ɪ d ə j	3 5 7 1 7 6	ACXBYN	HRITEJ	8	8.H.C 8.R.C 8.I.V 8.T.C 8.E.V 8.J.c	2.0 1.5 1.5 1.75 1.3 0.8	0	424
+729	48	heart	haḍḍẽ	None	Konkani	143	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	423
+730	48	heart	hia	amɔtʰu	Assamese	161	a m ɔ tʰ u	7 4 7 1 7	XBYBZ	AMUTY	1	1.A.V 1.M.C 1.U.V 1.T.C 1.Y.V	1.5 1.75 1.3 1.75 0.8	0	417
+731	48	heart	hridôẏ	None	Bengali	-6	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	418
+732	48	heart	hrudôyô	None	Oriya	-5	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	426
+733	48	heart	hadawata	None	Sinhalese	161	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	418
+734	48	heart	hit̊	None	Dhivehi	161	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	419
+735	48	heart	ilo	ˈʔilo	Romani	161	ˈʔ i l o	1 7 5 7	AXBZ	HILU	12	12.H.C 12.I.V 12.L.C 12.U.V	2.0 1.5 1.75 0.8	0	428
+#
+481	32	horn	horn	hɔːn	English	1113	h ɔː n	3 7 4	AXN	HUN	4	4.H.C 4.U.V 4.N.c	2.0 1.5 0.8	0	432
+482	32	horn	sīṅg	siːŋɡ	Hindi	40	s iː ŋ ɡ	3 7 4 1	AXLN	SINK	6	6.S.C 6.I.V 6.N.c 6.K.c	2.0 1.5 1.1 0.8	0	434
+483	32	horn	sīng	siːŋɡ	Urdu	40	s iː ŋ ɡ	3 7 4 1	AXLN	SINK	15	15.S.C 15.I.V 15.N.c 15.K.c	2.0 1.5 1.1 0.8	0	434
+484	32	horn	siṅ	None	Nepali	40	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	437
+485	32	horn	siṅg	None	Punjabi	40	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	439
+486	32	horn	siṅu	None	Sindhi	40	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	441
+487	32	horn	śī̃gḍũ	None	Gujarati	40	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	433
+488	32	horn	śiṅga	ɕiŋɡə	Marathi	40	ɕ i ŋ ɡ ə	3 7 4 1 7	AXMBZ	SINKE	8	8.S.C 8.I.V 8.N.c 8.K.C 8.E.V	2.0 1.5 1.1 1.75 0.8	0	434
+489	32	horn	śīṅga	None	Konkani	40	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	435
+490	32	horn	xiṅ	xiŋ	Assamese	40	x i ŋ	3 7 4	AXN	GIN	1	1.G.C 1.I.V 1.N.c	2.0 1.5 0.8	0	429
+491	32	horn	śiṅ	xiŋ	Bengali	40	x i ŋ	3 7 4	AXN	GIN	2	2.G.C 2.I.V 2.N.c	2.0 1.5 0.8	0	429
+492	32	horn	śiṅgô	siŋɡɔ	Oriya	40	s i ŋ ɡ ɔ	3 7 4 1 7	AXMBZ	SINKU	10	10.S.C 10.I.V 10.N.c 10.K.C 10.U.V	2.0 1.5 1.1 1.75 0.8	0	434
+493	32	horn	aⁿga	None	Sinhalese	40	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	437
+494	32	horn	daḷu	None	Dhivehi	537	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	431
+495	32	horn	śing	None	Romani	40	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	440
+#
+646	43	knee	knee	niː	English	1234	n iː	4 7	AX	NI	4	4.N.C 4.I.V	2.0 1.5	0	445
+647	43	knee	ghuṭnā	ɡʱʊʈnɑː	Hindi	43	ɡʱ ʊ ʈ n ɑː	1 7 1 4 7	AXBCZ	KYTNA	6	6.K.C 6.Y.V 6.T.C 6.N.C 6.A.V	2.0 1.5 1.75 1.5 0.8	0	447
+648	43	knee	ghuṭnā	None	Urdu	43	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	456
+649	43	knee	ghũḍā	None	Nepali	43	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	445
+650	43	knee	goḍe	None	Punjabi	122	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	452
+651	43	knee	goᶑo	None	Sindhi	122	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	454
+652	43	knee	ghū̃ṭaṇ	None	Gujarati	122	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	446
+653	43	knee	guḍghā	None	Marathi	122	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	449
+654	43	knee	dopor	None	Konkani	613	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	448
+655	43	knee	ãthu	ãtʰu	Assamese	225	ã tʰ u	7 1 7	XBZ	ATY	1	1.A.V 1.T.C 1.Y.V	1.5 1.75 0.8	0	442
+656	43	knee	hãṭu	ˈɦaʈu	Bengali	225	ˈɦ a ʈ u	3 7 1 7	AXBZ	HATY	2	2.H.C 2.A.V 2.T.C 2.Y.V	2.0 1.5 1.75 0.8	0	442
+657	43	knee	aṇṭhu	aɳʈʰu	Oriya	225	a ɳ ʈʰ u	7 4 1 7	XMBZ	ANTY	10	10.A.V 10.N.c 10.T.C 10.Y.V	1.5 1.1 1.75 0.8	0	442
+658	43	knee	dana	None	Sinhalese	144	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	449
+659	43	knee	kakū	None	Dhivehi	538	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	444
+660	43	knee	chang	tɕãɴ	Romani	587	t ɕ ã ɴ	1 3 7 4	ACXN	TSAN	12	12.T.C 12.S.C 12.A.V 12.N.c	2.0 1.5 1.5 0.8	0	453
+#
+346	23	leaf	leaf	liːf	English	1270	l iː f	5 7 3	AXN	LIB	4	4.L.C 4.I.V 4.B.c	2.0 1.5 0.8	0	460
+347	23	leaf	pattā	pəttɑː	Hindi	45	p ə tt ɑː	1 7 1 7	AXBZ	PETA	6	6.P.C 6.E.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	0	458
+348	23	leaf	pattā	pətɑː	Urdu	45	p ə t ɑː	1 7 1 7	AXBZ	PETA	15	15.P.C 15.E.V 15.T.C 15.A.V	2.0 1.5 1.75 0.8	0	458
+349	23	leaf	pāt	pɑːt	Nepali	45	p ɑː t	1 7 1	AXN	PAT	9	9.P.C 9.A.V 9.T.c	2.0 1.5 0.8	0	465
+350	23	leaf	patā	None	Punjabi	45	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	467
+351	23	leaf	panu	None	Sindhi	189	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	469
+352	23	leaf	pā̃dḍũ	None	Gujarati	189	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	461
+353	23	leaf	pān	pɑːn	Marathi	189	p ɑː n	1 7 4	AXN	PAN	8	8.P.C 8.A.V 8.N.c	2.0 1.5 0.8	0	463
+354	23	leaf	pān	pɑːn	Konkani	189	p ɑː n	1 7 4	AXN	PAN	7	7.P.C 7.A.V 7.N.c	2.0 1.5 0.8	0	463
+355	23	leaf	pat	None	Assamese	45	N o n e	0 7 4 7	AXBZ	0UNE	1	1.0.C 1.U.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	1	457
+356	23	leaf	pata	pata	Bengali	45	p a t a	1 7 1 7	AXBZ	PATA	2	2.P.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	0	458
+357	23	leaf	pôtrô	pɔtɾɔ	Oriya	-6	p ɔ t ɾ ɔ	1 7 1 5 7	AXBCZ	PUTRU	10	10.P.C 10.U.V 10.T.C 10.R.C 10.U.V	2.0 1.5 1.75 1.5 0.8	0	465
+358	23	leaf	koḷē	None	Sinhalese	45	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	470
+359	23	leaf	fat̊	None	Dhivehi	45	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	459
+360	23	leaf	patrin	None	Romani	45	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	468
+#
+736	49	liver	liver	ˈlɪvə	English	1325	ˈl ɪ v ə	5 7 3 7	AXBZ	LIBE	4	4.L.C 4.I.V 4.B.C 4.E.V	2.0 1.5 1.75 0.8	0	474
+737	49	liver	jigar	kəleːdʒɑː	Hindi	48	k ə l eː d ʒ ɑː	1 7 5 7 1 3 7	AXBYBCZ	KELETSA	6	6.K.C 6.E.V 6.L.C 6.E.V 6.T.C 6.S.C 6.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	0	471
+738	49	liver	jigar	dʒiɡaɾ	Urdu	48	d ʒ i ɡ a ɾ	1 3 7 1 7 5	ACXBYN	TSIKAR	15	15.T.C 15.S.C 15.I.V 15.K.C 15.A.V 15.R.c	2.0 1.5 1.5 1.75 1.3 0.8	0	483
+739	49	liver	kalejo	kʌledzo	Nepali	48	k ʌ l e d z o	1 7 5 7 1 3 7	AXBYBCZ	KELETSU	9	9.K.C 9.E.V 9.L.C 9.E.V 9.T.C 9.S.C 9.U.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	0	471
+740	49	liver	jigar	None	Punjabi	48	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	481
+741	49	liver	jigaru	dʒiɡaɾ	Sindhi	190	d ʒ i ɡ a ɾ	1 3 7 1 7 5	ACXBYN	TSIKAR	13	13.T.C 13.S.C 13.I.V 13.K.C 13.A.V 13.R.c	2.0 1.5 1.5 1.75 1.3 0.8	0	483
+742	49	liver	yakṛt	None	Gujarati	48	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	475
+743	49	liver	yakrut	None	Marathi	-7	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	478
+744	49	liver	yakrut	None	Konkani	48	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	477
+745	49	liver	zokrit	kɔliza	Assamese	-3	k ɔ l i z a	1 7 5 7 3 7	AXBYBZ	KULISA	1	1.K.C 1.U.V 1.L.C 1.I.V 1.S.C 1.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0	471
+746	49	liver	kôlje	None	Bengali	-7	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	472
+747	49	liver	jôkrutô	None	Oriya	48	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	480
+748	49	liver	akmāwa	None	Sinhalese	410	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	478
+749	49	liver	mē	None	Dhivehi	539	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	473
+750	49	liver	puko	None	Romani	496	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	482
+#
+196	13	long	long	ˈlɒŋ	English	1344	ˈl ɒ ŋ	5 7 4	AXN	LON	4	4.L.C 4.O.V 4.N.c	2.0 1.5 0.8	0	487
+197	13	long	lambā	ləmbɑː	Hindi	49	l ə m b ɑː	5 7 4 1 7	AXMBZ	LEMPA	6	6.L.C 6.E.V 6.M.c 6.P.C 6.A.V	2.0 1.5 1.1 1.75 0.8	0	489
+198	13	long	lambā	ləmbɑː	Urdu	49	l ə m b ɑː	5 7 4 1 7	AXMBZ	LEMPA	15	15.L.C 15.E.V 15.M.c 15.P.C 15.A.V	2.0 1.5 1.1 1.75 0.8	0	489
+199	13	long	lāmo	lämo	Nepali	49	l ä m o	5 7 4 7	AXBZ	LAMU	9	9.L.C 9.A.V 9.M.C 9.U.V	2.0 1.5 1.75 0.8	0	492
+200	13	long	lammā	None	Punjabi	49	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	494
+201	13	long	ḍigho	None	Sindhi	191	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	496
+202	13	long	lā̃bu	None	Gujarati	49	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	488
+203	13	long	lāmba	None	Marathi	49	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	491
+204	13	long	lāmba	None	Konkani	191	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	490
+205	13	long	dighol	None	Assamese	191	N o n e	0 7 4 7	AXBZ	0UNE	1	1.0.C 1.U.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	1	484
+206	13	long	lômba	None	Bengali	49	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	485
+207	13	long	lômba	diɾɡʱɔ	Oriya	49	d i ɾ ɡʱ ɔ	1 7 5 1 7	AXMBZ	TIRKU	10	10.T.C 10.I.V 10.R.c 10.K.C 10.U.V	2.0 1.5 1.1 1.75 0.8	0	493
+208	13	long	diga	None	Sinhalese	191	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	491
+209	13	long	digu	diɡu	Dhivehi	191	d i ɡ u	1 7 1 7	AXBZ	TIKY	3	3.T.C 3.I.V 3.K.C 3.Y.V	2.0 1.5 1.75 0.8	0	486
+210	13	long	lùngo	None	Romani	-7	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	495
+#
+301	20	louse	louse	laʊs	English	1363	l aʊ s	5 7 3	AXN	LAS	4	4.L.C 4.A.V 4.S.c	2.0 1.5 0.8	0	500
+302	20	louse	jū̃	dʒũː	Hindi	50	d ʒ ũː	1 3 7	ACX	TSY	6	6.T.C 6.S.C 6.Y.V	2.0 1.5 1.5	0	502
+303	20	louse	jū̃	dʒũː	Urdu	50	d ʒ ũː	1 3 7	ACX	TSY	15	15.T.C 15.S.C 15.Y.V	2.0 1.5 1.5	0	502
+304	20	louse	jumrā	dzumrä	Nepali	50	d z u m r ä	1 3 7 4 5 7	ACXBCZ	TSYMRA	9	9.T.C 9.S.C 9.Y.V 9.M.C 9.R.C 9.A.V	2.0 1.5 1.5 1.75 1.5 0.8	0	502
+305	20	louse	jū̃	None	Punjabi	50	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	507
+306	20	louse	jū̃a	dʒon	Sindhi	50	d ʒ o n	1 3 7 4	ACXN	TSUN	13	13.T.C 13.S.C 13.U.V 13.N.c	2.0 1.5 1.5 0.8	0	502
+307	20	louse	jū	None	Gujarati	50	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	501
+308	20	louse	ū	uː	Marathi	50	uː	7	X	Y	8	8.Y.V	1.5	0	504
+309	20	louse	ūv	None	Konkani	50	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	503
+310	20	louse	ükoni	None	Assamese	50	N o n e	0 7 4 7	AXBZ	0UNE	1	1.0.C 1.U.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	1	497
+311	20	louse	ukun	None	Bengali	50	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	498
+312	20	louse	ukuṇi	None	Oriya	50	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	506
+313	20	louse	ukuṇā	None	Sinhalese	50	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	498
+314	20	louse	ukunu	None	Dhivehi	50	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	499
+315	20	louse	ʒuv	None	Romani	50	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	508
+#
+241	16	man	man	mæn	English	1372	m æ n	4 7 4	AXN	MEN	4	4.M.C 4.E.V 4.N.c	2.0 1.5 0.8	0	512
+242	16	man	ādmī	ɑːdmiː	Hindi	-4	ɑː d m iː	7 1 4 7	XBCZ	ATMI	6	6.A.V 6.T.C 6.M.C 6.I.V	1.5 1.75 1.5 0.8	0	514
+243	16	man	ādmī	ɑːdmiː	Urdu	-3	ɑː d m iː	7 1 4 7	XBCZ	ATMI	15	15.A.V 15.T.C 15.M.C 15.I.V	1.5 1.75 1.5 0.8	0	514
+244	16	man	puruṣ	pʊɾʊʂ	Nepali	192	p ʊ ɾ ʊ ʂ	1 7 5 7 3	AXBYN	PYRYS	9	9.P.C 9.Y.V 9.R.C 9.Y.V 9.S.c	2.0 1.5 1.75 1.3 0.8	0	516
+245	16	man	ādamī	aːdmiː	Punjabi	-3	aː d m iː	7 1 4 7	XBCZ	ATMI	11	11.A.V 11.T.C 11.M.C 11.I.V	1.5 1.75 1.5 0.8	0	514
+246	16	man	māṇhū	maɾd	Sindhi	192	m a ɾ d	4 7 5 1	AXLN	MART	13	13.M.C 13.A.V 13.R.c 13.T.c	2.0 1.5 1.1 0.8	0	521
+247	16	man	puruṣ	None	Gujarati	256	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	513
+248	16	man	puruṣ	pʊɾʊʂ	Marathi	-8	p ʊ ɾ ʊ ʂ	1 7 5 7 3	AXBYN	PYRYS	8	8.P.C 8.Y.V 8.R.C 8.Y.V 8.S.c	2.0 1.5 1.75 1.3 0.8	0	516
+249	16	man	didlo	None	Konkani	192	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	515
+250	16	man	mota	mɔtamanuʱ	Assamese	192	m ɔ t a m a n uʱ	4 7 1 7 4 7 4 7	AXBYBYBZ	MUTAMANY	1	1.M.C 1.U.V 1.T.C 1.A.V 1.M.C 1.A.V 1.N.C 1.Y.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	0	509
+251	16	man	puruś	None	Bengali	192	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	510
+252	16	man	puruṣô	None	Oriya	-7	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	518
+253	16	man	pirimiyā	None	Sinhalese	411	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	512
+254	16	man	firihen̊	None	Dhivehi	123	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	511
+255	16	man	murś	None	Romani	123	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	520
+#
+136	9	many	many	ˈmɛni	English	1396	ˈm ɛ n i	4 7 4 7	AXBZ	MENI	4	4.M.C 4.E.V 4.N.C 4.I.V	2.0 1.5 1.75 0.8	0	525
+137	9	many	bahut	bəɦʊt	Hindi	51	b ə ɦ ʊ t	1 7 3 7 1	AXBYN	PEHYT	6	6.P.C 6.E.V 6.H.C 6.Y.V 6.T.c	2.0 1.5 1.75 1.3 0.8	0	522
+138	9	many	bahut	bəɦoːt	Urdu	51	b ə ɦ oː t	1 7 3 7 1	AXBYN	PEHUT	15	15.P.C 15.E.V 15.H.C 15.U.V 15.T.c	2.0 1.5 1.75 1.3 0.8	0	522
+139	9	many	dherai	None	Nepali	367	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	530
+140	9	many	bahut	boːɦtᵊ	Punjabi	51	b oː ɦ tᵊ	1 7 3 1	AXLN	PUHT	11	11.P.C 11.U.V 11.H.c 11.T.c	2.0 1.5 1.1 0.8	0	532
+141	9	many	ghaṇā	None	Sindhi	193	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	534
+142	9	many	bahu	None	Gujarati	193	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	526
+143	9	many	puṣkaḷ	None	Marathi	280	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	525
+144	9	many	khūb	kʰuːb	Konkani	-5	kʰ uː b	1 7 1	AXN	KYP	7	7.K.C 7.Y.V 7.P.c	2.0 1.5 0.8	0	528
+145	9	many	bohut	bɔɦut	Assamese	51	b ɔ ɦ u t	1 7 3 7 1	AXBYN	PUHYT	1	1.P.C 1.U.V 1.H.C 1.Y.V 1.T.c	2.0 1.5 1.75 1.3 0.8	0	522
+146	9	many	ônek	ɔnek	Bengali	51	ɔ n e k	7 4 7 1	XBYN	UNEK	2	2.U.V 2.N.C 2.E.V 2.K.c	1.5 1.75 1.3 0.8	0	523
+147	9	many	ônekô	None	Oriya	51	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	531
+148	9	many	goḍak	None	Sinhalese	51	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	525
+149	9	many	baivaru	None	Dhivehi	51	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	524
+150	9	many	but	bʌt	Romani	51	b ʌ t	1 7 1	AXN	PET	12	12.P.C 12.E.V 12.T.c	2.0 1.5 0.8	0	522
+#
+406	27	meat	meat	miːt	English	1410	m iː t	4 7 1	AXN	MIT	4	4.M.C 4.I.V 4.T.c	2.0 1.5 0.8	0	538
+407	27	meat	mā̃s	mɑːs	Hindi	-5	m ɑː s	4 7 3	AXN	MAS	6	6.M.C 6.A.V 6.S.c	2.0 1.5 0.8	0	535
+408	27	meat	gośt	ɡoːʃt	Urdu	-5	ɡ oː ʃ t	1 7 3 1	AXLN	KUST	15	15.K.C 15.U.V 15.S.c 15.T.c	2.0 1.5 1.1 0.8	0	547
+409	27	meat	māsu	mäsu	Nepali	124	m ä s u	4 7 3 7	AXBZ	MASY	9	9.M.C 9.A.V 9.S.C 9.Y.V	2.0 1.5 1.75 0.8	0	535
+410	27	meat	mās	None	Punjabi	124	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	545
+411	27	meat	gośt	ɡoːʃt	Sindhi	124	ɡ oː ʃ t	1 7 3 1	AXLN	KUST	13	13.K.C 13.U.V 13.S.c 13.T.c	2.0 1.5 1.1 0.8	0	547
+412	27	meat	mā̃s	None	Gujarati	124	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	539
+413	27	meat	mās	mɑːs	Marathi	124	m ɑː s	4 7 3	AXN	MAS	8	8.M.C 8.A.V 8.S.c	2.0 1.5 0.8	0	535
+414	27	meat	mās	mɑːs	Konkani	124	m ɑː s	4 7 3	AXN	MAS	7	7.M.C 7.A.V 7.S.c	2.0 1.5 0.8	0	541
+415	27	meat	moṅoh	maŋxɔ	Assamese	124	m a ŋ x ɔ	4 7 4 3 7	AXMBZ	MANGU	1	1.M.C 1.A.V 1.N.c 1.G.C 1.U.V	2.0 1.5 1.1 1.75 0.8	0	535
+416	27	meat	maṅś	None	Bengali	124	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	536
+417	27	meat	maṃsô	mãsɔ	Oriya	124	m ã s ɔ	4 7 3 7	AXBZ	MASU	10	10.M.C 10.A.V 10.S.C 10.U.V	2.0 1.5 1.75 0.8	0	535
+418	27	meat	mas	None	Sinhalese	124	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	536
+419	27	meat	mas	None	Dhivehi	124	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	537
+420	27	meat	mas	mas	Romani	124	m a s	4 7 3	AXN	MAS	12	12.M.C 12.A.V 12.S.c	2.0 1.5 0.8	0	541
+#
+766	51	moon	moon	muːn	English	1429	m uː n	4 7 4	AXN	MYN	4	4.M.C 4.Y.V 4.N.c	2.0 1.5 0.8	0	551
+767	51	moon	cānd	tʃɑːnd	Hindi	52	t ʃ ɑː n d	1 3 7 4 1	ACXLN	TSANT	6	6.T.C 6.S.C 6.A.V 6.N.c 6.T.c	2.0 1.5 1.5 1.1 0.8	0	549
+768	51	moon	cānd	tʃɑːnd	Urdu	52	t ʃ ɑː n d	1 3 7 4 1	ACXLN	TSANT	15	15.T.C 15.S.C 15.A.V 15.N.c 15.T.c	2.0 1.5 1.5 1.1 0.8	0	549
+769	51	moon	jun	tʃəndɾəmɑː	Nepali	340	t ʃ ə n d ɾ ə m ɑː	1 3 7 4 1 5 7 4 7	ACXMBCYBZ	TSENTREMA	9	9.T.C 9.S.C 9.E.V 9.N.c 9.T.C 9.R.C 9.E.V 9.M.C 9.A.V	2.0 1.5 1.5 1.1 1.75 1.5 1.3 1.75 0.8	0	554
+770	51	moon	cand	tʃənd	Punjabi	52	t ʃ ə n d	1 3 7 4 1	ACXLN	TSENT	11	11.T.C 11.S.C 11.E.V 11.N.c 11.T.c	2.0 1.5 1.5 1.1 0.8	0	549
+771	51	moon	canḍu	None	Sindhi	52	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	560
+772	51	moon	candra	None	Gujarati	52	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	552
+773	51	moon	candra	tʃəndɾᵊ	Marathi	52	t ʃ ə n d ɾᵊ	1 3 7 4 1 5	ACXMBC	TSENTR	8	8.T.C 8.S.C 8.E.V 8.N.c 8.T.C 8.R.C	2.0 1.5 1.5 1.1 1.75 1.5	0	554
+774	51	moon	candra	tʃəndɾᵊ	Konkani	52	t ʃ ə n d ɾᵊ	1 3 7 4 1 5	ACXMBC	TSENTR	7	7.T.C 7.S.C 7.E.V 7.N.c 7.T.C 7.R.C	2.0 1.5 1.5 1.1 1.75 1.5	0	554
+775	51	moon	zün	zʊn	Assamese	340	z ʊ n	3 7 4	AXN	SYN	1	1.S.C 1.Y.V 1.N.c	2.0 1.5 0.8	0	548
+776	51	moon	cãdô	sãd	Bengali	52	s ã d	3 7 1	AXN	SAT	2	2.S.C 2.A.V 2.T.c	2.0 1.5 0.8	0	549
+777	51	moon	côndrô	dʒɔhnɔ	Oriya	-8	d ʒ ɔ h n ɔ	1 3 7 3 4 7	ACXBCZ	TSUHNU	10	10.T.C 10.S.C 10.U.V 10.H.C 10.N.C 10.U.V	2.0 1.5 1.5 1.75 1.5 0.8	0	557
+778	51	moon	haⁿda	None	Sinhalese	52	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	561
+779	51	moon	haⁿdu	həⁿdu	Dhivehi	52	h əⁿ d u	3 7 1 7	AXBZ	HETY	3	3.H.C 3.E.V 3.T.C 3.Y.V	2.0 1.5 1.75 0.8	0	550
+780	51	moon	ćhon	None	Romani	340	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	559
+#
+946	63	mountain	mountain	ˈmaʊntɪn	English	1461	ˈm aʊ n t ɪ n	4 7 4 1 7 4	AXMBYN	MANTIN	4	4.M.C 4.A.V 4.N.c 4.T.C 4.I.V 4.N.c	2.0 1.5 1.1 1.75 1.3 0.8	0	565
+947	63	mountain	pahāṛ	pəɦɑːɽ	Hindi	53	p ə ɦ ɑː ɽ	1 7 3 7 5	AXBYN	PEHAR	6	6.P.C 6.E.V 6.H.C 6.A.V 6.R.c	2.0 1.5 1.75 1.3 0.8	0	562
+948	63	mountain	pahāṛ	pəɦɑːɽ	Urdu	53	p ə ɦ ɑː ɽ	1 7 3 7 5	AXBYN	PEHAR	15	15.P.C 15.E.V 15.H.C 15.A.V 15.R.c	2.0 1.5 1.75 1.3 0.8	0	562
+949	63	mountain	pahāḍ	päːɽ	Nepali	53	p äː ɽ	1 7 5	AXN	PAR	9	9.P.C 9.A.V 9.R.c	2.0 1.5 0.8	0	562
+950	63	mountain	pahāṛ	None	Punjabi	53	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	572
+951	63	mountain	jabalu	dʒabal	Sindhi	53	d ʒ a b a l	1 3 7 1 7 5	ACXBYN	TSAPAL	13	13.T.C 13.S.C 13.A.V 13.P.C 13.A.V 13.L.c	2.0 1.5 1.5 1.75 1.3 0.8	0	574
+952	63	mountain	parvat	None	Gujarati	53	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	566
+953	63	mountain	ḍoṅgar	None	Marathi	53	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	569
+954	63	mountain	doṅgar	None	Konkani	-6	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	568
+955	63	mountain	pahar	paɦaɹ	Assamese	53	p a ɦ a ɹ	1 7 3 7 5	AXBYN	PAHAR	1	1.P.C 1.A.V 1.H.C 1.A.V 1.R.c	2.0 1.5 1.75 1.3 0.8	0	562
+956	63	mountain	pahaṛ	pahaɽ	Bengali	53	p a h a ɽ	1 7 3 7 5	AXBYN	PAHAR	2	2.P.C 2.A.V 2.H.C 2.A.V 2.R.c	2.0 1.5 1.75 1.3 0.8	0	562
+957	63	mountain	pôhaṛô	None	Oriya	-9	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	571
+958	63	mountain	kanda	None	Sinhalese	-4	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	569
+959	63	mountain	farubada	None	Dhivehi	-2	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	564
+960	63	mountain	plaj	None	Romani	-8	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	573
+#
+1156	77	name	name	neɪm	English	1493	n eɪ m	4 7 4	AXN	NEM	4	4.N.C 4.E.V 4.M.c	2.0 1.5 0.8	0	575
+1157	77	name	nām	nɑːm	Hindi	55	n ɑː m	4 7 4	AXN	NAM	6	6.N.C 6.A.V 6.M.c	2.0 1.5 0.8	0	575
+1158	77	name	nām	naːma	Urdu	55	n aː m a	4 7 4 7	AXBZ	NAMA	15	15.N.C 15.A.V 15.M.C 15.A.V	2.0 1.5 1.75 0.8	0	584
+1159	77	name	nām	näũ	Nepali	55	n ä ũ	4 7 7	AXZ	NAY	9	9.N.C 9.A.V 9.Y.V	2.0 1.5 0.8	0	583
+1160	77	name	nām	näː	Punjabi	55	n äː	4 7	AX	NA	11	11.N.C 11.A.V	2.0 1.5	1	583
+1161	77	name	nālo	nalo	Sindhi	55	n a l o	4 7 5 7	AXBZ	NALU	13	13.N.C 13.A.V 13.L.C 13.U.V	2.0 1.5 1.75 0.8	0	587
+1162	77	name	nām	None	Gujarati	55	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	579
+1163	77	name	nāv	nɑːʋ	Marathi	55	n ɑː ʋ	4 7 6	AXN	NAW	8	8.N.C 8.A.V 8.W.c	2.0 1.5 0.8	0	582
+1164	77	name	nāuva	None	Konkani	55	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	581
+1165	77	name	nam	nam	Assamese	55	n a m	4 7 4	AXN	NAM	1	1.N.C 1.A.V 1.M.c	2.0 1.5 0.8	0	575
+1166	77	name	nam	nam	Bengali	55	n a m	4 7 4	AXN	NAM	2	2.N.C 2.A.V 2.M.c	2.0 1.5 0.8	0	575
+1167	77	name	namô	namɔ	Oriya	55	n a m ɔ	4 7 4 7	AXBZ	NAMU	10	10.N.C 10.A.V 10.M.C 10.U.V	2.0 1.5 1.75 0.8	0	584
+1168	77	name	nama	None	Sinhalese	55	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	583
+1169	77	name	nan̊	nən	Dhivehi	55	n ə n	4 7 4	AXN	NEN	3	3.N.C 3.E.V 3.N.c	2.0 1.5 0.8	0	577
+1170	77	name	anav	None	Romani	55	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	586
+#
+691	46	neck	neck	nɛk	English	1526	n ɛ k	4 7 1	AXN	NEK	4	4.N.C 4.E.V 4.K.c	2.0 1.5 0.8	0	591
+692	46	neck	gardan	ɡəɾdən	Hindi	56	ɡ ə ɾ d ə n	1 7 5 1 7 4	AXMBYN	KERTEN	6	6.K.C 6.E.V 6.R.c 6.T.C 6.E.V 6.N.c	2.0 1.5 1.1 1.75 1.3 0.8	0	593
+693	46	neck	gardan	ɡaɾdan	Urdu	56	ɡ a ɾ d a n	1 7 5 1 7 4	AXMBYN	KARTAN	15	15.K.C 15.A.V 15.R.c 15.T.C 15.A.V 15.N.c	2.0 1.5 1.1 1.75 1.3 0.8	0	593
+694	46	neck	gardan	None	Nepali	56	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	596
+695	46	neck	gardan	None	Punjabi	56	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	598
+696	46	neck	ɠicī	None	Sindhi	196	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	600
+697	46	neck	gaḷũ	None	Gujarati	258	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	592
+698	46	neck	gaḷā	None	Marathi	229	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	595
+699	46	neck	gaḷo	None	Konkani	56	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	594
+700	46	neck	diṅi	diŋi	Assamese	56	d i ŋ i	1 7 4 7	AXBZ	TINI	1	1.T.C 1.I.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	0	588
+701	46	neck	gôla	ɡɔla	Bengali	56	ɡ ɔ l a	1 7 5 7	AXBZ	KULA	2	2.K.C 2.U.V 2.L.C 2.A.V	2.0 1.5 1.75 0.8	0	589
+702	46	neck	bekô	None	Oriya	674	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	597
+703	46	neck	bella	None	Sinhalese	312	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	595
+704	46	neck	karu	None	Dhivehi	413	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	590
+705	46	neck	korr	kʰɔrː	Romani	599	kʰ ɔ rː	1 7 5	AXN	KUR	12	12.K.C 12.U.V 12.R.c	2.0 1.5 0.8	0	593
+#
+1096	73	new	new	njuː	English	1531	n j uː	4 6 7	ACX	NJY	4	4.N.C 4.J.C 4.Y.V	2.0 1.5 1.5	0	604
+1097	73	new	nayā	nəˈjaː	Hindi	57	n ə ˈj aː	4 7 6 7	AXBZ	NEJA	6	6.N.C 6.E.V 6.J.C 6.A.V	2.0 1.5 1.75 0.8	0	606
+1098	73	new	nayā	niˈjɒː	Urdu	57	n i ˈj ɒː	4 7 6 7	AXBZ	NIJO	15	15.N.C 15.I.V 15.J.C 15.O.V	2.0 1.5 1.75 0.8	0	615
+1099	73	new	nayā̃	nʌjä	Nepali	57	n ʌ j ä	4 7 6 7	AXBZ	NEJA	9	9.N.C 9.E.V 9.J.C 9.A.V	2.0 1.5 1.75 0.8	0	606
+1100	73	new	navā̃	nəʋɑː	Punjabi	57	n ə ʋ ɑː	4 7 6 7	AXBZ	NEWA	11	11.N.C 11.E.V 11.W.C 11.A.V	2.0 1.5 1.75 0.8	0	611
+1101	73	new	naõ	None	Sindhi	57	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	613
+1102	73	new	navũ	None	Gujarati	57	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	605
+1103	73	new	nave	nəˈviːn	Marathi	57	n ə ˈv iː n	4 7 3 7 4	AXBYN	NEBIN	8	8.N.C 8.E.V 8.B.C 8.I.V 8.N.c	2.0 1.5 1.75 1.3 0.8	0	608
+1104	73	new	navẽ	None	Konkani	57	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	607
+1105	73	new	notun	nɔtun	Assamese	57	n ɔ t u n	4 7 1 7 4	AXBYN	NUTYN	1	1.N.C 1.U.V 1.T.C 1.Y.V 1.N.c	2.0 1.5 1.75 1.3 0.8	0	601
+1106	73	new	nôtun	nɔtun	Bengali	57	n ɔ t u n	4 7 1 7 4	AXBYN	NUTYN	2	2.N.C 2.U.V 2.T.C 2.Y.V 2.N.c	2.0 1.5 1.75 1.3 0.8	0	601
+1107	73	new	nua	nutɔnɔ	Oriya	57	n u t ɔ n ɔ	4 7 1 7 4 7	AXBYBZ	NYTUNU	10	10.N.C 10.Y.V 10.T.C 10.U.V 10.N.C 10.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0	610
+1108	73	new	alut	None	Sinhalese	57	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	614
+1109	73	new	ā	None	Dhivehi	57	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	603
+1110	73	new	nevo	ˈnevo	Romani	57	ˈn e v o	4 7 3 7	AXBZ	NEBU	12	12.N.C 12.E.V 12.B.C 12.U.V	2.0 1.5 1.75 0.8	0	612
+#
+1036	69	night	night	naɪt	English	1541	n aɪ t	4 7 1	AXN	NAT	4	4.N.C 4.A.V 4.T.c	2.0 1.5 0.8	0	619
+1037	69	night	rāt	ɾɑːt	Hindi	58	ɾ ɑː t	5 7 1	AXN	RAT	6	6.R.C 6.A.V 6.T.c	2.0 1.5 0.8	0	621
+1038	69	night	rāt	ɾɑːt	Urdu	58	ɾ ɑː t	5 7 1	AXN	RAT	15	15.R.C 15.A.V 15.T.c	2.0 1.5 0.8	0	617
+1039	69	night	rāt	räti	Nepali	58	r ä t i	5 7 1 7	AXBZ	RATI	9	9.R.C 9.A.V 9.T.C 9.I.V	2.0 1.5 1.75 0.8	0	616
+1040	69	night	rāt	None	Punjabi	58	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	626
+1041	69	night	rāti	ɾɑːt	Sindhi	58	ɾ ɑː t	5 7 1	AXN	RAT	13	13.R.C 13.A.V 13.T.c	2.0 1.5 0.8	0	617
+1042	69	night	rāt	räːt	Gujarati	58	r äː t	5 7 1	AXN	RAT	5	5.R.C 5.A.V 5.T.c	2.0 1.5 0.8	0	620
+1043	69	night	rātra	None	Marathi	58	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	623
+1044	69	night	rāt	ɾɑːt	Konkani	58	ɾ ɑː t	5 7 1	AXN	RAT	7	7.R.C 7.A.V 7.T.c	2.0 1.5 0.8	0	621
+1045	69	night	rati	ɹati	Assamese	58	ɹ a t i	5 7 1 7	AXBZ	RATI	1	1.R.C 1.A.V 1.T.C 1.I.V	2.0 1.5 1.75 0.8	0	616
+1046	69	night	ratri	rat	Bengali	58	r a t	5 7 1	AXN	RAT	2	2.R.C 2.A.V 2.T.c	2.0 1.5 0.8	0	617
+1047	69	night	rati	ɔndʱaɾɔ	Oriya	58	ɔ n dʱ a ɾ ɔ	7 4 1 7 5 7	XMBYBZ	UNTARU	10	10.U.V 10.N.c 10.T.C 10.A.V 10.R.C 10.U.V	1.5 1.1 1.75 1.3 1.75 0.8	0	625
+1048	69	night	rǣ	None	Sinhalese	58	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	623
+1049	69	night	rēgaⁿḍu	None	Dhivehi	58	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	618
+1050	69	night	rat	ɹæt	Romani	58	ɹ æ t	5 7 1	AXN	RET	12	12.R.C 12.E.V 12.T.c	2.0 1.5 0.8	1	617
+#
+586	39	nose	nose	nəʊz	English	1565	n əʊ z	4 7 3	AXN	NES	4	4.N.C 4.E.V 4.S.c	2.0 1.5 0.8	0	630
+587	39	nose	nāk	nɑːk	Hindi	59	n ɑː k	4 7 1	AXN	NAK	6	6.N.C 6.A.V 6.K.c	2.0 1.5 0.8	0	627
+588	39	nose	nāk	nɑːk	Urdu	59	n ɑː k	4 7 1	AXN	NAK	15	15.N.C 15.A.V 15.K.c	2.0 1.5 0.8	0	627
+589	39	nose	nāk	nɑːk	Nepali	59	n ɑː k	4 7 1	AXN	NAK	9	9.N.C 9.A.V 9.K.c	2.0 1.5 0.8	0	627
+590	39	nose	nakka	None	Punjabi	59	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	637
+591	39	nose	naku	None	Sindhi	59	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	639
+592	39	nose	nāk	None	Gujarati	59	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	631
+593	39	nose	nāk	nɑːk	Marathi	59	n ɑː k	4 7 1	AXN	NAK	8	8.N.C 8.A.V 8.K.c	2.0 1.5 0.8	0	627
+594	39	nose	nāṅka	None	Konkani	59	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	633
+595	39	nose	nak	nak	Assamese	59	n a k	4 7 1	AXN	NAK	1	1.N.C 1.A.V 1.K.c	2.0 1.5 0.8	0	627
+596	39	nose	nak	nak	Bengali	59	n a k	4 7 1	AXN	NAK	2	2.N.C 2.A.V 2.K.c	2.0 1.5 0.8	0	627
+597	39	nose	nakô	None	Oriya	59	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	636
+598	39	nose	nahaya	None	Sinhalese	59	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	640
+599	39	nose	nēfat̊	None	Dhivehi	59	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	629
+600	39	nose	nakh	None	Romani	59	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	638
+#
+106	7	not	not	nɒt	English	1573	n ɒ t	4 7 1	AXN	NOT	4	4.N.C 4.O.V 4.T.c	2.0 1.5 0.8	0	644
+107	7	not	nahī̃	nəɦĩː	Hindi	60	n ə ɦ ĩː	4 7 3 7	AXBZ	NEHI	6	6.N.C 6.E.V 6.H.C 6.I.V	2.0 1.5 1.75 0.8	0	646
+108	7	not	nahī̃	nɔː	Urdu	60	n ɔː	4 7	AX	NU	15	15.N.C 15.U.V	2.0 1.5	0	653
+109	7	not	hoina	na	Nepali	60	n a	4 7	AX	NA	9	9.N.C 9.A.V	2.0 1.5	0	641
+110	7	not	nahī̃	näː	Punjabi	60	n äː	4 7	AX	NA	11	11.N.C 11.A.V	2.0 1.5	0	641
+111	7	not	na	nɑː	Sindhi	60	n ɑː	4 7	AX	NA	13	13.N.C 13.A.V	2.0 1.5	0	653
+112	7	not	na	None	Gujarati	60	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	645
+113	7	not	nāhī	naɦi	Marathi	60	n a ɦ i	4 7 3 7	AXBZ	NAHI	8	8.N.C 8.A.V 8.H.C 8.I.V	2.0 1.5 1.75 0.8	0	646
+114	7	not	nū	None	Konkani	60	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	0	647
+115	7	not	nai	naɪ	Assamese	60	n aɪ	4 7	AX	NA	1	1.N.C 1.A.V	2.0 1.5	0	641
+116	7	not	na	None	Bengali	60	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	642
+117	7	not	nuhem̐	None	Oriya	60	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	650
+118	7	not	næhæ	None	Sinhalese	60	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	642
+119	7	not	nūn	None	Dhivehi	60	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	643
+120	7	not	na	nɑː	Romani	60	n ɑː	4 7	AX	NA	12	12.N.C 12.A.V	2.0 1.5	0	641
+#
+151	10	one	one	wʌn	English	1601	w ʌ n	6 7 4	AXN	WEN	4	4.W.C 4.E.V 4.N.c	2.0 1.5 0.8	0	657
+152	10	one	ek	eːk	Hindi	61	eː k	7 1	XN	EK	6	6.E.V 6.K.c	1.5 0.8	0	654
+153	10	one	ek	jak	Urdu	61	j a k	6 7 1	AXN	JAK	15	15.J.C 15.A.V 15.K.c	2.0 1.5 0.8	0	660
+154	10	one	ek	eːk	Nepali	61	eː k	7 1	XN	EK	9	9.E.V 9.K.c	1.5 0.8	0	654
+155	10	one	ikka	ɪkːə	Punjabi	61	ɪ kː ə	7 1 7	XBZ	IKE	11	11.I.V 11.K.C 11.E.V	1.5 1.75 0.8	0	656
+156	10	one	hiku	None	Sindhi	61	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	666
+157	10	one	eka	ekə	Gujarati	61	e k ə	7 1 7	XBZ	EKE	5	5.E.V 5.K.C 5.E.V	1.5 1.75 0.8	0	658
+158	10	one	ek	eːk	Marathi	61	eː k	7 1	XN	EK	8	8.E.V 8.K.c	1.5 0.8	0	660
+159	10	one	ek	eːk	Konkani	61	eː k	7 1	XN	EK	7	7.E.V 7.K.c	1.5 0.8	0	660
+160	10	one	ek	ɛk	Assamese	61	ɛ k	7 1	XN	EK	1	1.E.V 1.K.c	1.5 0.8	0	654
+161	10	one	ek	ɛk	Bengali	61	ɛ k	7 1	XN	EK	2	2.E.V 2.K.c	1.5 0.8	0	654
+162	10	one	ekô	ekɔ	Oriya	61	e k ɔ	7 1 7	XBZ	EKU	10	10.E.V 10.K.C 10.U.V	1.5 1.75 0.8	0	658
+163	10	one	eka	None	Sinhalese	61	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	657
+164	10	one	ekek̊	ekeʔ	Dhivehi	61	e k e ʔ	7 1 7 1	XBYN	EKEH	3	3.E.V 3.K.C 3.E.V 3.H.c	1.5 1.75 1.3 0.8	0	656
+165	10	one	jekh	None	Romani	61	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	0	665
+#
+811	54	rain	rain	ɹeɪn	English	1658	ɹ eɪ n	5 7 4	AXN	REN	4	4.R.C 4.E.V 4.N.c	2.0 1.5 0.8	0	670
+812	54	rain	bāriś	bɑːɾɪʃ	Hindi	62	b ɑː ɾ ɪ ʃ	1 7 5 7 3	AXBYN	PARIS	6	6.P.C 6.A.V 6.R.C 6.I.V 6.S.c	2.0 1.5 1.75 1.3 0.8	0	672
+813	54	rain	bāriś	bɑːɾiʃ	Urdu	62	b ɑː ɾ i ʃ	1 7 5 7 3	AXBYN	PARIS	15	15.P.C 15.A.V 15.R.C 15.I.V 15.S.c	2.0 1.5 1.75 1.3 0.8	0	672
+814	54	rain	varṣā	dzʱʌɾi	Nepali	369	d zʱ ʌ ɾ i	1 3 7 5 7	ACXBZ	TSERI	9	9.T.C 9.S.C 9.E.V 9.R.C 9.I.V	2.0 1.5 1.5 1.75 0.8	0	675
+815	54	rain	bāriś	baːɾɪʃ	Punjabi	62	b aː ɾ ɪ ʃ	1 7 5 7 3	AXBYN	PARIS	11	11.P.C 11.A.V 11.R.C 11.I.V 11.S.c	2.0 1.5 1.75 1.3 0.8	0	677
+816	54	rain	mī̃hũ	None	Sindhi	62	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	679
+817	54	rain	varsād	None	Gujarati	127	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	671
+818	54	rain	pāūs	paus	Marathi	127	p au s	1 7 3	AXN	PAS	8	8.P.C 8.A.V 8.S.c	2.0 1.5 0.8	0	672
+819	54	rain	pāvas	None	Konkani	127	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	673
+820	54	rain	boroxun	bɔɹɔxun	Assamese	127	b ɔ ɹ ɔ x u n	1 7 5 7 3 7 4	AXBYBYN	PURUGYN	1	1.P.C 1.U.V 1.R.C 1.U.V 1.G.C 1.Y.V 1.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0	667
+821	54	rain	briśṭi	None	Bengali	127	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	668
+822	54	rain	bôrṣa	bɔɾsa	Oriya	-10	b ɔ ɾ s a	1 7 5 3 7	AXMBZ	PURSA	10	10.P.C 10.U.V 10.R.c 10.S.C 10.A.V	2.0 1.5 1.1 1.75 0.8	0	676
+823	54	rain	wæssa	None	Sinhalese	127	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	670
+824	54	rain	vārē	None	Dhivehi	127	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	669
+825	54	rain	briśind	None	Romani	127	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	678
+#
+961	64	red	red	ɹɛd	English	1679	ɹ ɛ d	5 7 1	AXN	RET	4	4.R.C 4.E.V 4.T.c	2.0 1.5 0.8	0	683
+962	64	red	lāl	lɑːl	Hindi	63	l ɑː l	5 7 5	AXN	LAL	6	6.L.C 6.A.V 6.L.c	2.0 1.5 0.8	0	685
+963	64	red	surx	lɑːl	Urdu	63	l ɑː l	5 7 5	AXN	LAL	15	15.L.C 15.A.V 15.L.c	2.0 1.5 0.8	0	685
+964	64	red	rāto	räto	Nepali	128	r ä t o	5 7 1 7	AXBZ	RATU	9	9.R.C 9.A.V 9.T.C 9.U.V	2.0 1.5 1.75 0.8	0	683
+965	64	red	lāl	None	Punjabi	63	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	690
+966	64	red	gāṛho	None	Sindhi	63	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	692
+967	64	red	lāl	None	Gujarati	63	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	684
+968	64	red	lāl	lɑːl	Marathi	63	l ɑː l	5 7 5	AXN	LAL	8	8.L.C 8.A.V 8.L.c	2.0 1.5 0.8	0	686
+969	64	red	lāl	lɑːl	Konkani	282	l ɑː l	5 7 5	AXN	LAL	7	7.L.C 7.A.V 7.L.c	2.0 1.5 0.8	0	686
+970	64	red	roṅa	ɹɔŋa	Assamese	128	ɹ ɔ ŋ a	5 7 4 7	AXBZ	RUNA	1	1.R.C 1.U.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	0	680
+971	64	red	lal	None	Bengali	63	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	681
+972	64	red	lalô	None	Oriya	63	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	689
+973	64	red	ratu	None	Sinhalese	128	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	680
+974	64	red	rat̊	None	Dhivehi	128	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	682
+975	64	red	lolo	lolo	Romani	63	l o l o	5 7 5 7	AXBZ	LULU	12	12.L.C 12.U.V 12.L.C 12.U.V	2.0 1.5 1.75 0.8	0	685
+#
+931	62	road	road	ɹəʊd	English	1718	ɹ əʊ d	5 7 1	AXN	RET	4	4.R.C 4.E.V 4.T.c	2.0 1.5 0.8	0	696
+932	62	road	saṛak	səɽək	Hindi	64	s ə ɽ ə k	3 7 5 7 1	AXBYN	SEREK	6	6.S.C 6.E.V 6.R.C 6.E.V 6.K.c	2.0 1.5 1.75 1.3 0.8	0	698
+933	62	road	saṛak	səɽək	Urdu	64	s ə ɽ ə k	3 7 5 7 1	AXBYN	SEREK	15	15.S.C 15.E.V 15.R.C 15.E.V 15.K.c	2.0 1.5 1.75 1.3 0.8	0	698
+934	62	road	bāṭo	sʌɽʌk	Nepali	415	s ʌ ɽ ʌ k	3 7 5 7 1	AXBYN	SEREK	9	9.S.C 9.E.V 9.R.C 9.E.V 9.K.c	2.0 1.5 1.75 1.3 0.8	0	698
+935	62	road	saṛak	None	Punjabi	64	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	703
+936	62	road	rasto	None	Sindhi	64	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	705
+937	62	road	rasto	None	Gujarati	64	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	697
+938	62	road	rastā	None	Marathi	64	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	700
+939	62	road	rasto	None	Konkani	-7	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	699
+940	62	road	ali	bat	Assamese	164	b a t	1 7 1	AXN	PAT	1	1.P.C 1.A.V 1.T.c	2.0 1.5 0.8	0	693
+941	62	road	raśta	pɔtʰ	Bengali	-8	p ɔ tʰ	1 7 1	AXN	PUT	2	2.P.C 2.U.V 2.T.c	2.0 1.5 0.8	0	693
+942	62	road	sôṛôkô	None	Oriya	64	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	702
+943	62	road	pāra	None	Sinhalese	415	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	700
+944	62	road	magu	None	Dhivehi	415	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	695
+945	62	road	drom	drɔm	Romani	-9	d r ɔ m	1 5 7 4	ACXN	TRUM	12	12.T.C 12.R.C 12.U.V 12.M.c	2.0 1.5 1.5 0.8	0	704
+#
+361	24	root	root	ɹuːt	English	1724	ɹ uː t	5 7 1	AXN	RYT	4	4.R.C 4.Y.V 4.T.c	2.0 1.5 0.8	0	709
+362	24	root	jaṛ	dʒəɽ	Hindi	65	d ʒ ə ɽ	1 3 7 5	ACXN	TSER	6	6.T.C 6.S.C 6.E.V 6.R.c	2.0 1.5 1.5 0.8	0	711
+363	24	root	jaṛ	dʒəɽ	Urdu	65	d ʒ ə ɽ	1 3 7 5	ACXN	TSER	15	15.T.C 15.S.C 15.E.V 15.R.c	2.0 1.5 1.5 0.8	0	711
+364	24	root	jarā	dzʌɾä	Nepali	65	d z ʌ ɾ ä	1 3 7 5 7	ACXBZ	TSERA	9	9.T.C 9.S.C 9.E.V 9.R.C 9.A.V	2.0 1.5 1.5 1.75 0.8	0	711
+365	24	root	jaṛh	None	Punjabi	65	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	716
+366	24	root	pāṛa	None	Sindhi	65	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	718
+367	24	root	mūḷ	None	Gujarati	259	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	710
+368	24	root	mūḷ	None	Marathi	259	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	713
+369	24	root	mūḷ	None	Konkani	259	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	712
+370	24	root	xipa	xipa	Assamese	343	x i p a	3 7 1 7	AXBZ	GIPA	1	1.G.C 1.I.V 1.P.C 1.A.V	2.0 1.5 1.75 0.8	0	706
+371	24	root	śikôṛ	None	Bengali	313	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	707
+372	24	root	cerô	None	Oriya	259	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	715
+373	24	root	mula	None	Sinhalese	259	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	713
+374	24	root	mū	None	Dhivehi	259	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	708
+375	24	root	rikita	None	Romani	-10	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	717
+#
+1126	75	round	round	ˈɹaʊnd	English	1765	ˈɹ aʊ n d	5 7 4 1	AXLN	RANT	4	4.R.C 4.A.V 4.N.c 4.T.c	2.0 1.5 1.1 0.8	0	722
+1127	75	round	gol	ɡoːl	Hindi	66	ɡ oː l	1 7 5	AXN	KUL	6	6.K.C 6.U.V 6.L.c	2.0 1.5 0.8	0	719
+1128	75	round	gol	ɡoːl	Urdu	66	ɡ oː l	1 7 5	AXN	KUL	15	15.K.C 15.U.V 15.L.c	2.0 1.5 0.8	0	726
+1129	75	round	golo	ɡolo	Nepali	283	ɡ o l o	1 7 5 7	AXBZ	KULU	9	9.K.C 9.U.V 9.L.C 9.U.V	2.0 1.5 1.75 0.8	0	727
+1130	75	round	gol	None	Punjabi	66	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	729
+1131	75	round	golu	ɡoːl	Sindhi	66	ɡ oː l	1 7 5	AXN	KUL	13	13.K.C 13.U.V 13.L.c	2.0 1.5 0.8	0	731
+1132	75	round	goḷ	None	Gujarati	66	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	723
+1133	75	round	gol	ɡoːl	Marathi	66	ɡ oː l	1 7 5	AXN	KUL	8	8.K.C 8.U.V 8.L.c	2.0 1.5 0.8	0	726
+1134	75	round	golākār	None	Konkani	-8	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	725
+1135	75	round	gül	ɡʊl	Assamese	66	ɡ ʊ l	1 7 5	AXN	KYL	1	1.K.C 1.Y.V 1.L.c	2.0 1.5 0.8	0	719
+1136	75	round	gol	ɡʊl	Bengali	66	ɡ ʊ l	1 7 5	AXN	KYL	2	2.K.C 2.Y.V 2.L.c	2.0 1.5 0.8	0	719
+1137	75	round	golô	None	Oriya	66	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	728
+1138	75	round	waṭaya	None	Sinhalese	283	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	732
+1139	75	round	vaṣ̊	None	Dhivehi	283	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	721
+1140	75	round	oblo	ˈoblo	Romani	66	ˈo b l o	7 1 5 7	XBCZ	UPLU	12	12.U.V 12.P.C 12.L.C 12.U.V	1.5 1.75 1.5 0.8	0	730
+#
+841	56	sand	sand	sænd	English	1811	s æ n d	3 7 4 1	AXLN	SENT	4	4.S.C 4.E.V 4.N.c 4.T.c	2.0 1.5 1.1 0.8	0	736
+842	56	sand	ret	ɾeːt	Hindi	67	ɾ eː t	5 7 1	AXN	RET	6	6.R.C 6.E.V 6.T.c	2.0 1.5 0.8	0	738
+843	56	sand	ret	ɾeːt	Urdu	67	ɾ eː t	5 7 1	AXN	RET	15	15.R.C 15.E.V 15.T.c	2.0 1.5 0.8	0	738
+844	56	sand	bāluwā	bäluwä	Nepali	67	b ä l u w ä	1 7 5 7 6 7	AXBYBZ	PALYWA	9	9.P.C 9.A.V 9.L.C 9.Y.V 9.W.C 9.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0	733
+845	56	sand	ret	None	Punjabi	67	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	743
+846	56	sand	vārī	None	Sindhi	67	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	745
+847	56	sand	retī	None	Gujarati	67	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	737
+848	56	sand	vāḷū	None	Marathi	67	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	740
+849	56	sand	reuva	None	Konkani	67	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	739
+850	56	sand	bali	bali	Assamese	68	b a l i	1 7 5 7	AXBZ	PALI	1	1.P.C 1.A.V 1.L.C 1.I.V	2.0 1.5 1.75 0.8	0	733
+851	56	sand	bali	bali	Bengali	68	b a l i	1 7 5 7	AXBZ	PALI	2	2.P.C 2.A.V 2.L.C 2.I.V	2.0 1.5 1.75 0.8	0	733
+852	56	sand	bali	None	Oriya	68	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	742
+853	56	sand	wæli	None	Sinhalese	67	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	740
+854	56	sand	fas	fəs	Dhivehi	68	f ə s	3 7 3	AXN	BES	3	3.B.C 3.E.V 3.S.c	2.0 1.5 0.8	0	735
+855	56	sand	kiśaj	None	Romani	-12	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	744
+#
+331	22	seed	seed	siːd	English	1889	s iː d	3 7 1	AXN	SIT	4	4.S.C 4.I.V 4.T.c	2.0 1.5 0.8	0	749
+332	22	seed	bīj	biːdʒ	Hindi	72	b iː d ʒ	1 7 1 3	AXBC	PITS	6	6.P.C 6.I.V 6.T.C 6.S.C	2.0 1.5 1.75 1.5	0	751
+333	22	seed	bīj	None	Urdu	72	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	760
+334	22	seed	bīu	None	Nepali	72	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	754
+335	22	seed	bīj	biːdʒə	Punjabi	72	b iː d ʒ ə	1 7 1 3 7	AXBCZ	PITSE	11	11.P.C 11.I.V 11.T.C 11.S.C 11.E.V	2.0 1.5 1.75 1.5 0.8	0	751
+336	22	seed	ɓiju	None	Sindhi	72	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	758
+337	22	seed	bīj	None	Gujarati	72	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	750
+338	22	seed	bī	biː	Marathi	72	b iː	1 7	AX	PI	8	8.P.C 8.I.V	2.0 1.5	0	752
+339	22	seed	bī	biː	Konkani	72	b iː	1 7	AX	PI	7	7.P.C 7.I.V	2.0 1.5	0	752
+340	22	seed	guti	ɡuti	Assamese	72	ɡ u t i	1 7 1 7	AXBZ	KYTI	1	1.K.C 1.Y.V 1.T.C 1.I.V	2.0 1.5 1.75 0.8	0	746
+341	22	seed	bici	None	Bengali	72	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	747
+342	22	seed	môñji	None	Oriya	72	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	755
+343	22	seed	bīja	None	Sinhalese	-5	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	754
+344	22	seed	oṣu	None	Dhivehi	543	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	748
+345	22	seed	sumburo	None	Romani	-13	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	757
+#
+391	26	skin	skin	skɪn	English	1954	s k ɪ n	3 1 7 4	ACYN	SKIN	4	4.S.C 4.K.C 4.I.V 4.N.c	2.0 1.5 1.3 0.8	0	764
+392	26	skin	camṛī	tʋətʃɑː	Hindi	74	t ʋ ə t ʃ ɑː	1 6 7 1 3 7	ACXBCZ	TWETSA	6	6.T.C 6.W.C 6.E.V 6.T.C 6.S.C 6.A.V	2.0 1.5 1.5 1.75 1.5 0.8	0	766
+393	26	skin	jild	dʒild	Urdu	74	d ʒ i l d	1 3 7 5 1	ACXLN	TSILT	15	15.T.C 15.S.C 15.I.V 15.L.c 15.T.c	2.0 1.5 1.5 1.1 0.8	0	769
+394	26	skin	chālā	tʃʰɑːlɑː	Nepali	74	t ʃʰ ɑː l ɑː	1 3 7 5 7	ACXBZ	TSALA	9	9.T.C 9.S.C 9.A.V 9.L.C 9.A.V	2.0 1.5 1.5 1.75 0.8	0	769
+395	26	skin	camṛī	None	Punjabi	74	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	771
+396	26	skin	khala	None	Sindhi	74	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	773
+397	26	skin	cāmḍī	None	Gujarati	74	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	765
+398	26	skin	tvacā	tʋətʃɑː	Marathi	74	t ʋ ə t ʃ ɑː	1 6 7 1 3 7	ACXBCZ	TWETSA	8	8.T.C 8.W.C 8.E.V 8.T.C 8.S.C 8.A.V	2.0 1.5 1.5 1.75 1.5 0.8	0	766
+399	26	skin	kāt	None	Konkani	74	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	767
+400	26	skin	sal	None	Assamese	348	N o n e	0 7 4 7	AXBZ	0UNE	1	1.0.C 1.U.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	1	761
+401	26	skin	camṛa	None	Bengali	74	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	762
+402	26	skin	cômôṛa	None	Oriya	74	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	770
+403	26	skin	ham	None	Sinhalese	74	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	762
+404	26	skin	han̊	None	Dhivehi	74	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	763
+405	26	skin	morthǐ	None	Romani	-14	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	772
+#
+211	14	small	small	smɔːl	English	2001	s m ɔː l	3 4 7 5	ACXN	SMUL	4	4.S.C 4.M.C 4.U.V 4.L.c	2.0 1.5 1.5 0.8	0	777
+212	14	small	choṭā	tʃʰoːʈɑː	Hindi	77	t ʃʰ oː ʈ ɑː	1 3 7 1 7	ACXBZ	TSUTA	6	6.T.C 6.S.C 6.U.V 6.T.C 6.A.V	2.0 1.5 1.5 1.75 0.8	0	779
+213	14	small	choṭā	tʃʰoːʈɑː	Urdu	77	t ʃʰ oː ʈ ɑː	1 3 7 1 7	ACXBZ	TSUTA	15	15.T.C 15.S.C 15.U.V 15.T.C 15.A.V	2.0 1.5 1.5 1.75 0.8	0	779
+214	14	small	sāno	säno	Nepali	261	s ä n o	3 7 4 7	AXBZ	SANU	9	9.S.C 9.A.V 9.N.C 9.U.V	2.0 1.5 1.75 0.8	0	782
+215	14	small	choṭā	None	Punjabi	77	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	784
+216	14	small	naṇḍho	None	Sindhi	200	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	786
+217	14	small	nānũ	None	Gujarati	261	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	778
+218	14	small	lahān	tʃʰoːʈeː	Marathi	261	t ʃʰ oː ʈ eː	1 3 7 1 7	ACXBZ	TSUTE	8	8.T.C 8.S.C 8.U.V 8.T.C 8.E.V	2.0 1.5 1.5 1.75 0.8	0	779
+219	14	small	dhākle	None	Konkani	261	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	780
+220	14	small	xoru	xɔɹu	Assamese	349	x ɔ ɹ u	3 7 5 7	AXBZ	GURY	1	1.G.C 1.U.V 1.R.C 1.Y.V	2.0 1.5 1.75 0.8	0	774
+221	14	small	choṭ	None	Bengali	77	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	775
+222	14	small	choṭô	tʃʰoʈɔ	Oriya	77	t ʃʰ o ʈ ɔ	1 3 7 1 7	ACXBZ	TSUTU	10	10.T.C 10.S.C 10.U.V 10.T.C 10.U.V	2.0 1.5 1.5 1.75 0.8	0	779
+223	14	small	puṁci	None	Sinhalese	420	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	782
+224	14	small	kuda	None	Dhivehi	420	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	776
+225	14	small	tikno	None	Romani	-15	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	785
+#
+886	59	smoke	smoke	sməʊk	English	2030	s m əʊ k	3 4 7 1	ACXN	SMEK	4	4.S.C 4.M.C 4.E.V 4.K.c	2.0 1.5 1.5 0.8	0	790
+887	59	smoke	dhuā̃	dʱuːɑː	Hindi	78	dʱ uːɑː	1 7	AX	TY	6	6.T.C 6.Y.V	2.0 1.5	0	792
+888	59	smoke	dhūā̃	tũːäː	Urdu	78	t ũː äː	1 7 7	AXZ	TYA	15	15.T.C 15.Y.V 15.A.V	2.0 1.5 0.8	0	792
+889	59	smoke	dhuwā̃	dʱṳwä	Nepali	78	dʱ ṳ w ä	1 7 6 7	AXBZ	TYWA	9	9.T.C 9.Y.V 9.W.C 9.A.V	2.0 1.5 1.75 0.8	0	792
+890	59	smoke	dhū̃ā̃	tũːäː	Punjabi	78	t ũː äː	1 7 7	AXZ	TYA	11	11.T.C 11.Y.V 11.A.V	2.0 1.5 0.8	0	797
+891	59	smoke	dū̃hõ	None	Sindhi	78	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	799
+892	59	smoke	dhumāḍo	None	Gujarati	78	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	791
+893	59	smoke	dhūr	dʱuɾ	Marathi	78	dʱ u ɾ	1 7 5	AXN	TYR	8	8.T.C 8.Y.V 8.R.c	2.0 1.5 0.8	0	792
+894	59	smoke	dhuuvar	None	Konkani	78	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	793
+895	59	smoke	dhü̃a	None	Assamese	78	N o n e	0 7 4 7	AXBZ	0UNE	1	1.0.C 1.U.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	1	787
+896	59	smoke	dhũẏo	None	Bengali	78	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	788
+897	59	smoke	dhuam̐	None	Oriya	78	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	796
+898	59	smoke	duma	None	Sinhalese	78	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	788
+899	59	smoke	dun̊	None	Dhivehi	78	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	789
+900	59	smoke	thuv	None	Romani	78	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	798
+#
+781	52	star	star	stɑːɹ	English	2149	s t ɑː ɹ	3 1 7 5	ACYN	STAR	4	4.S.C 4.T.C 4.A.V 4.R.c	2.0 1.5 1.3 0.8	0	803
+782	52	star	tārā	tɑːɾɑː	Hindi	80	t ɑː ɾ ɑː	1 7 5 7	AXBZ	TARA	6	6.T.C 6.A.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	0	800
+783	52	star	sitārā	None	Urdu	80	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	814
+784	52	star	tārā	tɑːɾɑː	Nepali	80	t ɑː ɾ ɑː	1 7 5 7	AXBZ	TARA	9	9.T.C 9.A.V 9.R.C 9.A.V	2.0 1.5 1.75 0.8	0	802
+785	52	star	tārā	taːraː	Punjabi	80	t aː r aː	1 7 5 7	AXBZ	TARA	11	11.T.C 11.A.V 11.R.C 11.A.V	2.0 1.5 1.75 0.8	0	800
+786	52	star	tāro	tɑːro	Sindhi	80	t ɑː r o	1 7 5 7	AXBZ	TARU	13	13.T.C 13.A.V 13.R.C 13.U.V	2.0 1.5 1.75 0.8	0	802
+787	52	star	tāro	None	Gujarati	80	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	804
+788	52	star	tārā	tɑːɾɑː	Marathi	80	t ɑː ɾ ɑː	1 7 5 7	AXBZ	TARA	8	8.T.C 8.A.V 8.R.C 8.A.V	2.0 1.5 1.75 0.8	0	802
+789	52	star	tāro	None	Konkani	-9	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	806
+790	52	star	tora	tɔɹa	Assamese	80	t ɔ ɹ a	1 7 5 7	AXBZ	TURA	1	1.T.C 1.U.V 1.R.C 1.A.V	2.0 1.5 1.75 0.8	0	800
+791	52	star	tara	tara	Bengali	80	t a r a	1 7 5 7	AXBZ	TARA	2	2.T.C 2.A.V 2.R.C 2.A.V	2.0 1.5 1.75 0.8	0	800
+792	52	star	tara	taɾa	Oriya	80	t a ɾ a	1 7 5 7	AXBZ	TARA	10	10.T.C 10.A.V 10.R.C 10.A.V	2.0 1.5 1.75 0.8	0	800
+793	52	star	taru	None	Sinhalese	80	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	813
+794	52	star	tari	təɾi	Dhivehi	80	t ə ɾ i	1 7 5 7	AXBZ	TERI	3	3.T.C 3.E.V 3.R.C 3.I.V	2.0 1.5 1.75 0.8	0	802
+795	52	star	ćexrain	None	Romani	-16	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	811
+#
+826	55	stone	stone	stəʊn	English	2163	s t əʊ n	3 1 7 4	ACYN	STEN	4	4.S.C 4.T.C 4.E.V 4.N.c	2.0 1.5 1.3 0.8	0	818
+827	55	stone	patthar	pəttʰəɾ	Hindi	81	p ə t tʰ ə ɾ	1 7 1 1 7 5	AXMBYN	PETTER	6	6.P.C 6.E.V 6.T.c 6.T.C 6.E.V 6.R.c	2.0 1.5 1.1 1.75 1.3 0.8	0	815
+828	55	stone	patthar	pətːʰəɾ	Urdu	81	p ə tːʰ ə ɾ	1 7 1 7 5	AXBYN	PETER	15	15.P.C 15.E.V 15.T.C 15.E.V 15.R.c	2.0 1.5 1.75 1.3 0.8	0	815
+829	55	stone	ḍhuṅgā	pəttʰəɾ	Nepali	371	p ə t tʰ ə ɾ	1 7 1 1 7 5	AXMBYN	PETTER	9	9.P.C 9.E.V 9.T.c 9.T.C 9.E.V 9.R.c	2.0 1.5 1.1 1.75 1.3 0.8	0	815
+830	55	stone	patthar	None	Punjabi	81	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	825
+831	55	stone	patharu	None	Sindhi	81	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	827
+832	55	stone	paththar	None	Gujarati	81	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	819
+833	55	stone	dagaḍ	None	Marathi	286	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	822
+834	55	stone	phātar	None	Konkani	81	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	821
+835	55	stone	xil	patʰɔɹ	Assamese	31	p a tʰ ɔ ɹ	1 7 1 7 5	AXBYN	PATUR	1	1.P.C 1.A.V 1.T.C 1.U.V 1.R.c	2.0 1.5 1.75 1.3 0.8	0	815
+836	55	stone	pathôr	None	Bengali	81	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	816
+837	55	stone	pôthôrô	None	Oriya	81	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	824
+838	55	stone	gala	None	Sinhalese	-6	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	822
+839	55	stone	gā	ɡəː	Dhivehi	351	ɡ əː	1 7	AX	KE	3	3.K.C 3.E.V	2.0 1.5	0	817
+840	55	stone	barr	parː	Romani	167	p a rː	1 7 5	AXN	PAR	12	12.P.C 12.A.V 12.R.c	2.0 1.5 0.8	0	826
+#
+751	50	sun	sun	sʌn	English	2212	s ʌ n	3 7 4	AXN	SEN	4	4.S.C 4.E.V 4.N.c	2.0 1.5 0.8	0	831
+752	50	sun	sūraj	suːɾədʒ	Hindi	82	s uː ɾ ə d ʒ	3 7 5 7 1 3	AXBYBC	SYRETS	6	6.S.C 6.Y.V 6.R.C 6.E.V 6.T.C 6.S.C	2.0 1.5 1.75 1.3 1.75 1.5	0	833
+753	50	sun	sūraj	None	Urdu	82	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	842
+754	50	sun	ghām	suːɾjᵊ	Nepali	236	s uː ɾ jᵊ	3 7 5 6	AXBC	SYRJ	9	9.S.C 9.Y.V 9.R.C 9.J.C	2.0 1.5 1.75 1.5	0	834
+755	50	sun	sūraj	None	Punjabi	82	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	838
+756	50	sun	siju	suːɾədʒ	Sindhi	82	s uː ɾ ə d ʒ	3 7 5 7 1 3	AXBYBC	SYRETS	13	13.S.C 13.Y.V 13.R.C 13.E.V 13.T.C 13.S.C	2.0 1.5 1.75 1.3 1.75 1.5	0	833
+757	50	sun	sūrya	None	Gujarati	82	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	832
+758	50	sun	sūrya	suːɾjᵊ	Marathi	-9	s uː ɾ jᵊ	3 7 5 6	AXBC	SYRJ	8	8.S.C 8.Y.V 8.R.C 8.J.C	2.0 1.5 1.75 1.5	0	830
+759	50	sun	sūrya	suːɾjᵊ	Konkani	-10	s uː ɾ jᵊ	3 7 5 6	AXBC	SYRJ	7	7.S.C 7.Y.V 7.R.C 7.J.C	2.0 1.5 1.75 1.5	0	834
+760	50	sun	beli	beli	Assamese	352	b e l i	1 7 5 7	AXBZ	PELI	1	1.P.C 1.E.V 1.L.C 1.I.V	2.0 1.5 1.75 0.8	0	828
+761	50	sun	śurjô	ˈʃurdʒːo	Bengali	-9	ˈʃ u r d ʒː o	3 7 5 1 3 7	AXMBCZ	SYRTSU	2	2.S.C 2.Y.V 2.R.c 2.T.C 2.S.C 2.U.V	2.0 1.5 1.1 1.75 1.5 0.8	0	829
+762	50	sun	surjyô	suɾdʒjɔ	Oriya	-11	s u ɾ d ʒ j ɔ	3 7 5 1 3 6 7	AXMBCCZ	SYRTSJU	10	10.S.C 10.Y.V 10.R.c 10.T.C 10.S.C 10.J.C 10.U.V	2.0 1.5 1.1 1.75 1.5 1.5 0.8	0	829
+763	50	sun	iru	None	Sinhalese	82	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	831
+764	50	sun	iru	iɾu	Dhivehi	82	i ɾ u	7 5 7	XBZ	IRY	3	3.I.V 3.R.C 3.Y.V	1.5 1.75 0.8	0	830
+765	50	sun	kham	kham	Romani	236	k h a m	1 3 7 4	ACXN	KHAM	12	12.K.C 12.H.C 12.A.V 12.M.c	2.0 1.5 1.5 0.8	0	839
+#
+496	33	tail	tail	teɪl	English	2256	t eɪ l	1 7 5	AXN	TEL	4	4.T.C 4.E.V 4.L.c	2.0 1.5 0.8	0	846
+497	33	tail	pū̃ch	pũːtʃʰ	Hindi	84	p ũː t ʃʰ	1 7 1 3	AXBC	PYTS	6	6.P.C 6.Y.V 6.T.C 6.S.C	2.0 1.5 1.75 1.5	0	848
+498	33	tail	pūnch	damma	Urdu	84	d a mm a	1 7 4 7	AXBZ	TAMA	15	15.T.C 15.A.V 15.M.C 15.A.V	2.0 1.5 1.75 0.8	0	857
+499	33	tail	pucchar	None	Nepali	84	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	851
+500	33	tail	pūch	None	Punjabi	84	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	853
+501	33	tail	puchu	None	Sindhi	84	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	855
+502	33	tail	pū̃chḍī	None	Gujarati	84	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	847
+503	33	tail	śepūṭ	p	Marathi	288	p	1	A	P	8	8.P.C	2.0	0	850
+504	33	tail	śempḍī	None	Konkani	84	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	849
+505	33	tail	nez	nɛz	Assamese	317	n ɛ z	4 7 3	AXN	NES	1	1.N.C 1.E.V 1.S.c	2.0 1.5 0.8	0	843
+506	33	tail	lej	None	Bengali	317	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	844
+507	33	tail	lañjô	None	Oriya	317	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	852
+508	33	tail	waligaya	None	Sinhalese	317	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	851
+509	33	tail	nagū	None	Dhivehi	317	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	845
+510	33	tail	pori	ˈpori	Romani	601	ˈp o r i	1 7 5 7	AXBZ	PURI	12	12.P.C 12.U.V 12.R.C 12.I.V	2.0 1.5 1.75 0.8	0	854
+#
+61	4	that	that	ˈðæt	English	2272	ˈð æ t	3 7 1	AXN	DET	4	4.D.C 4.E.V 4.T.c	2.0 1.5 0.8	0	861
+62	4	that	vah	ʋəɦ	Hindi	85	ʋ ə ɦ	6 7 3	AXN	WEH	6	6.W.C 6.E.V 6.H.c	2.0 1.5 0.8	0	863
+63	4	that	voh	ʋoː	Urdu	85	ʋ oː	6 7	AX	WU	15	15.W.C 15.U.V	2.0 1.5	0	872
+64	4	that	tyo	tjo	Nepali	85	t j o	1 6 7	ACX	TJU	9	9.T.C 9.J.C 9.U.V	2.0 1.5 1.5	0	866
+65	4	that	uha	None	Punjabi	85	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	868
+66	4	that	hū*	None	Sindhi	85	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	870
+67	4	that	pelũ	None	Gujarati	203	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	862
+68	4	that	to*	tɐj	Marathi	203	t ɐ j	1 7 6	AXN	TEJ	8	8.T.C 8.E.V 8.J.c	2.0 1.5 0.8	0	864
+69	4	that	to	tɐj	Konkani	203	t ɐ j	1 7 6	AXN	TEJ	7	7.T.C 7.E.V 7.J.c	2.0 1.5 0.8	0	864
+70	4	that	xei	None	Assamese	353	N o n e	0 7 4 7	AXBZ	0UNE	1	1.0.C 1.U.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	0	858
+71	4	that	o	ʊ	Bengali	85	ʊ	7	X	Y	2	2.Y.V	1.5	0	859
+72	4	that	taha	None	Oriya	353	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	867
+73	4	that	ē*	None	Sinhalese	85	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	871
+74	4	that	tiޭ	None	Dhivehi	289	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	860
+75	4	that	kodo	ˈkodo	Romani	85	ˈk o d o	1 7 1 7	AXBZ	KUTU	12	12.K.C 12.U.V 12.T.C 12.U.V	2.0 1.5 1.75 0.8	0	869
+#
+46	3	this	this	ðɪs	English	2358	ð ɪ s	3 7 3	AXN	DIS	4	4.D.C 4.I.V 4.S.c	2.0 1.5 0.8	0	876
+47	3	this	yah	jəɦ	Hindi	86	j ə ɦ	6 7 3	AXN	JEH	6	6.J.C 6.E.V 6.H.c	2.0 1.5 0.8	0	878
+48	3	this	yeh	None	Urdu	86	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	0	887
+49	3	this	yo	jo	Nepali	86	j o	6 7	AX	JU	9	9.J.C 9.U.V	2.0 1.5	0	879
+50	3	this	iha	eː	Punjabi	86	eː	7	X	E	11	11.E.V	1.5	0	883
+51	3	this	hī*	None	Sindhi	86	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	885
+52	3	this	ā	ɑː	Gujarati	86	ɑː	7	X	A	5	5.A.V	1.5	0	877
+53	3	this	hā*	ɦeː	Marathi	86	ɦ eː	3 7	AX	HE	8	8.H.C 8.E.V	2.0 1.5	0	880
+54	3	this	vho	jeː	Konkani	86	j eː	6 7	AX	JE	7	7.J.C 7.E.V	2.0 1.5	0	879
+55	3	this	ei	ɛi	Assamese	86	ɛi	7	X	E	1	1.E.V	1.5	0	873
+56	3	this	e	ɛ	Bengali	86	ɛ	7	X	E	2	2.E.V	1.5	0	873
+57	3	this	eha	None	Oriya	86	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	882
+58	3	this	mē*	None	Sinhalese	86	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	886
+59	3	this	mi	None	Dhivehi	86	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	875
+60	3	this	kado	kaːˈdoː	Romani	86	k aː ˈd oː	1 7 1 7	AXBZ	KATU	12	12.K.C 12.A.V 12.T.C 12.U.V	2.0 1.5 1.75 0.8	0	884
+#
+616	41	tongue	tongue	tʌŋ	English	2424	t ʌ ŋ	1 7 4	AXN	TEN	4	4.T.C 4.E.V 4.N.c	2.0 1.5 0.8	0	891
+617	41	tongue	jībh	dʒiːbʱ	Hindi	88	d ʒ iː bʱ	1 3 7 1	ACXN	TSIP	6	6.T.C 6.S.C 6.I.V 6.P.c	2.0 1.5 1.5 0.8	0	888
+618	41	tongue	zabān	dʒiːbʱ	Urdu	88	d ʒ iː bʱ	1 3 7 1	ACXN	TSIP	15	15.T.C 15.S.C 15.I.V 15.P.c	2.0 1.5 1.5 0.8	0	888
+619	41	tongue	jibro	dzibro	Nepali	88	d z i b r o	1 3 7 1 5 7	ACXBCZ	TSIPRU	9	9.T.C 9.S.C 9.I.V 9.P.C 9.R.C 9.U.V	2.0 1.5 1.5 1.75 1.5 0.8	0	888
+620	41	tongue	jībh	None	Punjabi	88	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	898
+621	41	tongue	zabāna	zabɑːn	Sindhi	88	z a b ɑː n	3 7 1 7 4	AXBYN	SAPAN	13	13.S.C 13.A.V 13.P.C 13.A.V 13.N.c	2.0 1.5 1.75 1.3 0.8	0	900
+622	41	tongue	jībh	dʒibʱ	Gujarati	88	d ʒ i bʱ	1 3 7 1	ACXN	TSIP	5	5.T.C 5.S.C 5.I.V 5.P.c	2.0 1.5 1.5 0.8	0	892
+623	41	tongue	jībh	dʒiːbʱ	Marathi	88	d ʒ iː bʱ	1 3 7 1	ACXN	TSIP	8	8.T.C 8.S.C 8.I.V 8.P.c	2.0 1.5 1.5 0.8	0	890
+624	41	tongue	jibli	dʒiːbʱ	Konkani	88	d ʒ iː bʱ	1 3 7 1	ACXN	TSIP	7	7.T.C 7.S.C 7.I.V 7.P.c	2.0 1.5 1.5 0.8	0	890
+625	41	tongue	zibha	zibʱa	Assamese	88	z i bʱ a	3 7 1 7	AXBZ	SIPA	1	1.S.C 1.I.V 1.P.C 1.A.V	2.0 1.5 1.75 0.8	0	888
+626	41	tongue	jibh	None	Bengali	88	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	889
+627	41	tongue	jibhô	dʒibʱɔ	Oriya	88	d ʒ i bʱ ɔ	1 3 7 1 7	ACXBZ	TSIPU	10	10.T.C 10.S.C 10.I.V 10.P.C 10.U.V	2.0 1.5 1.5 1.75 0.8	0	888
+628	41	tongue	diwa	None	Sinhalese	88	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	889
+629	41	tongue	dū	duː	Dhivehi	88	d uː	1 7	AX	TY	3	3.T.C 3.Y.V	2.0 1.5	0	890
+630	41	tongue	ćhib	tʃʰip	Romani	88	t ʃʰ i p	1 3 7 1	ACXN	TSIP	12	12.T.C 12.S.C 12.I.V 12.P.c	2.0 1.5 1.5 0.8	0	899
+#
+601	40	tooth	tooth	tuːθ	English	2440	t uː θ	1 7 3	AXN	TYD	4	4.T.C 4.Y.V 4.D.c	2.0 1.5 0.8	0	904
+602	40	tooth	dā̃t	dɑːt	Hindi	89	d ɑː t	1 7 1	AXN	TAT	6	6.T.C 6.A.V 6.T.c	2.0 1.5 0.8	0	901
+603	40	tooth	dānt	daːnt	Urdu	89	d aː n t	1 7 4 1	AXLN	TANT	15	15.T.C 15.A.V 15.N.c 15.T.c	2.0 1.5 1.1 0.8	0	907
+604	40	tooth	dā̃t	dɑːt	Nepali	89	d ɑː t	1 7 1	AXN	TAT	9	9.T.C 9.A.V 9.T.c	2.0 1.5 0.8	0	901
+605	40	tooth	dand	dənd	Punjabi	89	d ə n d	1 7 4 1	AXLN	TENT	11	11.T.C 11.E.V 11.N.c 11.T.c	2.0 1.5 1.1 0.8	0	907
+606	40	tooth	ᶑanda	None	Sindhi	89	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	913
+607	40	tooth	dā̃t	None	Gujarati	89	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	905
+608	40	tooth	dāt	None	Marathi	89	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	908
+609	40	tooth	dānta	dɑːnt	Konkani	89	d ɑː n t	1 7 4 1	AXLN	TANT	7	7.T.C 7.A.V 7.N.c 7.T.c	2.0 1.5 1.1 0.8	0	907
+610	40	tooth	dãt	dãt	Assamese	89	d ã t	1 7 1	AXN	TAT	1	1.T.C 1.A.V 1.T.c	2.0 1.5 0.8	0	901
+611	40	tooth	dãtô	dãt	Bengali	89	d ã t	1 7 1	AXN	TAT	2	2.T.C 2.A.V 2.T.c	2.0 1.5 0.8	0	901
+612	40	tooth	dantô	dantɔ	Oriya	89	d a n t ɔ	1 7 4 1 7	AXMBZ	TANTU	10	10.T.C 10.A.V 10.N.c 10.T.C 10.U.V	2.0 1.5 1.1 1.75 0.8	0	901
+613	40	tooth	data	None	Sinhalese	89	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	908
+614	40	tooth	dat̊	None	Dhivehi	89	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	903
+615	40	tooth	dand	None	Romani	89	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	912
+#
+316	21	tree	tree	tɹiː	English	2457	t ɹ iː	1 5 7	ACX	TRI	4	4.T.C 4.R.C 4.I.V	2.0 1.5 1.5	0	917
+317	21	tree	peṛ	peːɽ	Hindi	90	p eː ɽ	1 7 5	AXN	PER	6	6.P.C 6.E.V 6.R.c	2.0 1.5 0.8	0	919
+318	21	tree	darxat	deˈɾæxtʰ	Urdu	90	d e ˈɾ æ x tʰ	1 7 5 7 3 1	AXBYLN	TEREGT	15	15.T.C 15.E.V 15.R.C 15.E.V 15.G.c 15.T.c	2.0 1.5 1.75 1.3 1.1 0.8	0	928
+319	21	tree	rūkh	rukʰ	Nepali	131	r u kʰ	5 7 1	AXN	RYK	9	9.R.C 9.Y.V 9.K.c	2.0 1.5 0.8	0	922
+320	21	tree	rukkha	None	Punjabi	131	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	924
+321	21	tree	vaṇu	None	Sindhi	169	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	926
+322	21	tree	jhāḍ	None	Gujarati	266	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	918
+323	21	tree	j̈hāḍ	dzʱaɖ	Marathi	266	d zʱ a ɖ	1 3 7 1	ACXN	TSAT	8	8.T.C 8.S.C 8.A.V 8.T.c	2.0 1.5 1.5 0.8	0	921
+324	21	tree	jhāḍ	None	Konkani	131	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	920
+325	21	tree	gos	ɡɔs	Assamese	318	ɡ ɔ s	1 7 3	AXN	KUS	1	1.K.C 1.U.V 1.S.c	2.0 1.5 0.8	0	914
+326	21	tree	gach	ɡɑs	Bengali	318	ɡ ɑ s	1 7 3	AXN	KAS	2	2.K.C 2.A.V 2.S.c	2.0 1.5 0.8	0	914
+327	21	tree	gôchô	None	Oriya	318	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	923
+328	21	tree	gasa	None	Sinhalese	318	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	927
+329	21	tree	gas	ɡəs	Dhivehi	318	ɡ ə s	1 7 3	AXN	KES	3	3.K.C 3.E.V 3.S.c	2.0 1.5 0.8	0	916
+330	21	tree	rukh	None	Romani	603	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	925
+#
+166	11	two	two	tuː	English	2475	t uː	1 7	AX	TY	4	4.T.C 4.Y.V	2.0 1.5	0	929
+167	11	two	do	doː	Hindi	91	d oː	1 7	AX	TU	6	6.T.C 6.U.V	2.0 1.5	0	934
+168	11	two	do	du	Urdu	91	d u	1 7	AX	TY	15	15.T.C 15.Y.V	2.0 1.5	0	929
+169	11	two	duī	dui	Nepali	91	d ui	1 7	AX	TY	9	9.T.C 9.Y.V	2.0 1.5	0	929
+170	11	two	do	doː	Punjabi	91	d oː	1 7	AX	TU	11	11.T.C 11.U.V	2.0 1.5	0	934
+171	11	two	ɓa	ɓa	Sindhi	91	ɓ a	1 7	AX	PA	13	13.P.C 13.A.V	2.0 1.5	0	941
+172	11	two	be	be	Gujarati	91	b e	1 7	AX	PE	5	5.P.C 5.E.V	2.0 1.5	0	933
+173	11	two	don	None	Marathi	91	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	936
+174	11	two	don	None	Konkani	91	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	935
+175	11	two	dui	dui	Assamese	91	d ui	1 7	AX	TY	1	1.T.C 1.Y.V	2.0 1.5	0	929
+176	11	two	dui	dui	Bengali	91	d ui	1 7	AX	TY	2	2.T.C 2.Y.V	2.0 1.5	0	929
+177	11	two	dui	dui	Oriya	91	d ui	1 7	AX	TY	10	10.T.C 10.Y.V	2.0 1.5	0	929
+178	11	two	deka	None	Sinhalese	91	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	936
+179	11	two	dēṣ̊	None	Dhivehi	91	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	931
+180	11	two	duj	duj	Romani	91	d u j	1 7 6	AXN	TYJ	12	12.T.C 12.Y.V 12.J.c	2.0 1.5 0.8	0	940
+#
+1051	70	warm	warm	wɔːm	English	2516	w ɔː m	6 7 4	AXN	WUM	4	4.W.C 4.U.V 4.M.c	2.0 1.5 0.8	0	945
+1052	70	warm	garm	ɡəɾəm	Hindi	-6	ɡ ə ɾ ə m	1 7 5 7 4	AXBYN	KEREM	6	6.K.C 6.E.V 6.R.C 6.E.V 6.M.c	2.0 1.5 1.75 1.3 0.8	0	942
+1053	70	warm	garm	ɡaɾm	Urdu	-6	ɡ a ɾ m	1 7 5 4	AXLN	KARM	15	15.K.C 15.A.V 15.R.c 15.M.c	2.0 1.5 1.1 0.8	0	954
+1054	70	warm	nyāno	None	Nepali	170	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	1	950
+1055	70	warm	garam	ɡəɾᵊmə	Punjabi	133	ɡ ə ɾᵊ m ə	1 7 5 4 7	AXMBZ	KERME	11	11.K.C 11.E.V 11.R.c 11.M.C 11.E.V	2.0 1.5 1.1 1.75 0.8	0	952
+1056	70	warm	koso	ɡaɾm	Sindhi	133	ɡ a ɾ m	1 7 5 4	AXLN	KARM	13	13.K.C 13.A.V 13.R.c 13.M.c	2.0 1.5 1.1 0.8	0	954
+1057	70	warm	garam	None	Gujarati	133	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	946
+1058	70	warm	garam	None	Marathi	133	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	949
+1059	70	warm	garam	None	Konkani	133	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	948
+1060	70	warm	topot	ɡɔɹɔm	Assamese	133	ɡ ɔ ɹ ɔ m	1 7 5 7 4	AXBYN	KURUM	1	1.K.C 1.U.V 1.R.C 1.U.V 1.M.c	2.0 1.5 1.75 1.3 0.8	0	942
+1061	70	warm	gôrôm	ˈɡɔrom	Bengali	-10	ˈɡ ɔ r o m	1 7 5 7 4	AXBYN	KURUM	2	2.K.C 2.U.V 2.R.C 2.U.V 2.M.c	2.0 1.5 1.75 1.3 0.8	0	942
+1062	70	warm	gôrômô	ɡɔɾɔmɔ	Oriya	12	ɡ ɔ ɾ ɔ m ɔ	1 7 5 7 4 7	AXBYBZ	KURUMU	10	10.K.C 10.U.V 10.R.C 10.U.V 10.M.C 10.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0	942
+1063	70	warm	uṇusum	None	Sinhalese	133	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	949
+1064	70	warm	hūnu	None	Dhivehi	133	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	944
+1065	70	warm	tato	ˈtato	Romani	170	ˈt a t o	1 7 1 7	AXBZ	TATU	12	12.T.C 12.A.V 12.T.C 12.U.V	2.0 1.5 1.75 0.8	0	953
+#
+796	53	water	water	ˈwɔːtə	English	2549	ˈw ɔː t ə	6 7 1 7	AXBZ	WUTE	4	4.W.C 4.U.V 4.T.C 4.E.V	2.0 1.5 1.75 0.8	0	958
+797	53	water	pānī	pɑːniː	Hindi	94	p ɑː n iː	1 7 4 7	AXBZ	PANI	6	6.P.C 6.A.V 6.N.C 6.I.V	2.0 1.5 1.75 0.8	0	960
+798	53	water	pānī	päːɳiː	Urdu	94	p äː ɳ iː	1 7 4 7	AXBZ	PANI	15	15.P.C 15.A.V 15.N.C 15.I.V	2.0 1.5 1.75 0.8	0	960
+799	53	water	pānī	pɑːniː	Nepali	94	p ɑː n iː	1 7 4 7	AXBZ	PANI	9	9.P.C 9.A.V 9.N.C 9.I.V	2.0 1.5 1.75 0.8	0	955
+800	53	water	pāṇī	pɑːɳiː	Punjabi	94	p ɑː ɳ iː	1 7 4 7	AXBZ	PANI	11	11.P.C 11.A.V 11.N.C 11.I.V	2.0 1.5 1.75 0.8	0	960
+801	53	water	pānī	None	Sindhi	94	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	957
+802	53	water	pāṇī	ˈpɑɳi	Gujarati	94	ˈp ɑ ɳ i	1 7 4 7	AXBZ	PANI	5	5.P.C 5.A.V 5.N.C 5.I.V	2.0 1.5 1.75 0.8	0	955
+803	53	water	pāṇī	pɑɳi	Marathi	94	p ɑ ɳ i	1 7 4 7	AXBZ	PANI	8	8.P.C 8.A.V 8.N.C 8.I.V	2.0 1.5 1.75 0.8	0	955
+804	53	water	udak	dʒəl	Konkani	-12	d ʒ ə l	1 3 7 5	ACXN	TSEL	7	7.T.C 7.S.C 7.E.V 7.L.c	2.0 1.5 1.5 0.8	0	956
+805	53	water	pani	pani	Assamese	94	p a n i	1 7 4 7	AXBZ	PANI	1	1.P.C 1.A.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	0	955
+806	53	water	pani	zɔl	Bengali	319	z ɔ l	3 7 5	AXN	SUL	2	2.S.C 2.U.V 2.L.c	2.0 1.5 0.8	0	956
+807	53	water	paṇi	paɳi	Oriya	94	p a ɳ i	1 7 4 7	AXBZ	PANI	10	10.P.C 10.A.V 10.N.C 10.I.V	2.0 1.5 1.75 0.8	0	955
+808	53	water	watura	None	Sinhalese	94	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	968
+809	53	water	fen̊	fen	Dhivehi	94	f e n	3 7 4	AXN	BEN	3	3.B.C 3.E.V 3.N.c	2.0 1.5 0.8	0	957
+810	53	water	pani	ˈpʰaːniː	Romani	94	ˈpʰ aː n iː	1 7 4 7	AXBZ	PANI	12	12.P.C 12.A.V 12.N.C 12.I.V	2.0 1.5 1.75 0.8	0	955
+#
+31	2	we	we	wiː	English	2565	w iː	6 7	AX	WI	4	4.W.C 4.I.V	2.0 1.5	0	972
+32	2	we	ham	ˈhəm	Hindi	95	ˈh ə m	3 7 4	AXN	HEM	6	6.H.C 6.E.V 6.M.c	2.0 1.5 0.8	0	974
+33	2	we	ham	ɦəm	Urdu	95	ɦ ə m	3 7 4	AXN	HEM	15	15.H.C 15.E.V 15.M.c	2.0 1.5 0.8	0	974
+34	2	we	hāmī	None	Nepali	95	N o n e	0 7 4 7	AXBZ	0UNE	9	9.0.C 9.U.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	0	977
+35	2	we	asī̃	None	Punjabi	95	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	979
+36	2	we	asī̃	None	Sindhi	95	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	0	981
+37	2	we	ame	None	Gujarati	95	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	973
+38	2	we	āmhī*	ɑːpɐɳɐ	Marathi	95	ɑː p ɐ ɳ ɐ	7 1 7 4 7	XBYBZ	APENE	8	8.A.V 8.P.C 8.E.V 8.N.C 8.E.V	1.5 1.75 1.3 1.75 0.8	1	976
+39	2	we	āmhī	amʱi	Konkani	95	a mʱ i	7 4 7	XBZ	AMI	7	7.A.V 7.M.C 7.I.V	1.5 1.75 0.8	0	969
+40	2	we	ami	ami	Assamese	95	a m i	7 4 7	XBZ	AMI	1	1.A.V 1.M.C 1.I.V	1.5 1.75 0.8	0	969
+41	2	we	amra	None	Bengali	95	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	970
+42	2	we	ame	None	Oriya	95	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	978
+43	2	we	api	None	Sinhalese	95	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	976
+44	2	we	aharemen̊	None	Dhivehi	95	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	971
+45	2	we	amen	eɪˈmɛn	Romani	95	eɪ ˈm ɛ n	7 4 7 4	XBYN	EMEN	12	12.E.V 12.M.C 12.E.V 12.N.c	1.5 1.75 1.3 0.8	0	969
+#
+91	6	what	what	wɑt	English	2598	w ɑ t	6 7 1	AXN	WAT	4	4.W.C 4.A.V 4.T.c	2.0 1.5 0.8	0	985
+92	6	what	kyā	kjɑː	Hindi	96	k j ɑː	1 6 7	ACX	KJA	6	6.K.C 6.J.C 6.A.V	2.0 1.5 1.5	0	987
+93	6	what	kyā	kjɑː	Urdu	96	k j ɑː	1 6 7	ACX	KJA	15	15.K.C 15.J.C 15.A.V	2.0 1.5 1.5	0	987
+94	6	what	ke	keː	Nepali	96	k eː	1 7	AX	KE	9	9.K.C 9.E.V	2.0 1.5	0	982
+95	6	what	kī	None	Punjabi	96	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	992
+96	6	what	chā	None	Sindhi	96	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	994
+97	6	what	śũ	None	Gujarati	96	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	986
+98	6	what	kāy	kajə	Marathi	96	k a j ə	1 7 6 7	AXBZ	KAJE	8	8.K.C 8.A.V 8.J.C 8.E.V	2.0 1.5 1.75 0.8	0	989
+99	6	what	kidẽ	kʌsle	Konkani	96	k ʌ s l e	1 7 3 5 7	AXBCZ	KESLE	7	7.K.C 7.E.V 7.S.C 7.L.C 7.E.V	2.0 1.5 1.75 1.5 0.8	0	988
+100	6	what	ki	ki	Assamese	96	k i	1 7	AX	KI	1	1.K.C 1.I.V	2.0 1.5	0	982
+101	6	what	ki	ki	Bengali	96	k i	1 7	AX	KI	2	2.K.C 2.I.V	2.0 1.5	0	982
+102	6	what	kôṇô	None	Oriya	96	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	991
+103	6	what	monawā	None	Sinhalese	96	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	995
+104	6	what	kon̊eccek̊	None	Dhivehi	96	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	984
+105	6	what	so	səʊ	Romani	96	s əʊ	3 7	AX	SE	12	12.S.C 12.E.V	2.0 1.5	0	993
+#
+1006	67	white	white	waɪt	English	2649	w aɪ t	6 7 1	AXN	WAT	4	4.W.C 4.A.V 4.T.c	2.0 1.5 0.8	0	999
+1007	67	white	safed	səpʰeːd	Hindi	97	s ə pʰ eː d	3 7 1 7 1	AXBYN	SEPET	6	6.S.C 6.E.V 6.P.C 6.E.V 6.T.c	2.0 1.5 1.75 1.3 0.8	0	1001
+1008	67	white	safed	safeːd	Urdu	97	s a f eː d	3 7 3 7 1	AXBYN	SABET	15	15.S.C 15.A.V 15.B.C 15.E.V 15.T.c	2.0 1.5 1.75 1.3 0.8	0	1001
+1009	67	white	seto	seto	Nepali	375	s e t o	3 7 1 7	AXBZ	SETU	9	9.S.C 9.E.V 9.T.C 9.U.V	2.0 1.5 1.75 0.8	0	997
+1010	67	white	safaid	tʃɪʈːäː	Punjabi	97	t ʃ ɪ ʈː äː	1 3 7 1 7	ACXBZ	TSITA	11	11.T.C 11.S.C 11.I.V 11.T.C 11.A.V	2.0 1.5 1.5 1.75 0.8	0	997
+1011	67	white	acho	None	Sindhi	205	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	1008
+1012	67	white	saphed	None	Gujarati	267	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	1000
+1013	67	white	pāṇḍhre	None	Marathi	290	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	1003
+1014	67	white	dhavo	None	Konkani	267	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	1002
+1015	67	white	boga	bɔɡa	Assamese	134	b ɔ ɡ a	1 7 1 7	AXBZ	PUKA	1	1.P.C 1.U.V 1.K.C 1.A.V	2.0 1.5 1.75 0.8	0	996
+1016	67	white	śada	ʃada	Bengali	267	ʃ a d a	3 7 1 7	AXBZ	SATA	2	2.S.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	0	997
+1017	67	white	dhôbôḷô	dʱɔbɔɭɔ	Oriya	267	dʱ ɔ b ɔ ɭ ɔ	1 7 1 7 5 7	AXBYBZ	TUPULU	10	10.T.C 10.U.V 10.P.C 10.U.V 10.L.C 10.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0	1005
+1018	67	white	sudu	None	Sinhalese	428	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	1003
+1019	67	white	hudu	None	Dhivehi	428	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	998
+1020	67	white	parno	ˈparno	Romani	-18	ˈp a r n o	1 7 5 4 7	AXMBZ	PARNU	12	12.P.C 12.A.V 12.R.c 12.N.C 12.U.V	2.0 1.5 1.1 1.75 0.8	0	1007
+#
+76	5	who	who	hw	English	2688	h w	3 6	AC	HW	4	4.H.C 4.W.C	2.0 1.5	0	1012
+77	5	who	kaun	kɔːn	Hindi	99	k ɔː n	1 7 4	AXN	KUN	6	6.K.C 6.U.V 6.N.c	2.0 1.5 0.8	0	1009
+78	5	who	kaun	kʰuːn	Urdu	99	kʰ uː n	1 7 4	AXN	KYN	15	15.K.C 15.Y.V 15.N.c	2.0 1.5 0.8	0	1009
+79	5	who	ko	ko	Nepali	99	k o	1 7	AX	KU	9	9.K.C 9.U.V	2.0 1.5	0	1009
+80	5	who	kauṇ	kɔːɳə	Punjabi	99	k ɔː ɳ ə	1 7 4 7	AXBZ	KUNE	11	11.K.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	0	1009
+81	5	who	ker	None	Sindhi	99	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	1021
+82	5	who	koṇ	None	Gujarati	99	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	1013
+83	5	who	koṇ	koːɳ	Marathi	99	k oː ɳ	1 7 4	AXN	KUN	8	8.K.C 8.U.V 8.N.c	2.0 1.5 0.8	0	1009
+84	5	who	koṇ	koːɳ	Konkani	99	k oː ɳ	1 7 4	AXN	KUN	7	7.K.C 7.U.V 7.N.c	2.0 1.5 0.8	0	1009
+85	5	who	kün	kʊn	Assamese	99	k ʊ n	1 7 4	AXN	KYN	1	1.K.C 1.Y.V 1.N.c	2.0 1.5 0.8	0	1009
+86	5	who	ke	None	Bengali	99	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	1010
+87	5	who	kie	None	Oriya	99	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	1018
+88	5	who	kawuru	None	Sinhalese	99	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	1010
+89	5	who	kāku	kəːku	Dhivehi	99	k əː k u	1 7 1 7	AXBZ	KEKY	3	3.K.C 3.E.V 3.K.C 3.Y.V	2.0 1.5 1.75 0.8	0	1011
+90	5	who	kon	kɔn	Romani	99	k ɔ n	1 7 4	AXN	KUN	12	12.K.C 12.U.V 12.N.c	2.0 1.5 0.8	0	1009
+#
+226	15	woman	woman	ˈwʊmən	English	2740	ˈw ʊ m ə n	6 7 4 7 4	AXBYN	WYMEN	4	4.W.C 4.Y.V 4.M.C 4.E.V 4.N.c	2.0 1.5 1.75 1.3 0.8	0	1025
+227	15	woman	aurat	məɦɪlɑː	Hindi	-7	m ə ɦ ɪ l ɑː	4 7 3 7 5 7	AXBYBZ	MEHILA	6	6.M.C 6.E.V 6.H.C 6.I.V 6.L.C 6.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0	1023
+228	15	woman	'aurat	ɔːɾət	Urdu	-7	ɔː ɾ ə t	7 5 7 1	XBYN	URET	15	15.U.V 15.R.C 15.E.V 15.T.c	1.5 1.75 1.3 0.8	0	1036
+229	15	woman	āimāī	stɾiː	Nepali	244	s t ɾ iː	3 1 5 7	ACCZ	STRI	9	9.S.C 9.T.C 9.R.C 9.I.V	2.0 1.5 1.5 0.8	0	1030
+230	15	woman	aurat	None	Punjabi	135	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	1032
+231	15	woman	'aurat	zɑːl	Sindhi	206	z ɑː l	3 7 5	AXN	SAL	13	13.S.C 13.A.V 13.L.c	2.0 1.5 0.8	0	1034
+232	15	woman	strī	None	Gujarati	268	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	1026
+233	15	woman	bāī	bɑːiː	Marathi	268	b ɑːiː	1 7	AX	PA	8	8.P.C 8.A.V	2.0 1.5	0	1029
+234	15	woman	bāil	None	Konkani	-8	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	1028
+235	15	woman	maiki	maɪkimanuʱ	Assamese	135	m aɪ k i m a n uʱ	4 7 1 7 4 7 4 7	AXBYBYBZ	MAKIMANY	1	1.M.C 1.A.V 1.K.C 1.I.V 1.M.C 1.A.V 1.N.C 1.Y.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	0	1022
+236	15	woman	môhila	mɔɦila	Bengali	321	m ɔ ɦ i l a	4 7 3 7 5 7	AXBYBZ	MUHILA	2	2.M.C 2.U.V 2.H.C 2.I.V 2.L.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0	1023
+237	15	woman	nari	mɔhiɭa	Oriya	268	m ɔ h i ɭ a	4 7 3 7 5 7	AXBYBZ	MUHILA	10	10.M.C 10.U.V 10.H.C 10.I.V 10.L.C 10.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0	1023
+238	15	woman	gǣni	None	Sinhalese	429	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	1035
+239	15	woman	an̊hen̊	None	Dhivehi	244	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	1024
+240	15	woman	ʒuvli	dʒuvʎi	Romani	471	d ʒ u v ʎ i	1 3 7 3 5 7	ACXBCZ	TSYBLI	12	12.T.C 12.S.C 12.Y.V 12.B.C 12.L.C 12.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0	1033
+#
+991	66	yellow	yellow	ˈjɛləʊ	English	2786	ˈj ɛ l əʊ	6 7 5 7	AXBZ	JELE	4	4.J.C 4.E.V 4.L.C 4.E.V	2.0 1.5 1.75 0.8	0	1040
+992	66	yellow	pīlā	piːlɑː	Hindi	100	p iː l ɑː	1 7 5 7	AXBZ	PILA	6	6.P.C 6.I.V 6.L.C 6.A.V	2.0 1.5 1.75 0.8	0	1042
+993	66	yellow	pīlā	None	Urdu	100	N o n e	0 7 4 7	AXBZ	0UNE	15	15.0.C 15.U.V 15.N.C 15.E.V	2.0 1.5 1.75 0.8	1	1051
+994	66	yellow	pahẽlo	pʌɦẽlo	Nepali	100	p ʌ ɦ ẽ l o	1 7 3 7 5 7	AXBYBZ	PEHELU	9	9.P.C 9.E.V 9.H.C 9.E.V 9.L.C 9.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0	1037
+995	66	yellow	pīlā	None	Punjabi	100	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1	1047
+996	66	yellow	phiko	None	Sindhi	100	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1	1049
+997	66	yellow	pīḷo	None	Gujarati	100	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	1041
+998	66	yellow	pivḷe	None	Marathi	100	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1	1044
+999	66	yellow	haḷduvo	None	Konkani	322	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1	1043
+1000	66	yellow	halodhia	ɦalɔdʱia	Assamese	322	ɦ a l ɔ dʱ ia	3 7 5 7 1 7	AXBYBZ	HALUTI	1	1.H.C 1.A.V 1.L.C 1.U.V 1.T.C 1.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0	1037
+1001	66	yellow	hôlud	None	Bengali	322	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	1	1038
+1002	66	yellow	hôḷôdia	None	Oriya	322	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	1	1046
+1003	66	yellow	kaha	None	Sinhalese	431	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	1044
+1004	66	yellow	rīⁿdūkula	None	Dhivehi	546	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	1039
+1005	66	yellow	gàlbeno	None	Romani	-19	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1	1048
+#
+16	1	you	you	juː	English	2799	j uː	6 7	AX	JY	4	4.J.C 4.Y.V	2.0 1.5	0	1055
+17	1	you	tū*	ɑːp	Hindi	87	ɑː p	7 1	XN	AP	6	6.A.V 6.P.c	1.5 0.8	0	1057
+18	1	you	tū*	aːp	Urdu	87	aː p	7 1	XN	AP	15	15.A.V 15.P.c	1.5 0.8	0	1057
+19	1	you	tã	tʌpäĩ	Nepali	87	t ʌ p ä ĩ	1 7 1 7 7	AXBYZ	TEPAI	9	9.T.C 9.E.V 9.P.C 9.A.V 9.I.V	2.0 1.5 1.75 1.3 0.8	0	1060
+20	1	you	tū̃*	None	Punjabi	87	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	0	1062
+21	1	you	tū̃	tun	Sindhi	87	t u n	1 7 4	AXN	TYN	13	13.T.C 13.Y.V 13.N.c	2.0 1.5 0.8	0	1053
+22	1	you	tũ*	None	Gujarati	87	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1	1056
+23	1	you	tū*	ɑːpɐɳɐ	Marathi	87	ɑː p ɐ ɳ ɐ	7 1 7 4 7	XBYBZ	APENE	8	8.A.V 8.P.C 8.E.V 8.N.C 8.E.V	1.5 1.75 1.3 1.75 0.8	0	1052
+24	1	you	tū	tuː	Konkani	87	t uː	1 7	AX	TY	7	7.T.C 7.Y.V	2.0 1.5	0	1058
+25	1	you	toi*	apuni	Assamese	87	a p u n i	7 1 7 4 7	XBYBZ	APYNI	1	1.A.V 1.P.C 1.Y.V 1.N.C 1.I.V	1.5 1.75 1.3 1.75 0.8	0	1052
+26	1	you	tumi	None	Bengali	87	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	0	1053
+27	1	you	tu	None	Oriya	87	N o n e	0 7 4 7	AXBZ	0UNE	10	10.0.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	0	1061
+28	1	you	oyā*	None	Sinhalese	87	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1	1052
+29	1	you	kalē	None	Dhivehi	87	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1	1054
+30	1	you	tu	ˈtu	Romani	87	ˈt u	1 7	AX	TY	12	12.T.C 12.Y.V	2.0 1.5	0	1063
+# Created using the LexStat class of LingPy-2.6.9
+# Parameters: 2:1_1.00_10000_0.70_global-2-0.50:local-1-0.50_0.30__T_shuffle_False:upgma:-2_0.7_0.00_-5.00
+# Cluster: lexstat_complete_0.60

@@ -1,0 +1,1485 @@
+# Wordlist
+
+# DATA
+ID	COGNACY	CONCEPT	COUNTERPART	IPA	DOCULECT	COGID	TOKENS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	DUPLICATES
+#
+1080	60	agní	agní	əɡniː	Sanskrit	623	ə ɡ n iː	7 1 4 7	XBCZ	EKNI	15	15.E.V 15.K.C 15.N.C 15.I.V	1.5 1.75 1.5 0.8	0
+1081	60	agní	aggi	əɡgi	Pali	630	ə ɡ g i	7 1 1 7	XMBZ	EKKI	12	12.E.V 12.K.c 12.K.C 12.I.V	1.5 1.1 1.75 0.8	0
+1082	60	agní	āg	ɑːɡ	Hindi	27	ɑː ɡ	7 1	XN	AK	6	6.A.V 6.K.c	1.5 0.8	0
+1083	60	agní	āg	ɑːɡ	Urdu	27	ɑː ɡ	7 1	XN	AK	18	18.A.V 18.K.c	1.5 0.8	0
+1084	60	agní	āgo	äɡo	Nepali	27	ä ɡ o	7 1 7	XBZ	AKU	10	10.A.V 10.K.C 10.U.V	1.5 1.75 0.8	0
+1085	60	agní	āg	ɑːɡ	Bhojpuri	623	ɑː ɡ	7 1	XN	AK	3	3.A.V 3.K.c	1.5 0.8	0
+1086	60	agní	agga	bɑːʱi	Punjabi	27	b ɑːʱi	1 7	AX	PA	13	13.P.C 13.A.V	2.0 1.5	0
+1087	60	agní	āga	ɑːɡa	Gujarati	27	ɑː ɡ a	7 1 7	XBZ	AKA	5	5.A.V 5.K.C 5.A.V	1.5 1.75 0.8	0
+1088	60	agní	āg	ɑːɡ	Marathi	27	ɑː ɡ	7 1	XN	AK	9	9.A.V 9.K.c	1.5 0.8	0
+1089	60	agní	ujo	uːzɔː	Konkani	334	uː z ɔː	7 3 7	XBZ	YSU	8	8.Y.V 8.S.C 8.U.V	1.5 1.75 0.8	0
+1090	60	agní	zui	zui	Assamese	334	z ui	3 7	AX	SY	1	1.S.C 1.Y.V	2.0 1.5	0
+1091	60	agní	agun	aɡun	Bengali	-4	a ɡ u n	7 1 7 4	XBYN	AKYN	2	2.A.V 2.K.C 2.Y.V 2.N.c	1.5 1.75 1.3 0.8	0
+1092	60	agní	niam̐	niam̐	Oriya	673	n ia m̐	4 7 4	AXN	NIM	11	11.N.C 11.I.V 11.M.c	2.0 1.5 0.8	0
+1093	60	agní	None	None	Kashmiri	627	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1094	60	agní	gini	gini	Sinhalese	-2	g i n i	1 7 4 7	AXBZ	KINI	17	17.K.C 17.I.V 17.N.C 17.I.V	2.0 1.5 1.75 0.8	0
+1095	60	agní	alifān̊	əlifəːn	Dhivehi	531	ə l i f əː n	7 5 7 3 7 4	XBYBYN	ELIBEN	4	4.E.V 4.L.C 4.I.V 4.B.C 4.E.V 4.N.c	1.5 1.75 1.3 1.75 1.3 0.8	0
+1096	60	agní	jag	dʒæɡ	Romani	27	d ʒ æ ɡ	1 3 7 1	ACXN	TSEK	14	14.T.C 14.S.C 14.E.V 14.K.c	2.0 1.5 1.5 0.8	0
+#
+1	0	ahám	ahám	ɐɦɐm	Sanskrit	9	ɐ ɦ ɐ m	7 3 7 4	XBYN	EHEM	15	15.E.V 15.H.C 15.E.V 15.M.c	1.5 1.75 1.3 0.8	0
+2	0	ahám	ahaṃ	ˌɑˈhɑṃ	Pali	8	ˌɑ ˈh ɑ ṃ	7 3 7 4	XBYN	AHAM	12	12.A.V 12.H.C 12.A.V 12.M.c	1.5 1.75 1.3 0.8	0
+3	0	ahám	ma͠i	mɛː	Hindi	41	m ɛː	4 7	AX	ME	6	6.M.C 6.E.V	2.0 1.5	0
+4	0	ahám	ma͠i	mɛː	Urdu	41	m ɛː	4 7	AX	ME	18	18.M.C 18.E.V	2.0 1.5	0
+5	0	ahám	ma	mə	Nepali	41	m ə	4 7	AX	ME	10	10.M.C 10.E.V	2.0 1.5	0
+6	0	ahám	ham	ˈhəm	Bhojpuri	2	ˈh ə m	3 7 4	AXN	HEM	3	3.H.C 3.E.V 3.M.c	2.0 1.5 0.8	0
+7	0	ahám	maĩ	mɛː	Punjabi	41	m ɛː	4 7	AX	ME	13	13.M.C 13.E.V	2.0 1.5	0
+8	0	ahám	āū̃,	ɑːũː	Sindhi	41	ɑːũː	7	X	A	16	16.A.V	1.5	0
+9	0	ahám	hũ	None	Gujarati	41	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	0
+10	0	ahám	mī,	mi	Marathi	41	m i	4 7	AX	MI	9	9.M.C 9.I.V	2.0 1.5	0
+11	0	ahám	hā̃v	ɦɑːʋ	Konkani	41	ɦ ɑː ʋ	3 7 6	AXN	HAW	8	8.H.C 8.A.V 8.W.c	2.0 1.5 0.8	0
+12	0	ahám	moi	mɔɪ	Assamese	41	m ɔɪ	4 7	AX	MU	1	1.M.C 1.U.V	2.0 1.5	0
+13	0	ahám	ami	ami	Bengali	41	a m i	7 4 7	XBZ	AMI	2	2.A.V 2.M.C 2.I.V	1.5 1.75 0.8	0
+14	0	ahám	mum̐	mũ	Oriya	41	m ũ	4 7	AX	MY	11	11.M.C 11.Y.V	2.0 1.5	0
+15	0	ahám	bụ	bɨ	Kashmiri	6	b ɨ	1 7	AX	PI	7	7.P.C 7.I.V	2.0 1.5	0
+16	0	ahám	mama,	ˈmɑmə	Sinhalese	41	ˈm ɑ m ə	4 7 4 7	AXBZ	MAME	17	17.M.C 17.A.V 17.M.C 17.E.V	2.0 1.5 1.75 0.8	0
+17	0	ahám	aharen̊‎,	əhəɾen	Dhivehi	41	ə h ə ɾ e n	7 3 7 5 7 4	XBYBYN	EHEREN	4	4.E.V 4.H.C 4.E.V 4.R.C 4.E.V 4.N.c	1.5 1.75 1.3 1.75 1.3 0.8	0
+18	0	ahám	me	miː	Romani	41	m iː	4 7	AX	MI	14	14.M.C 14.I.V	2.0 1.5	0
+#
+558	31	aṇḍá	aṇḍá	aɳḍā	Sanskrit	503	a ɳ ḍ ā	7 4 1 7	XMBZ	ANTA	15	15.A.V 15.N.c 15.T.C 15.A.V	1.5 1.1 1.75 0.8	0
+559	31	aṇḍá	aṇḍa	aɳḍɑː	Pali	501	a ɳ ḍ ɑː	7 4 1 7	XMBZ	ANTA	12	12.A.V 12.N.c 12.T.C 12.A.V	1.5 1.1 1.75 0.8	0
+560	31	aṇḍá	aṇḍā	əɳɖɑː	Hindi	24	ə ɳ ɖ ɑː	7 4 1 7	XMBZ	ENTA	6	6.E.V 6.N.c 6.T.C 6.A.V	1.5 1.1 1.75 0.8	0
+561	31	aṇḍá	anḍā	None	Urdu	24	N o n e	0 7 4 7	AXBZ	0UNE	18	18.0.C 18.U.V 18.N.C 18.E.V	2.0 1.5 1.75 0.8	0
+562	31	aṇḍá	phul,	əɳɖɑ	Nepali	24	ə ɳ ɖ ɑ	7 4 1 7	XMBZ	ENTA	10	10.E.V 10.N.c 10.T.C 10.A.V	1.5 1.1 1.75 0.8	0
+563	31	aṇḍá	aṇḍā	əɳɖɑː	Bhojpuri	497	ə ɳ ɖ ɑː	7 4 1 7	XMBZ	ENTA	3	3.E.V 3.N.c 3.T.C 3.A.V	1.5 1.1 1.75 0.8	0
+564	31	aṇḍá	iṅgā	iɳgɑː	Punjabi	24	i ɳ g ɑː	7 4 1 7	XMBZ	INKA	13	13.I.V 13.N.c 13.K.C 13.A.V	1.5 1.1 1.75 0.8	0
+565	31	aṇḍá	āno	ɑːno	Sindhi	24	ɑː n o	7 4 7	XBZ	ANU	16	16.A.V 16.N.C 16.U.V	1.5 1.75 0.8	0
+566	31	aṇḍá	ī̃ḍũ	ī̃ḍũ	Gujarati	24	ī̃ ḍ ũ	7 1 7	XBZ	ITY	5	5.I.V 5.T.C 5.Y.V	1.5 1.75 0.8	0
+567	31	aṇḍá	aṇḍe	əɳɖe	Marathi	24	ə ɳ ɖ e	7 4 1 7	XMBZ	ENTE	9	9.E.V 9.N.c 9.T.C 9.E.V	1.5 1.1 1.75 0.8	0
+568	31	aṇḍá	tātī,	tɑːtiː	Konkani	-4	t ɑː t iː	1 7 1 7	AXBZ	TATI	8	8.T.C 8.A.V 8.T.C 8.I.V	2.0 1.5 1.75 0.8	0
+569	31	aṇḍá	koni	kɔni	Assamese	304	k ɔ n i	1 7 4 7	AXBZ	KUNI	1	1.K.C 1.U.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	0
+570	31	aṇḍá	ḍim	dim	Bengali	304	d i m	1 7 4	AXN	TIM	2	2.T.C 2.I.V 2.M.c	2.0 1.5 0.8	0
+571	31	aṇḍá	ôṇḍa	ɔɳɖa	Oriya	304	ɔ ɳ ɖ a	7 4 1 7	XMBZ	UNTA	11	11.U.V 11.N.c 11.T.C 11.A.V	1.5 1.1 1.75 0.8	0
+572	31	aṇḍá	None	None	Kashmiri	497	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+573	31	aṇḍá	bittaraya,	bittaraya	Sinhalese	24	b i tt a r aya	1 7 1 7 5 7	AXBYBZ	PITARA	17	17.P.C 17.I.V 17.T.C 17.A.V 17.R.C 17.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+574	31	aṇḍá	bis	bis	Dhivehi	398	b i s	1 7 3	AXN	PIS	4	4.P.C 4.I.V 4.S.c	2.0 1.5 0.8	0
+575	31	aṇḍá	anro	anro	Romani	24	a n r o	7 4 5 7	XBCZ	ANRU	14	14.A.V 14.N.C 14.R.C 14.U.V	1.5 1.75 1.5 0.8	0
+#
+163	9	bahú	bahú	bɐɦú	Sanskrit	1203	b ɐ ɦ ú	1 7 3 7	AXBZ	PEHY	15	15.P.C 15.E.V 15.H.C 15.Y.V	2.0 1.5 1.75 0.8	0
+164	9	bahú	bahu	bau	Pali	1203	b au	1 7	AX	PA	12	12.P.C 12.A.V	2.0 1.5	0
+165	9	bahú	bahut	bəɦʊt	Hindi	51	b ə ɦ ʊ t	1 7 3 7 1	AXBYN	PEHYT	6	6.P.C 6.E.V 6.H.C 6.Y.V 6.T.c	2.0 1.5 1.75 1.3 0.8	0
+166	9	bahú	bahut	bəɦoːt	Urdu	51	b ə ɦ oː t	1 7 3 7 1	AXBYN	PEHUT	18	18.P.C 18.E.V 18.H.C 18.U.V 18.T.c	2.0 1.5 1.75 1.3 0.8	0
+167	9	bahú	dherai,	dʱeɾʌi	Nepali	367	dʱ e ɾ ʌi	1 7 5 7	AXBZ	TERE	10	10.T.C 10.E.V 10.R.C 10.E.V	2.0 1.5 1.75 0.8	0
+168	9	bahú	ज़āde,	ज़āde	Bhojpuri	1205	ज ़ ā d e	0 0 7 1 7	ACYBZ	00ATE	3	3.0.C 3.0.C 3.A.V 3.T.C 3.E.V	2.0 1.5 1.3 1.75 0.8	0
+169	9	bahú	bahut	boːɦtᵊ	Punjabi	51	b oː ɦ tᵊ	1 7 3 1	AXLN	PUHT	13	13.P.C 13.U.V 13.H.c 13.T.c	2.0 1.5 1.1 0.8	0
+170	9	bahú	ghaṇā	gʰaṇɑː	Sindhi	193	gʰ a ṇ ɑː	1 7 4 7	AXBZ	KANA	16	16.K.C 16.A.V 16.N.C 16.A.V	2.0 1.5 1.75 0.8	0
+171	9	bahú	bahu,	ˈbəɦu	Gujarati	193	ˈb ə ɦ u	1 7 3 7	AXBZ	PEHY	5	5.P.C 5.E.V 5.H.C 5.Y.V	2.0 1.5 1.75 0.8	0
+172	9	bahú	puṣkaḷ,	puṣkɑḷ	Marathi	280	p u ṣ k ɑ ḷ	1 7 3 1 7 5	AXMBYN	PYSKAL	9	9.P.C 9.Y.V 9.S.c 9.K.C 9.A.V 9.L.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+173	9	bahú	khūb	kʰuːb	Konkani	-5	kʰ uː b	1 7 1	AXN	KYP	8	8.K.C 8.Y.V 8.P.c	2.0 1.5 0.8	0
+174	9	bahú	bohut	bɔɦut	Assamese	51	b ɔ ɦ u t	1 7 3 7 1	AXBYN	PUHYT	1	1.P.C 1.U.V 1.H.C 1.Y.V 1.T.c	2.0 1.5 1.75 1.3 0.8	0
+175	9	bahú	ônek	ɔnek	Bengali	51	ɔ n e k	7 4 7 1	XBYN	UNEK	2	2.U.V 2.N.C 2.E.V 2.K.c	1.5 1.75 1.3 0.8	0
+176	9	bahú	ônekô,	ɔnekɔ	Oriya	51	ɔ n e k ɔ	7 4 7 1 7	XBYBZ	UNEKU	11	11.U.V 11.N.C 11.E.V 11.K.C 11.U.V	1.5 1.75 1.3 1.75 0.8	0
+177	9	bahú	None	None	Kashmiri	1208	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+178	9	bahú	goḍak,	goʊḍak	Sinhalese	51	g oʊ ḍ a k	1 7 1 7 1	AXBYN	KUTAK	17	17.K.C 17.U.V 17.T.C 17.A.V 17.K.c	2.0 1.5 1.75 1.3 0.8	0
+179	9	bahú	baivaru	baivaru	Dhivehi	51	b ai v a r u	1 7 3 7 5 7	AXBYBZ	PABARY	4	4.P.C 4.A.V 4.B.C 4.A.V 4.R.C 4.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+180	9	bahú	but	bʌt	Romani	51	b ʌ t	1 7 1	AXN	PET	14	14.P.C 14.E.V 14.T.c	2.0 1.5 0.8	0
+#
+397	22	bī́ja	bī́ja	biːdʒ	Sanskrit	1629	b iː d ʒ	1 7 1 3	AXBC	PITS	15	15.P.C 15.I.V 15.T.C 15.S.C	2.0 1.5 1.75 1.5	0
+398	22	bī́ja	bīja	biːdʒ	Pali	1633	b iː d ʒ	1 7 1 3	AXBC	PITS	12	12.P.C 12.I.V 12.T.C 12.S.C	2.0 1.5 1.75 1.5	0
+399	22	bī́ja	bīj	biːdʒ	Hindi	72	b iː d ʒ	1 7 1 3	AXBC	PITS	6	6.P.C 6.I.V 6.T.C 6.S.C	2.0 1.5 1.75 1.5	0
+400	22	bī́ja	bīj	biːdʒ	Urdu	72	b iː d ʒ	1 7 1 3	AXBC	PITS	18	18.P.C 18.I.V 18.T.C 18.S.C	2.0 1.5 1.75 1.5	0
+401	22	bī́ja	bīu,	biu	Nepali	72	b iu	1 7	AX	PI	10	10.P.C 10.I.V	2.0 1.5	0
+402	22	bī́ja	bīyā	biːwaɪɑː	Bhojpuri	1625	b iː w aɪɑː	1 7 6 7	AXBZ	PIWA	3	3.P.C 3.I.V 3.W.C 3.A.V	2.0 1.5 1.75 0.8	0
+403	22	bī́ja	bīj	biːdʒə	Punjabi	72	b iː d ʒ ə	1 7 1 3 7	AXBCZ	PITSE	13	13.P.C 13.I.V 13.T.C 13.S.C 13.E.V	2.0 1.5 1.75 1.5 0.8	0
+404	22	bī́ja	ɓiju	biːdʒu	Sindhi	72	b iː d ʒ u	1 7 1 3 7	AXBCZ	PITSY	16	16.P.C 16.I.V 16.T.C 16.S.C 16.Y.V	2.0 1.5 1.75 1.5 0.8	0
+405	22	bī́ja	bīj	biːdʒ	Gujarati	72	b iː d ʒ	1 7 1 3	AXBC	PITS	5	5.P.C 5.I.V 5.T.C 5.S.C	2.0 1.5 1.75 1.5	0
+406	22	bī́ja	bī	biː	Marathi	72	b iː	1 7	AX	PI	9	9.P.C 9.I.V	2.0 1.5	0
+407	22	bī́ja	bī	biː	Konkani	72	b iː	1 7	AX	PI	8	8.P.C 8.I.V	2.0 1.5	0
+408	22	bī́ja	guti	ɡuti	Assamese	72	ɡ u t i	1 7 1 7	AXBZ	KYTI	1	1.K.C 1.Y.V 1.T.C 1.I.V	2.0 1.5 1.75 0.8	0
+409	22	bī́ja	bici	bici	Bengali	72	b i c i	1 7 1 7	AXBZ	PICI	2	2.P.C 2.I.V 2.C.C 2.I.V	2.0 1.5 1.75 0.8	0
+410	22	bī́ja	môñji	mɔñdʒi	Oriya	72	m ɔ ñ d ʒ i	4 7 4 1 3 7	AXMBCZ	MUNTSI	11	11.M.C 11.U.V 11.N.c 11.T.C 11.S.C 11.I.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+411	22	bī́ja	None	None	Kashmiri	1630	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+412	22	bī́ja	bīja	biːdʒa	Sinhalese	-5	b iː d ʒ a	1 7 1 3 7	AXBCZ	PITSA	17	17.P.C 17.I.V 17.T.C 17.S.C 17.A.V	2.0 1.5 1.75 1.5 0.8	0
+413	22	bī́ja	oṣu	oʊṣu	Dhivehi	543	oʊ ṣ u	7 3 7	XBZ	USY	4	4.U.V 4.S.C 4.Y.V	1.5 1.75 0.8	0
+414	22	bī́ja	sumburo	sumburo	Romani	-13	s u m b u r o	3 7 4 1 7 5 7	AXMBYBZ	SYMPYRU	14	14.S.C 14.Y.V 14.M.c 14.P.C 14.Y.V 14.R.C 14.U.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	0
+#
+469	26	cárman,	cárman,	tɕɐɾmɐn	Sanskrit	1706	t ɕ ɐ ɾ m ɐ n	1 3 7 5 4 7 4	ACXMBYN	TSERMEN	15	15.T.C 15.S.C 15.E.V 15.R.c 15.M.C 15.E.V 15.N.c	2.0 1.5 1.5 1.1 1.75 1.3 0.8	0
+470	26	cárman,	camma	ˈkamma	Pali	1705	ˈk a mm a	1 7 4 7	AXBZ	KAMA	12	12.K.C 12.A.V 12.M.C 12.A.V	2.0 1.5 1.75 0.8	0
+471	26	cárman,	camṛī,	tʃəmɽiː	Hindi	74	t ʃ ə m ɽ iː	1 3 7 4 5 7	ACXBCZ	TSEMRI	6	6.T.C 6.S.C 6.E.V 6.M.C 6.R.C 6.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+472	26	cárman,	jild	dʒild	Urdu	74	d ʒ i l d	1 3 7 5 1	ACXLN	TSILT	18	18.T.C 18.S.C 18.I.V 18.L.c 18.T.c	2.0 1.5 1.5 1.1 0.8	0
+473	26	cárman,	chālā	tʃʰɑːlɑː	Nepali	74	t ʃʰ ɑː l ɑː	1 3 7 5 7	ACXBZ	TSALA	10	10.T.C 10.S.C 10.A.V 10.L.C 10.A.V	2.0 1.5 1.5 1.75 0.8	0
+474	26	cárman,	camṛī	tʃəmɽiː	Bhojpuri	1702	t ʃ ə m ɽ iː	1 3 7 4 5 7	ACXBCZ	TSEMRI	3	3.T.C 3.S.C 3.E.V 3.M.C 3.R.C 3.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+475	26	cárman,	camṛī	tʃəmɽiː	Punjabi	74	t ʃ ə m ɽ iː	1 3 7 4 5 7	ACXBCZ	TSEMRI	13	13.T.C 13.S.C 13.E.V 13.M.C 13.R.C 13.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+476	26	cárman,	khala	kʰɑːlɑ	Sindhi	74	kʰ ɑː l ɑ	1 7 5 7	AXBZ	KALA	16	16.K.C 16.A.V 16.L.C 16.A.V	2.0 1.5 1.75 0.8	0
+477	26	cárman,	cāmḍī	tʃɑːmɖiː	Gujarati	74	t ʃ ɑː m ɖ iː	1 3 7 4 1 7	ACXMBZ	TSAMTI	5	5.T.C 5.S.C 5.A.V 5.M.c 5.T.C 5.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+478	26	cárman,	tvacā	tʋətʃɑː	Marathi	74	t ʋ ə t ʃ ɑː	1 6 7 1 3 7	ACXBCZ	TWETSA	9	9.T.C 9.W.C 9.E.V 9.T.C 9.S.C 9.A.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+479	26	cárman,	kāt	None	Konkani	74	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	0
+480	26	cárman,	sal,	sal	Assamese	348	s a l	3 7 5	AXN	SAL	1	1.S.C 1.A.V 1.L.c	2.0 1.5 0.8	0
+481	26	cárman,	camṛa	tʃɑmɽɑ	Bengali	74	t ʃ ɑ m ɽ ɑ	1 3 7 4 5 7	ACXBCZ	TSAMRA	2	2.T.C 2.S.C 2.A.V 2.M.C 2.R.C 2.A.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+482	26	cárman,	cômôṛa,	tʃɔmɔɽɑ	Oriya	74	t ʃ ɔ m ɔ ɽ ɑ	1 3 7 4 7 5 7	ACXBYBZ	TSUMURA	11	11.T.C 11.S.C 11.U.V 11.M.C 11.U.V 11.R.C 11.A.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	0
+483	26	cárman,	None	None	Kashmiri	1707	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+484	26	cárman,	ham	hæm	Sinhalese	74	h æ m	3 7 4	AXN	HEM	17	17.H.C 17.E.V 17.M.c	2.0 1.5 0.8	0
+485	26	cárman,	han̊	han̊	Dhivehi	74	h a n̊	3 7 4	AXN	HAN	4	4.H.C 4.A.V 4.N.c	2.0 1.5 0.8	0
+486	26	cárman,	morthǐ	morthǐ	Romani	-14	m o r t h ǐ	4 7 5 1 3 7	AXMBCZ	MURTHI	14	14.M.C 14.U.V 14.R.c 14.T.C 14.H.C 14.I.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+#
+1062	59	dhūmá	dhūmá	dʱuːm	Sanskrit	1767	dʱ uː m	1 7 4	AXN	TYM	15	15.T.C 15.Y.V 15.M.c	2.0 1.5 0.8	0
+1063	59	dhūmá	dhūma	None	Pali	1774	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+1064	59	dhūmá	dhuā̃	dʱuːɑː	Hindi	78	dʱ uːɑː	1 7	AX	TY	6	6.T.C 6.Y.V	2.0 1.5	0
+1065	59	dhūmá	dhūā̃	tũːäː	Urdu	78	t ũː äː	1 7 7	AXZ	TYA	18	18.T.C 18.Y.V 18.A.V	2.0 1.5 0.8	0
+1066	59	dhūmá	dhuwā̃	dʱṳwä	Nepali	78	dʱ ṳ w ä	1 7 6 7	AXBZ	TYWA	10	10.T.C 10.Y.V 10.W.C 10.A.V	2.0 1.5 1.75 0.8	0
+1067	59	dhūmá	dhuā̃	dʱuːɑː	Bhojpuri	1767	dʱ uːɑː	1 7	AX	TY	3	3.T.C 3.Y.V	2.0 1.5	0
+1068	59	dhūmá	dhū̃ā̃	tũːäː	Punjabi	78	t ũː äː	1 7 7	AXZ	TYA	13	13.T.C 13.Y.V 13.A.V	2.0 1.5 0.8	0
+1069	59	dhūmá	dū̃hõ	duːʱo	Sindhi	78	d uːʱo	1 7	AX	TY	16	16.T.C 16.Y.V	2.0 1.5	0
+1070	59	dhūmá	dhumāḍo	dʱumɑːdo	Gujarati	78	dʱ u m ɑː d o	1 7 4 7 1 7	AXBYBZ	TYMATU	5	5.T.C 5.Y.V 5.M.C 5.A.V 5.T.C 5.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1071	59	dhūmá	dhūr	dʱuɾ	Marathi	78	dʱ u ɾ	1 7 5	AXN	TYR	9	9.T.C 9.Y.V 9.R.c	2.0 1.5 0.8	0
+1072	59	dhūmá	dhuuvar	dʱumɑːdo	Konkani	78	dʱ u m ɑː d o	1 7 4 7 1 7	AXBYBZ	TYMATU	8	8.T.C 8.Y.V 8.M.C 8.A.V 8.T.C 8.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1073	59	dhūmá	dhü̃a	dʱuɑː	Assamese	78	dʱ uɑː	1 7	AX	TY	1	1.T.C 1.Y.V	2.0 1.5	0
+1074	59	dhūmá	dhũẏo	ũʱːjːo	Bengali	78	ũʱː jː o	7 6 7	XBZ	YJU	2	2.Y.V 2.J.C 2.U.V	1.5 1.75 0.8	0
+1075	59	dhūmá	dhuam̐	dhuam̐	Oriya	78	d h ua m̐	1 3 7 4	ACXN	THYM	11	11.T.C 11.H.C 11.Y.V 11.M.c	2.0 1.5 1.5 0.8	0
+1076	59	dhūmá	None	None	Kashmiri	1771	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1077	59	dhūmá	duma	duma	Sinhalese	78	d u m a	1 7 4 7	AXBZ	TYMA	17	17.T.C 17.Y.V 17.M.C 17.A.V	2.0 1.5 1.75 0.8	0
+1078	59	dhūmá	dun̊	dun̊	Dhivehi	78	d u n̊	1 7 4	AXN	TYN	4	4.T.C 4.Y.V 4.N.c	2.0 1.5 0.8	0
+1079	59	dhūmá	thuv	tʱuv	Romani	78	tʱ u v	1 7 3	AXN	TYB	14	14.T.C 14.Y.V 14.B.c	2.0 1.5 0.8	0
+#
+199	11	dví	dví	dví	Sanskrit	2217	d v í	1 3 7	ACX	TBI	15	15.T.C 15.B.C 15.I.V	2.0 1.5 1.5	0
+200	11	dví	dve	dʋêː	Pali	2210	d ʋ êː	1 6 7	ACX	TWE	12	12.T.C 12.W.C 12.E.V	2.0 1.5 1.5	0
+201	11	dví	do	doː	Hindi	91	d oː	1 7	AX	TU	6	6.T.C 6.U.V	2.0 1.5	0
+202	11	dví	do	du	Urdu	91	d u	1 7	AX	TY	18	18.T.C 18.Y.V	2.0 1.5	0
+203	11	dví	duī	dui	Nepali	91	d ui	1 7	AX	TY	10	10.T.C 10.Y.V	2.0 1.5	0
+204	11	dví	du	du	Bhojpuri	2211	d u	1 7	AX	TY	3	3.T.C 3.Y.V	2.0 1.5	0
+205	11	dví	do	doː	Punjabi	91	d oː	1 7	AX	TU	13	13.T.C 13.U.V	2.0 1.5	0
+206	11	dví	ɓa	ɓa	Sindhi	91	ɓ a	1 7	AX	PA	16	16.P.C 16.A.V	2.0 1.5	0
+207	11	dví	be	be	Gujarati	91	b e	1 7	AX	PE	5	5.P.C 5.E.V	2.0 1.5	0
+208	11	dví	don	don	Marathi	91	d o n	1 7 4	AXN	TUN	9	9.T.C 9.U.V 9.N.c	2.0 1.5 0.8	0
+209	11	dví	don	don	Konkani	91	d o n	1 7 4	AXN	TUN	8	8.T.C 8.U.V 8.N.c	2.0 1.5 0.8	0
+210	11	dví	dui	dui	Assamese	91	d ui	1 7	AX	TY	1	1.T.C 1.Y.V	2.0 1.5	0
+211	11	dví	dui	dui	Bengali	91	d ui	1 7	AX	TY	2	2.T.C 2.Y.V	2.0 1.5	0
+212	11	dví	dui	dui	Oriya	91	d ui	1 7	AX	TY	11	11.T.C 11.Y.V	2.0 1.5	0
+213	11	dví	zụ	zɨ	Kashmiri	2214	z ɨ	3 7	AX	SI	7	7.S.C 7.I.V	2.0 1.5	0
+214	11	dví	deka	deka	Sinhalese	91	d e k a	1 7 1 7	AXBZ	TEKA	17	17.T.C 17.E.V 17.K.C 17.A.V	2.0 1.5 1.75 0.8	0
+215	11	dví	dēṣ̊	diēṣ̊	Dhivehi	91	d i ē ṣ̊	1 7 7 3	AXYN	TIES	4	4.T.C 4.I.V 4.E.V 4.S.c	2.0 1.5 1.3 0.8	0
+216	11	dví	duj	duj	Romani	91	d u j	1 7 6	AXN	TYJ	14	14.T.C 14.Y.V 14.J.c	2.0 1.5 0.8	0
+#
+720	40	dánta	dánta	dɐntɐ	Sanskrit	2173	d ɐ n t ɐ	1 7 4 1 7	AXMBZ	TENTE	15	15.T.C 15.E.V 15.N.c 15.T.C 15.E.V	2.0 1.5 1.1 1.75 0.8	0
+721	40	dánta	danta	danta	Pali	2173	d a n t a	1 7 4 1 7	AXMBZ	TANTA	12	12.T.C 12.A.V 12.N.c 12.T.C 12.A.V	2.0 1.5 1.1 1.75 0.8	0
+722	40	dánta	dā̃t	dɑːt	Hindi	89	d ɑː t	1 7 1	AXN	TAT	6	6.T.C 6.A.V 6.T.c	2.0 1.5 0.8	0
+723	40	dánta	dānt	daːnt	Urdu	89	d aː n t	1 7 4 1	AXLN	TANT	18	18.T.C 18.A.V 18.N.c 18.T.c	2.0 1.5 1.1 0.8	0
+724	40	dánta	dā̃t	dɑːt	Nepali	89	d ɑː t	1 7 1	AXN	TAT	10	10.T.C 10.A.V 10.T.c	2.0 1.5 0.8	0
+725	40	dánta	dā̃t	dɑːt	Bhojpuri	2173	d ɑː t	1 7 1	AXN	TAT	3	3.T.C 3.A.V 3.T.c	2.0 1.5 0.8	0
+726	40	dánta	dand	dənd	Punjabi	89	d ə n d	1 7 4 1	AXLN	TENT	13	13.T.C 13.E.V 13.N.c 13.T.c	2.0 1.5 1.1 0.8	0
+727	40	dánta	ᶑanda	ᶑanda	Sindhi	89	ᶑ a n d a	0 7 4 1 7	AXMBZ	0ANTA	16	16.0.C 16.A.V 16.N.c 16.T.C 16.A.V	2.0 1.5 1.1 1.75 0.8	0
+728	40	dánta	dā̃t	dɑːt	Gujarati	89	d ɑː t	1 7 1	AXN	TAT	5	5.T.C 5.A.V 5.T.c	2.0 1.5 0.8	0
+729	40	dánta	dāt	dɑːt	Marathi	89	d ɑː t	1 7 1	AXN	TAT	9	9.T.C 9.A.V 9.T.c	2.0 1.5 0.8	0
+730	40	dánta	dānta	dɑːnt	Konkani	89	d ɑː n t	1 7 4 1	AXLN	TANT	8	8.T.C 8.A.V 8.N.c 8.T.c	2.0 1.5 1.1 0.8	0
+731	40	dánta	dãt	dãt	Assamese	89	d ã t	1 7 1	AXN	TAT	1	1.T.C 1.A.V 1.T.c	2.0 1.5 0.8	0
+732	40	dánta	dãtô	dãt	Bengali	89	d ã t	1 7 1	AXN	TAT	2	2.T.C 2.A.V 2.T.c	2.0 1.5 0.8	0
+733	40	dánta	dantô	dantɔ	Oriya	89	d a n t ɔ	1 7 4 1 7	AXMBZ	TANTU	11	11.T.C 11.A.V 11.N.c 11.T.C 11.U.V	2.0 1.5 1.1 1.75 0.8	0
+734	40	dánta	None	None	Kashmiri	2173	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+735	40	dánta	data	data	Sinhalese	89	d a t a	1 7 1 7	AXBZ	TATA	17	17.T.C 17.A.V 17.T.C 17.A.V	2.0 1.5 1.75 0.8	0
+736	40	dánta	dat̊	dæt̊	Dhivehi	89	d æ t̊	1 7 1	AXN	TET	4	4.T.C 4.E.V 4.T.c	2.0 1.5 0.8	0
+737	40	dánta	dand	dənd	Romani	89	d ə n d	1 7 4 1	AXLN	TENT	14	14.T.C 14.E.V 14.N.c 14.T.c	2.0 1.5 1.1 0.8	0
+#
+235	13	dīrghá	dīrghá	diːɾɡʱ	Sanskrit	1162	d iː ɾ ɡʱ	1 7 5 1	AXLN	TIRK	15	15.T.C 15.I.V 15.R.c 15.K.c	2.0 1.5 1.1 0.8	0
+236	13	dīrghá	dīgha	di:ɡʱa:	Pali	1170	d i: ɡʱ a:	1 7 1 7	AXBZ	TIKA	12	12.T.C 12.I.V 12.K.C 12.A.V	2.0 1.5 1.75 0.8	0
+237	13	dīrghá	lambā	ləmbɑː	Hindi	49	l ə m b ɑː	5 7 4 1 7	AXMBZ	LEMPA	6	6.L.C 6.E.V 6.M.c 6.P.C 6.A.V	2.0 1.5 1.1 1.75 0.8	0
+238	13	dīrghá	lambā	ləmbɑː	Urdu	49	l ə m b ɑː	5 7 4 1 7	AXMBZ	LEMPA	18	18.L.C 18.E.V 18.M.c 18.P.C 18.A.V	2.0 1.5 1.1 1.75 0.8	0
+239	13	dīrghá	lāmo	lämo	Nepali	49	l ä m o	5 7 4 7	AXBZ	LAMU	10	10.L.C 10.A.V 10.M.C 10.U.V	2.0 1.5 1.75 0.8	0
+240	13	dīrghá	lām	läm	Bhojpuri	1161	l ä m	5 7 4	AXN	LAM	3	3.L.C 3.A.V 3.M.c	2.0 1.5 0.8	0
+241	13	dīrghá	lammā	ləmbɑː	Punjabi	49	l ə m b ɑː	5 7 4 1 7	AXMBZ	LEMPA	13	13.L.C 13.E.V 13.M.c 13.P.C 13.A.V	2.0 1.5 1.1 1.75 0.8	0
+242	13	dīrghá	ḍigho	ᶑi:ɡʱo	Sindhi	191	ᶑ i: ɡʱ o	0 7 1 7	AXBZ	0IKU	16	16.0.C 16.I.V 16.K.C 16.U.V	2.0 1.5 1.75 0.8	0
+243	13	dīrghá	lā̃bu	lā̃bu	Gujarati	49	l ā̃ b u	5 7 1 7	AXBZ	LAPY	5	5.L.C 5.A.V 5.P.C 5.Y.V	2.0 1.5 1.75 0.8	0
+244	13	dīrghá	lāmba	ləmbɑː	Marathi	49	l ə m b ɑː	5 7 4 1 7	AXMBZ	LEMPA	9	9.L.C 9.E.V 9.M.c 9.P.C 9.A.V	2.0 1.5 1.1 1.75 0.8	0
+245	13	dīrghá	lāmba,	ləmbɑː	Konkani	191	l ə m b ɑː	5 7 4 1 7	AXMBZ	LEMPA	8	8.L.C 8.E.V 8.M.c 8.P.C 8.A.V	2.0 1.5 1.1 1.75 0.8	0
+246	13	dīrghá	dighol	digʱol	Assamese	191	d i gʱ o l	1 7 1 7 5	AXBYN	TIKUL	1	1.T.C 1.I.V 1.K.C 1.U.V 1.L.c	2.0 1.5 1.75 1.3 0.8	0
+247	13	dīrghá	lômba	ɛlɔmba	Bengali	49	ɛ l ɔ m b a	7 5 7 4 1 7	XBYMBZ	ELUMPA	2	2.E.V 2.L.C 2.U.V 2.M.c 2.P.C 2.A.V	1.5 1.75 1.3 1.1 1.75 0.8	0
+248	13	dīrghá	lômba,	ɛlɔmba	Oriya	49	ɛ l ɔ m b a	7 5 7 4 1 7	XBYMBZ	ELUMPA	11	11.E.V 11.L.C 11.U.V 11.M.c 11.P.C 11.A.V	1.5 1.75 1.3 1.1 1.75 0.8	0
+249	13	dīrghá	zīṭh	ziīṭeɪʧ	Kashmiri	1166	z i ī ṭ eɪ ʧ	3 7 7 1 7 2	AXYBYN	SIITEC	7	7.S.C 7.I.V 7.I.V 7.T.C 7.E.V 7.C.c	2.0 1.5 1.3 1.75 1.3 0.8	0
+250	13	dīrghá	diga	diga	Sinhalese	191	d i g a	1 7 1 7	AXBZ	TIKA	17	17.T.C 17.I.V 17.K.C 17.A.V	2.0 1.5 1.75 0.8	0
+251	13	dīrghá	digu	diɡu	Dhivehi	191	d i ɡ u	1 7 1 7	AXBZ	TIKY	4	4.T.C 4.I.V 4.K.C 4.Y.V	2.0 1.5 1.75 0.8	0
+252	13	dīrghá	lùngo	lùngo	Romani	-7	l ù n g o	5 7 4 1 7	AXMBZ	LYNKU	14	14.L.C 14.Y.V 14.N.c 14.K.C 14.U.V	2.0 1.5 1.1 1.75 0.8	0
+#
+828	46	gala,	gala,	ɡɐlɐ	Sanskrit	1311	ɡ ɐ l ɐ	1 7 5 7	AXBZ	KELE	15	15.K.C 15.E.V 15.L.C 15.E.V	2.0 1.5 1.75 0.8	0
+829	46	gala,	gīva	ɡiːva	Pali	1309	ɡ iː v a	1 7 3 7	AXBZ	KIBA	12	12.K.C 12.I.V 12.B.C 12.A.V	2.0 1.5 1.75 0.8	0
+830	46	gala,	gardan	ɡəɾdən	Hindi	56	ɡ ə ɾ d ə n	1 7 5 1 7 4	AXMBYN	KERTEN	6	6.K.C 6.E.V 6.R.c 6.T.C 6.E.V 6.N.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+831	46	gala,	gardan	ɡaɾdan	Urdu	56	ɡ a ɾ d a n	1 7 5 1 7 4	AXMBYN	KARTAN	18	18.K.C 18.A.V 18.R.c 18.T.C 18.A.V 18.N.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+832	46	gala,	gardan,	ɡəɾdən	Nepali	56	ɡ ə ɾ d ə n	1 7 5 1 7 4	AXMBYN	KERTEN	10	10.K.C 10.E.V 10.R.c 10.T.C 10.E.V 10.N.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+833	46	gala,	gardan	ɡəɾdən	Bhojpuri	1300	ɡ ə ɾ d ə n	1 7 5 1 7 4	AXMBYN	KERTEN	3	3.K.C 3.E.V 3.R.c 3.T.C 3.E.V 3.N.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+834	46	gala,	gardan	ɡəɾdən	Punjabi	56	ɡ ə ɾ d ə n	1 7 5 1 7 4	AXMBYN	KERTEN	13	13.K.C 13.E.V 13.R.c 13.T.C 13.E.V 13.N.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+835	46	gala,	ɠicī	ɠiciː	Sindhi	196	ɠ i c iː	1 7 1 7	AXBZ	KICI	16	16.K.C 16.I.V 16.C.C 16.I.V	2.0 1.5 1.75 0.8	0
+836	46	gala,	gaḷũ	ɠaḷuː	Gujarati	258	ɠ a ḷ uː	1 7 5 7	AXBZ	KALY	5	5.K.C 5.A.V 5.L.C 5.Y.V	2.0 1.5 1.75 0.8	0
+837	46	gala,	gaḷā	galaː	Marathi	229	g a l aː	1 7 5 7	AXBZ	KALA	9	9.K.C 9.A.V 9.L.C 9.A.V	2.0 1.5 1.75 0.8	0
+838	46	gala,	gaḷo	None	Konkani	56	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1
+839	46	gala,	diṅi	diŋi	Assamese	56	d i ŋ i	1 7 4 7	AXBZ	TINI	1	1.T.C 1.I.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	0
+840	46	gala,	gôla	ɡɔla	Bengali	56	ɡ ɔ l a	1 7 5 7	AXBZ	KULA	2	2.K.C 2.U.V 2.L.C 2.A.V	2.0 1.5 1.75 0.8	0
+841	46	gala,	bekô	bekɔ	Oriya	674	b e k ɔ	1 7 1 7	AXBZ	PEKU	11	11.P.C 11.E.V 11.K.C 11.U.V	2.0 1.5 1.75 0.8	0
+842	46	gala,	None	None	Kashmiri	1304	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+843	46	gala,	bella	bella	Sinhalese	312	b e ll a	1 7 5 7	AXBZ	PELA	17	17.P.C 17.E.V 17.L.C 17.A.V	2.0 1.5 1.75 0.8	0
+844	46	gala,	karu	karu	Dhivehi	413	k a r u	1 7 5 7	AXBZ	KARY	4	4.K.C 4.A.V 4.R.C 4.Y.V	2.0 1.5 1.75 0.8	0
+845	46	gala,	korr	kʰɔrː	Romani	599	kʰ ɔ rː	1 7 5	AXN	KUR	14	14.K.C 14.U.V 14.R.c	2.0 1.5 0.8	0
+#
+1133	63	girí,	girí,	ɡiɾí	Sanskrit	1250	ɡ i ɾ í	1 7 5 7	AXBZ	KIRI	15	15.K.C 15.I.V 15.R.C 15.I.V	2.0 1.5 1.75 0.8	0
+1134	63	girí,	pabbata,	pabbata	Pali	1248	p a bb a t a	1 7 1 7 1 7	AXBYBZ	PAPATA	12	12.P.C 12.A.V 12.P.C 12.A.V 12.T.C 12.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1135	63	girí,	pahāṛ	pəɦɑːɽ	Hindi	53	p ə ɦ ɑː ɽ	1 7 3 7 5	AXBYN	PEHAR	6	6.P.C 6.E.V 6.H.C 6.A.V 6.R.c	2.0 1.5 1.75 1.3 0.8	0
+1136	63	girí,	pahāṛ	pəɦɑːɽ	Urdu	53	p ə ɦ ɑː ɽ	1 7 3 7 5	AXBYN	PEHAR	18	18.P.C 18.E.V 18.H.C 18.A.V 18.R.c	2.0 1.5 1.75 1.3 0.8	0
+1137	63	girí,	pahāḍ	päːɽ	Nepali	53	p äː ɽ	1 7 5	AXN	PAR	10	10.P.C 10.A.V 10.R.c	2.0 1.5 0.8	0
+1138	63	girí,	pahāṛ	pəɦɑːɽ	Bhojpuri	1240	p ə ɦ ɑː ɽ	1 7 3 7 5	AXBYN	PEHAR	3	3.P.C 3.E.V 3.H.C 3.A.V 3.R.c	2.0 1.5 1.75 1.3 0.8	0
+1139	63	girí,	pahāṛ	pəɦɑːɽ	Punjabi	53	p ə ɦ ɑː ɽ	1 7 3 7 5	AXBYN	PEHAR	13	13.P.C 13.E.V 13.H.C 13.A.V 13.R.c	2.0 1.5 1.75 1.3 0.8	0
+1140	63	girí,	jabalu	dʒabal	Sindhi	53	d ʒ a b a l	1 3 7 1 7 5	ACXBYN	TSAPAL	16	16.T.C 16.S.C 16.A.V 16.P.C 16.A.V 16.L.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+1141	63	girí,	parvat	parvat	Gujarati	53	p a r v a t	1 7 5 3 7 1	AXMBYN	PARBAT	5	5.P.C 5.A.V 5.R.c 5.B.C 5.A.V 5.T.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+1142	63	girí,	ḍoṅgar	ɖoɽgar	Marathi	53	ɖ o ɽ g a r	1 7 5 1 7 5	AXMBYN	TURKAR	9	9.T.C 9.U.V 9.R.c 9.K.C 9.A.V 9.R.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+1143	63	girí,	doṅgar	ɖoɽgar	Konkani	-6	ɖ o ɽ g a r	1 7 5 1 7 5	AXMBYN	TURKAR	8	8.T.C 8.U.V 8.R.c 8.K.C 8.A.V 8.R.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+1144	63	girí,	pahar	paɦaɹ	Assamese	53	p a ɦ a ɹ	1 7 3 7 5	AXBYN	PAHAR	1	1.P.C 1.A.V 1.H.C 1.A.V 1.R.c	2.0 1.5 1.75 1.3 0.8	0
+1145	63	girí,	pahaṛ	pahaɽ	Bengali	53	p a h a ɽ	1 7 3 7 5	AXBYN	PAHAR	2	2.P.C 2.A.V 2.H.C 2.A.V 2.R.c	2.0 1.5 1.75 1.3 0.8	0
+1146	63	girí,	pôhaṛô,	pɔhaɽɔ	Oriya	-9	p ɔ h a ɽ ɔ	1 7 3 7 5 7	AXBYBZ	PUHARU	11	11.P.C 11.U.V 11.H.C 11.A.V 11.R.C 11.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1147	63	girí,	None	None	Kashmiri	1244	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1148	63	girí,	kanda,	kanda	Sinhalese	-4	k a n d a	1 7 4 1 7	AXMBZ	KANTA	17	17.K.C 17.A.V 17.N.c 17.T.C 17.A.V	2.0 1.5 1.1 1.75 0.8	0
+1149	63	girí,	farubada	None	Dhivehi	-2	N o n e	0 7 4 7	AXBZ	0UNE	4	4.0.C 4.U.V 4.N.C 4.E.V	2.0 1.5 1.75 0.8	1
+1150	63	girí,	plaj	None	Romani	-8	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1
+#
+1169	65	harit,	harit,	ɦɐɾit	Sanskrit	812	ɦ ɐ ɾ i t	3 7 5 7 1	AXBYN	HERIT	15	15.H.C 15.E.V 15.R.C 15.I.V 15.T.c	2.0 1.5 1.75 1.3 0.8	0
+1170	65	harit,	hari	aɾi	Pali	805	a ɾ i	7 5 7	XBZ	ARI	12	12.A.V 12.R.C 12.I.V	1.5 1.75 0.8	0
+1171	65	harit,	harā	ɦəˈɾaː	Hindi	35	ɦ ə ˈɾ aː	3 7 5 7	AXBZ	HERA	6	6.H.C 6.E.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	0
+1172	65	harit,	sabz	sabz	Urdu	35	s a b z	3 7 1 3	AXBC	SAPS	18	18.S.C 18.A.V 18.P.C 18.S.C	2.0 1.5 1.75 1.5	0
+1173	65	harit,	hariyo	ɦʌɾijo	Nepali	35	ɦ ʌ ɾ i j o	3 7 5 7 6 7	AXBYBZ	HERIJU	10	10.H.C 10.E.V 10.R.C 10.I.V 10.J.C 10.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1174	65	harit,	harīyar	None	Bhojpuri	801	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1
+1175	65	harit,	harā	haraː	Punjabi	35	h a r aː	3 7 5 7	AXBZ	HARA	13	13.H.C 13.A.V 13.R.C 13.A.V	2.0 1.5 1.75 0.8	0
+1176	65	harit,	sāo	saːo	Sindhi	160	s aːo	3 7	AX	SA	16	16.S.C 16.A.V	2.0 1.5	0
+1177	65	harit,	līlo	liːlo	Gujarati	253	l iː l o	5 7 5 7	AXBZ	LILU	5	5.L.C 5.I.V 5.L.C 5.U.V	2.0 1.5 1.75 0.8	0
+1178	65	harit,	hirve	hirve	Marathi	35	h i r v e	3 7 5 3 7	AXMBZ	HIRBE	9	9.H.C 9.I.V 9.R.c 9.B.C 9.E.V	2.0 1.5 1.1 1.75 0.8	0
+1179	65	harit,	pācvoẽ	paːcvoẽ	Konkani	612	p aː c v oẽ	1 7 1 3 7	AXBCZ	PACBU	8	8.P.C 8.A.V 8.C.C 8.B.C 8.U.V	2.0 1.5 1.75 1.5 0.8	0
+1180	65	harit,	xeuzia	xɛuzia	Assamese	-2	x ɛu z ia	3 7 3 7	AXBZ	GESI	1	1.G.C 1.E.V 1.S.C 1.I.V	2.0 1.5 1.75 0.8	0
+1181	65	harit,	śôbuj	sɔbudʒ	Bengali	-5	s ɔ b u d ʒ	3 7 1 7 1 3	AXBYBC	SUPYTS	2	2.S.C 2.U.V 2.P.C 2.Y.V 2.T.C 2.S.C	2.0 1.5 1.75 1.3 1.75 1.5	0
+1182	65	harit,	sôbujô,	sɔbudʒɔ	Oriya	-4	s ɔ b u d ʒ ɔ	3 7 1 7 1 3 7	AXBYBCZ	SUPYTSU	11	11.S.C 11.U.V 11.P.C 11.Y.V 11.T.C 11.S.C 11.U.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	0
+1183	65	harit,	None	None	Kashmiri	806	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1184	65	harit,	koḷa	None	Sinhalese	404	N o n e	0 7 4 7	AXBZ	0UNE	17	17.0.C 17.U.V 17.N.C 17.E.V	2.0 1.5 1.75 0.8	1
+1185	65	harit,	fehikulaige	None	Dhivehi	534	N o n e	0 7 4 7	AXBZ	0UNE	4	4.0.C 4.U.V 4.N.C 4.E.V	2.0 1.5 1.75 0.8	1
+1186	65	harit,	zèleno	None	Romani	-6	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1
+#
+792	44	hásta,	hásta,	ɦɐstɐ	Sanskrit	841	ɦ ɐ s t ɐ	3 7 3 1 7	AXMBZ	HESTE	15	15.H.C 15.E.V 15.S.c 15.T.C 15.E.V	2.0 1.5 1.1 1.75 0.8	0
+793	44	hásta,	hattha	None	Pali	842	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+794	44	hásta,	hāth	ɦɑːtʰ	Hindi	37	ɦ ɑː tʰ	3 7 1	AXN	HAT	6	6.H.C 6.A.V 6.T.c	2.0 1.5 0.8	0
+795	44	hásta,	hāth	ɦɑːtʰ	Urdu	37	ɦ ɑː tʰ	3 7 1	AXN	HAT	18	18.H.C 18.A.V 18.T.c	2.0 1.5 0.8	0
+796	44	hásta,	hāt	ɦat	Nepali	37	ɦ a t	3 7 1	AXN	HAT	10	10.H.C 10.A.V 10.T.c	2.0 1.5 0.8	0
+797	44	hásta,	hāth	ɦɑːtʰ	Bhojpuri	839	ɦ ɑː tʰ	3 7 1	AXN	HAT	3	3.H.C 3.A.V 3.T.c	2.0 1.5 0.8	0
+798	44	hásta,	hattha	ɦətːʰə	Punjabi	37	ɦ ə tːʰ ə	3 7 1 7	AXBZ	HETE	13	13.H.C 13.E.V 13.T.C 13.E.V	2.0 1.5 1.75 0.8	0
+799	44	hásta,	hatha	ɦɑtʰə	Sindhi	37	ɦ ɑ tʰ ə	3 7 1 7	AXBZ	HATE	16	16.H.C 16.A.V 16.T.C 16.E.V	2.0 1.5 1.75 0.8	0
+800	44	hásta,	hāth	ɦɑːtʰ	Gujarati	37	ɦ ɑː tʰ	3 7 1	AXN	HAT	5	5.H.C 5.A.V 5.T.c	2.0 1.5 0.8	0
+801	44	hásta,	hāt	ɦat	Marathi	37	ɦ a t	3 7 1	AXN	HAT	9	9.H.C 9.A.V 9.T.c	2.0 1.5 0.8	0
+802	44	hásta,	hāt	ɦat	Konkani	37	ɦ a t	3 7 1	AXN	HAT	8	8.H.C 8.A.V 8.T.c	2.0 1.5 0.8	0
+803	44	hásta,	hat	ɦat	Assamese	37	ɦ a t	3 7 1	AXN	HAT	1	1.H.C 1.A.V 1.T.c	2.0 1.5 0.8	0
+804	44	hásta,	hat	ɦat	Bengali	37	ɦ a t	3 7 1	AXN	HAT	2	2.H.C 2.A.V 2.T.c	2.0 1.5 0.8	0
+805	44	hásta,	hatô	hatɔ	Oriya	37	h a t ɔ	3 7 1 7	AXBZ	HATU	11	11.H.C 11.A.V 11.T.C 11.U.V	2.0 1.5 1.75 0.8	0
+806	44	hásta,	None	None	Kashmiri	839	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+807	44	hásta,	ata	ata	Sinhalese	37	a t a	7 1 7	XBZ	ATA	17	17.A.V 17.T.C 17.A.V	1.5 1.75 0.8	0
+808	44	hásta,	at̊	æt̊	Dhivehi	37	æ t̊	7 1	XN	ET	4	4.E.V 4.T.c	1.5 0.8	0
+809	44	hásta,	vast	vɑːst	Romani	37	v ɑː s t	3 7 3 1	AXLN	BAST	14	14.B.C 14.A.V 14.S.c 14.T.c	2.0 1.5 1.1 0.8	0
+#
+864	48	hṛ́daya	hṛ́daya	ɦɾɪdəj	Sanskrit	882	ɦ ɾ ɪ d ə j	3 5 7 1 7 6	ACXBYN	HRITEJ	15	15.H.C 15.R.C 15.I.V 15.T.C 15.E.V 15.J.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+865	48	hṛ́daya	hadaya	ɦrɪdəj	Pali	884	ɦ r ɪ d ə j	3 5 7 1 7 6	ACXBYN	HRITEJ	12	12.H.C 12.R.C 12.I.V 12.T.C 12.E.V 12.J.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+866	48	hṛ́daya	dil	dɪl	Hindi	-3	d ɪ l	1 7 5	AXN	TIL	6	6.T.C 6.I.V 6.L.c	2.0 1.5 0.8	0
+867	48	hṛ́daya	dil	dalla	Urdu	-3	d a ll a	1 7 5 7	AXBZ	TALA	18	18.T.C 18.A.V 18.L.C 18.A.V	2.0 1.5 1.75 0.8	0
+868	48	hṛ́daya	muṭu,	muʈu	Nepali	365	m u ʈ u	4 7 1 7	AXBZ	MYTY	10	10.M.C 10.Y.V 10.T.C 10.Y.V	2.0 1.5 1.75 0.8	0
+869	48	hṛ́daya	hīv,	h:iv	Bhojpuri	876	h: i v	3 7 3	AXN	HIB	3	3.H.C 3.I.V 3.B.c	2.0 1.5 0.8	0
+870	48	hṛ́daya	dil	dɪl	Punjabi	-2	d ɪ l	1 7 5	AXN	TIL	13	13.T.C 13.I.V 13.L.c	2.0 1.5 0.8	0
+871	48	hṛ́daya	dil	dalla	Sindhi	161	d a ll a	1 7 5 7	AXBZ	TALA	16	16.T.C 16.A.V 16.L.C 16.A.V	2.0 1.5 1.75 0.8	0
+872	48	hṛ́daya	hṛdya	ɦɾɪdəj	Gujarati	-2	ɦ ɾ ɪ d ə j	3 5 7 1 7 6	ACXBYN	HRITEJ	5	5.H.C 5.R.C 5.I.V 5.T.C 5.E.V 5.J.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+873	48	hṛ́daya	hruday	ɦɾɪdəj	Marathi	-6	ɦ ɾ ɪ d ə j	3 5 7 1 7 6	ACXBYN	HRITEJ	9	9.H.C 9.R.C 9.I.V 9.T.C 9.E.V 9.J.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+874	48	hṛ́daya	haḍḍẽ	haḍḍẽ	Konkani	143	h a ḍḍ ẽ	3 7 1 7	AXBZ	HATE	8	8.H.C 8.A.V 8.T.C 8.E.V	2.0 1.5 1.75 0.8	0
+875	48	hṛ́daya	hia,	ɦia	Assamese	161	ɦ ia	3 7	AX	HI	1	1.H.C 1.I.V	2.0 1.5	0
+876	48	hṛ́daya	hridôẏ	ɦɾɪdɔj	Bengali	-6	ɦ ɾ ɪ d ɔ j	3 5 7 1 7 6	ACXBYN	HRITUJ	2	2.H.C 2.R.C 2.I.V 2.T.C 2.U.V 2.J.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+877	48	hṛ́daya	hrudôyô	ɦrudɔjɔ	Oriya	-5	ɦ r u d ɔ j ɔ	3 5 7 1 7 6 7	ACXBYBZ	HRYTUJU	11	11.H.C 11.R.C 11.Y.V 11.T.C 11.U.V 11.J.C 11.U.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	0
+878	48	hṛ́daya	None	None	Kashmiri	880	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+879	48	hṛ́daya	hadawata,	hadawata	Sinhalese	161	h a d a w a t a	3 7 1 7 6 7 1 7	AXBYBYBZ	HATAWATA	17	17.H.C 17.A.V 17.T.C 17.A.V 17.W.C 17.A.V 17.T.C 17.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	0
+880	48	hṛ́daya	hit̊	hijʔ	Dhivehi	161	h i j ʔ	3 7 6 1	AXLN	HIJH	4	4.H.C 4.I.V 4.J.c 4.H.c	2.0 1.5 1.1 0.8	0
+881	48	hṛ́daya	ilo	ˈʔilo	Romani	161	ˈʔ i l o	1 7 5 7	AXBZ	HILU	14	14.H.C 14.I.V 14.L.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+55	3	idám	idám	idɐm	Sanskrit	2121	i d ɐ m	7 1 7 4	XBYN	ITEM	15	15.I.V 15.T.C 15.E.V 15.M.c	1.5 1.75 1.3 0.8	0
+56	3	idám	ayaṃ,	ayaṃ	Pali	2119	aya ṃ	7 4	XN	AM	12	12.A.V 12.M.c	1.5 0.8	0
+57	3	idám	yah	jəɦ	Hindi	86	j ə ɦ	6 7 3	AXN	JEH	6	6.J.C 6.E.V 6.H.c	2.0 1.5 0.8	0
+58	3	idám	yeh	jɛ	Urdu	86	j ɛ	6 7	AX	JE	18	18.J.C 18.E.V	2.0 1.5	0
+59	3	idám	yo	jo	Nepali	86	j o	6 7	AX	JU	10	10.J.C 10.U.V	2.0 1.5	0
+60	3	idám	ih	ɪɦ	Bhojpuri	2112	ɪ ɦ	7 3	XN	IH	3	3.I.V 3.H.c	1.5 0.8	0
+61	3	idám	iha	eː	Punjabi	86	eː	7	X	E	13	13.E.V	1.5	0
+62	3	idám	hī*,	hija	Sindhi	86	h i j a	3 7 6 7	AXBZ	HIJA	16	16.H.C 16.I.V 16.J.C 16.A.V	2.0 1.5 1.75 0.8	0
+63	3	idám	ā	ɑː	Gujarati	86	ɑː	7	X	A	5	5.A.V	1.5	0
+64	3	idám	hā*,	ha	Marathi	86	h a	3 7	AX	HA	9	9.H.C 9.A.V	2.0 1.5	0
+65	3	idám	vho,	vʱo	Konkani	86	vʱ o	3 7	AX	BU	8	8.B.C 8.U.V	2.0 1.5	0
+66	3	idám	ei	ɛi	Assamese	86	ɛi	7	X	E	1	1.E.V	1.5	0
+67	3	idám	e	ɛ	Bengali	86	ɛ	7	X	E	2	2.E.V	1.5	0
+68	3	idám	eha	eha	Oriya	86	e h a	7 3 7	XBZ	EHA	11	11.E.V 11.H.C 11.A.V	1.5 1.75 0.8	0
+69	3	idám	yi	ji	Kashmiri	2116	j i	6 7	AX	JI	7	7.J.C 7.I.V	2.0 1.5	0
+70	3	idám	mē*	ɛme:	Sinhalese	86	ɛ m e:	7 4 7	XBZ	EME	17	17.E.V 17.M.C 17.E.V	1.5 1.75 0.8	0
+71	3	idám	mi	mi	Dhivehi	86	m i	4 7	AX	MI	4	4.M.C 4.I.V	2.0 1.5	0
+72	3	idám	kado	kaːˈdoː	Romani	86	k aː ˈd oː	1 7 1 7	AXBZ	KATU	14	14.K.C 14.A.V 14.T.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+954	53	jalá,	jalá,	dʒəl	Sanskrit	2271	d ʒ ə l	1 3 7 5	ACXN	TSEL	15	15.T.C 15.S.C 15.E.V 15.L.c	2.0 1.5 1.5 0.8	0
+955	53	jalá,	jala,	ˈjala	Pali	2274	ˈj a l a	6 7 5 7	AXBZ	JALA	12	12.J.C 12.A.V 12.L.C 12.A.V	2.0 1.5 1.75 0.8	0
+956	53	jalá,	pānī	pɑːniː	Hindi	94	p ɑː n iː	1 7 4 7	AXBZ	PANI	6	6.P.C 6.A.V 6.N.C 6.I.V	2.0 1.5 1.75 0.8	0
+957	53	jalá,	pānī	päːɳiː	Urdu	94	p äː ɳ iː	1 7 4 7	AXBZ	PANI	18	18.P.C 18.A.V 18.N.C 18.I.V	2.0 1.5 1.75 0.8	0
+958	53	jalá,	pānī	pɑːniː	Nepali	94	p ɑː n iː	1 7 4 7	AXBZ	PANI	10	10.P.C 10.A.V 10.N.C 10.I.V	2.0 1.5 1.75 0.8	0
+959	53	jalá,	pānī	pɑːniː	Bhojpuri	2271	p ɑː n iː	1 7 4 7	AXBZ	PANI	3	3.P.C 3.A.V 3.N.C 3.I.V	2.0 1.5 1.75 0.8	0
+960	53	jalá,	pāṇī	pɑːɳiː	Punjabi	94	p ɑː ɳ iː	1 7 4 7	AXBZ	PANI	13	13.P.C 13.A.V 13.N.C 13.I.V	2.0 1.5 1.75 0.8	0
+961	53	jalá,	pānī	None	Sindhi	94	N o n e	0 7 4 7	AXBZ	0UNE	16	16.0.C 16.U.V 16.N.C 16.E.V	2.0 1.5 1.75 0.8	0
+962	53	jalá,	pāṇī	ˈpɑɳi	Gujarati	94	ˈp ɑ ɳ i	1 7 4 7	AXBZ	PANI	5	5.P.C 5.A.V 5.N.C 5.I.V	2.0 1.5 1.75 0.8	0
+963	53	jalá,	pāṇī	pɑɳi	Marathi	94	p ɑ ɳ i	1 7 4 7	AXBZ	PANI	9	9.P.C 9.A.V 9.N.C 9.I.V	2.0 1.5 1.75 0.8	0
+964	53	jalá,	udak,	ʊdək	Konkani	-12	ʊ d ə k	7 1 7 1	XBYN	YTEK	8	8.Y.V 8.T.C 8.E.V 8.K.c	1.5 1.75 1.3 0.8	0
+965	53	jalá,	pani	pani	Assamese	94	p a n i	1 7 4 7	AXBZ	PANI	1	1.P.C 1.A.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	0
+966	53	jalá,	pani,	ˈpɑːniː	Bengali	319	ˈp ɑː n iː	1 7 4 7	AXBZ	PANI	2	2.P.C 2.A.V 2.N.C 2.I.V	2.0 1.5 1.75 0.8	0
+967	53	jalá,	paṇi	paṇi	Oriya	94	p a ṇ i	1 7 4 7	AXBZ	PANI	11	11.P.C 11.A.V 11.N.C 11.I.V	2.0 1.5 1.75 0.8	0
+968	53	jalá,	None	None	Kashmiri	2271	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+969	53	jalá,	watura	watura	Sinhalese	94	w a t u r a	6 7 1 7 5 7	AXBYBZ	WATYRA	17	17.W.C 17.A.V 17.T.C 17.Y.V 17.R.C 17.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+970	53	jalá,	fen̊	feŋ	Dhivehi	94	f e ŋ	3 7 4	AXN	BEN	4	4.B.C 4.E.V 4.N.c	2.0 1.5 0.8	0
+971	53	jalá,	pani	ˈpʰaːniː	Romani	94	ˈpʰ aː n iː	1 7 4 7	AXBZ	PANI	14	14.P.C 14.A.V 14.N.C 14.I.V	2.0 1.5 1.75 0.8	0
+#
+738	41	jihvā́	jihvā́	dʑiɦʋɑː	Sanskrit	2168	d ʑ i ɦ ʋ ɑː	1 3 7 3 6 7	ACXBCZ	TSIHWA	15	15.T.C 15.S.C 15.I.V 15.H.C 15.W.C 15.A.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+739	41	jihvā́	jivhā	dʑiɦʋɑː	Pali	2171	d ʑ i ɦ ʋ ɑː	1 3 7 3 6 7	ACXBCZ	TSIHWA	12	12.T.C 12.S.C 12.I.V 12.H.C 12.W.C 12.A.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+740	41	jihvā́	jībh	dʒiːbʱ	Hindi	88	d ʒ iː bʱ	1 3 7 1	ACXN	TSIP	6	6.T.C 6.S.C 6.I.V 6.P.c	2.0 1.5 1.5 0.8	0
+741	41	jihvā́	zabān,	zabɑːn	Urdu	88	z a b ɑː n	3 7 1 7 4	AXBYN	SAPAN	18	18.S.C 18.A.V 18.P.C 18.A.V 18.N.c	2.0 1.5 1.75 1.3 0.8	0
+742	41	jihvā́	jibro	dzibro	Nepali	88	d z i b r o	1 3 7 1 5 7	ACXBCZ	TSIPRU	10	10.T.C 10.S.C 10.I.V 10.P.C 10.R.C 10.U.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+743	41	jihvā́	jībh	dʒiːbʱ	Bhojpuri	2168	d ʒ iː bʱ	1 3 7 1	ACXN	TSIP	3	3.T.C 3.S.C 3.I.V 3.P.c	2.0 1.5 1.5 0.8	0
+744	41	jihvā́	jībh	dʒiːbʱ	Punjabi	88	d ʒ iː bʱ	1 3 7 1	ACXN	TSIP	13	13.T.C 13.S.C 13.I.V 13.P.c	2.0 1.5 1.5 0.8	0
+745	41	jihvā́	zabāna	zabɑːn	Sindhi	88	z a b ɑː n	3 7 1 7 4	AXBYN	SAPAN	16	16.S.C 16.A.V 16.P.C 16.A.V 16.N.c	2.0 1.5 1.75 1.3 0.8	0
+746	41	jihvā́	jībh	dʒibʱ	Gujarati	88	d ʒ i bʱ	1 3 7 1	ACXN	TSIP	5	5.T.C 5.S.C 5.I.V 5.P.c	2.0 1.5 1.5 0.8	0
+747	41	jihvā́	jībh	dʒiːbʱ	Marathi	88	d ʒ iː bʱ	1 3 7 1	ACXN	TSIP	9	9.T.C 9.S.C 9.I.V 9.P.c	2.0 1.5 1.5 0.8	0
+748	41	jihvā́	jibli,	dʒiːbʱli	Konkani	88	d ʒ iː bʱ l i	1 3 7 1 5 7	ACXBCZ	TSIPLI	8	8.T.C 8.S.C 8.I.V 8.P.C 8.L.C 8.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+749	41	jihvā́	zibha	zibʱa	Assamese	88	z i bʱ a	3 7 1 7	AXBZ	SIPA	1	1.S.C 1.I.V 1.P.C 1.A.V	2.0 1.5 1.75 0.8	0
+750	41	jihvā́	jibh,	dʒibʱ	Bengali	88	d ʒ i bʱ	1 3 7 1	ACXN	TSIP	2	2.T.C 2.S.C 2.I.V 2.P.c	2.0 1.5 1.5 0.8	0
+751	41	jihvā́	jibhô	dʒibʱɔ	Oriya	88	d ʒ i bʱ ɔ	1 3 7 1 7	ACXBZ	TSIPU	11	11.T.C 11.S.C 11.I.V 11.P.C 11.U.V	2.0 1.5 1.5 1.75 0.8	0
+752	41	jihvā́	None	None	Kashmiri	2168	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+753	41	jihvā́	diwa	ˈdiwə	Sinhalese	88	ˈd i w ə	1 7 6 7	AXBZ	TIWE	17	17.T.C 17.I.V 17.W.C 17.E.V	2.0 1.5 1.75 0.8	0
+754	41	jihvā́	dū	duː	Dhivehi	88	d uː	1 7	AX	TY	4	4.T.C 4.Y.V	2.0 1.5	0
+755	41	jihvā́	ćhib	tʃʰip	Romani	88	t ʃʰ i p	1 3 7 1	ACXN	TSIP	14	14.T.C 14.S.C 14.I.V 14.P.c	2.0 1.5 1.5 0.8	0
+#
+774	43	jā́nu	jā́nu	dzänu	Sanskrit	1038	d z ä n u	1 3 7 4 7	ACXBZ	TSANY	15	15.T.C 15.S.C 15.A.V 15.N.C 15.Y.V	2.0 1.5 1.5 1.75 0.8	0
+775	43	jā́nu	jānu	dzänu	Pali	1046	d z ä n u	1 3 7 4 7	ACXBZ	TSANY	12	12.T.C 12.S.C 12.A.V 12.N.C 12.Y.V	2.0 1.5 1.5 1.75 0.8	0
+776	43	jā́nu	ghuṭnā	ɡʱʊʈnɑː	Hindi	43	ɡʱ ʊ ʈ n ɑː	1 7 1 4 7	AXBCZ	KYTNA	6	6.K.C 6.Y.V 6.T.C 6.N.C 6.A.V	2.0 1.5 1.75 1.5 0.8	0
+777	43	jā́nu	ghuṭnā	ɡʱʊʈnɑː	Urdu	43	ɡʱ ʊ ʈ n ɑː	1 7 1 4 7	AXBCZ	KYTNA	18	18.K.C 18.Y.V 18.T.C 18.N.C 18.A.V	2.0 1.5 1.75 1.5 0.8	0
+778	43	jā́nu	ghũḍā	ɡʱʊɖaː	Nepali	43	ɡʱ ʊ ɖ aː	1 7 1 7	AXBZ	KYTA	10	10.K.C 10.Y.V 10.T.C 10.A.V	2.0 1.5 1.75 0.8	0
+779	43	jā́nu	ṭhehunā	ʈʱeʱunaː	Bhojpuri	1039	ʈʱ eʱu n aː	1 7 4 7	AXBZ	TENA	3	3.T.C 3.E.V 3.N.C 3.A.V	2.0 1.5 1.75 0.8	0
+780	43	jā́nu	goḍe	goᶑe	Punjabi	122	g o ᶑ e	1 7 0 7	AXBZ	KU0E	13	13.K.C 13.U.V 13.0.C 13.E.V	2.0 1.5 1.75 0.8	0
+781	43	jā́nu	goᶑo	goᶑe	Sindhi	122	g o ᶑ e	1 7 0 7	AXBZ	KU0E	16	16.K.C 16.U.V 16.0.C 16.E.V	2.0 1.5 1.75 0.8	0
+782	43	jā́nu	ghū̃ṭaṇ	ɡʱʊʈɑːn	Gujarati	122	ɡʱ ʊ ʈ ɑː n	1 7 1 7 4	AXBYN	KYTAN	5	5.K.C 5.Y.V 5.T.C 5.A.V 5.N.c	2.0 1.5 1.75 1.3 0.8	0
+783	43	jā́nu	guḍghā	ɡʱʊᶑɡɡʱɑː	Marathi	122	ɡʱ ʊ ᶑ ɡ ɡʱ ɑː	1 7 0 1 1 7	AXBCBZ	KY0KKA	9	9.K.C 9.Y.V 9.0.C 9.K.C 9.K.C 9.A.V	2.0 1.5 1.75 1.5 1.75 0.8	0
+784	43	jā́nu	dopor	ˈdoʊpər	Konkani	613	ˈd oʊ p ə r	1 7 1 7 5	AXBYN	TUPER	8	8.T.C 8.U.V 8.P.C 8.E.V 8.R.c	2.0 1.5 1.75 1.3 0.8	0
+785	43	jā́nu	ãthu	ãtʰu	Assamese	225	ã tʰ u	7 1 7	XBZ	ATY	1	1.A.V 1.T.C 1.Y.V	1.5 1.75 0.8	0
+786	43	jā́nu	hãṭu	ˈɦaʈu	Bengali	225	ˈɦ a ʈ u	3 7 1 7	AXBZ	HATY	2	2.H.C 2.A.V 2.T.C 2.Y.V	2.0 1.5 1.75 0.8	0
+787	43	jā́nu	aṇṭhu	aɳʈʰu	Oriya	225	a ɳ ʈʰ u	7 4 1 7	XMBZ	ANTY	11	11.A.V 11.N.c 11.T.C 11.Y.V	1.5 1.1 1.75 0.8	0
+788	43	jā́nu	None	None	Kashmiri	1038	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+789	43	jā́nu	dana	kaku	Sinhalese	144	k a k u	1 7 1 7	AXBZ	KAKY	17	17.K.C 17.A.V 17.K.C 17.Y.V	2.0 1.5 1.75 0.8	0
+790	43	jā́nu	kakū	kakuː	Dhivehi	538	k a k uː	1 7 1 7	AXBZ	KAKY	4	4.K.C 4.A.V 4.K.C 4.Y.V	2.0 1.5 1.75 0.8	0
+791	43	jā́nu	chang	tɕãɴ	Romani	587	t ɕ ã ɴ	1 3 7 4	ACXN	TSAN	14	14.T.C 14.S.C 14.A.V 14.N.c	2.0 1.5 1.5 0.8	0
+#
+91	5	ká	ká	kə	Sanskrit	2358	k ə	1 7	AX	KE	15	15.K.C 15.E.V	2.0 1.5	0
+92	5	ká	ka	kɑː	Pali	2358	k ɑː	1 7	AX	KA	12	12.K.C 12.A.V	2.0 1.5	0
+93	5	ká	kaun	kɔːn	Hindi	99	k ɔː n	1 7 4	AXN	KUN	6	6.K.C 6.U.V 6.N.c	2.0 1.5 0.8	0
+94	5	ká	kaun	kʰuːn	Urdu	99	kʰ uː n	1 7 4	AXN	KYN	18	18.K.C 18.Y.V 18.N.c	2.0 1.5 0.8	0
+95	5	ká	ko	ko	Nepali	99	k o	1 7	AX	KU	10	10.K.C 10.U.V	2.0 1.5	0
+96	5	ká	kavan,	None	Bhojpuri	2358	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	0
+97	5	ká	kauṇ	kɔːɳə	Punjabi	99	k ɔː ɳ ə	1 7 4 7	AXBZ	KUNE	13	13.K.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	0
+98	5	ká	ker	kɜr	Sindhi	99	k ɜ r	1 7 5	AXN	KER	16	16.K.C 16.E.V 16.R.c	2.0 1.5 0.8	0
+99	5	ká	koṇ	koʊṇ	Gujarati	99	k oʊ ṇ	1 7 4	AXN	KUN	5	5.K.C 5.U.V 5.N.c	2.0 1.5 0.8	0
+100	5	ká	koṇ	koːɳ	Marathi	99	k oː ɳ	1 7 4	AXN	KUN	9	9.K.C 9.U.V 9.N.c	2.0 1.5 0.8	0
+101	5	ká	koṇ	koːɳ	Konkani	99	k oː ɳ	1 7 4	AXN	KUN	8	8.K.C 8.U.V 8.N.c	2.0 1.5 0.8	0
+102	5	ká	kün	kʊn	Assamese	99	k ʊ n	1 7 4	AXN	KYN	1	1.K.C 1.Y.V 1.N.c	2.0 1.5 0.8	0
+103	5	ká	ke	ke	Bengali	99	k e	1 7	AX	KE	2	2.K.C 2.E.V	2.0 1.5	0
+104	5	ká	kie	kie	Oriya	99	k ie	1 7	AX	KI	11	11.K.C 11.I.V	2.0 1.5	0
+105	5	ká	None	None	Kashmiri	2363	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	0
+106	5	ká	kawuru	None	Sinhalese	99	N o n e	0 7 4 7	AXBZ	0UNE	17	17.0.C 17.U.V 17.N.C 17.E.V	2.0 1.5 1.75 0.8	0
+107	5	ká	kāku	kəːku	Dhivehi	99	k əː k u	1 7 1 7	AXBZ	KEKY	4	4.K.C 4.E.V 4.K.C 4.Y.V	2.0 1.5 1.75 0.8	0
+108	5	ká	kon	kɔn	Romani	99	k ɔ n	1 7 4	AXN	KUN	14	14.K.C 14.U.V 14.N.c	2.0 1.5 0.8	0
+#
+666	37	kárṇa	kárṇa	kəɾɳ	Sanskrit	470	k ə ɾ ɳ	1 7 5 4	AXLN	KERN	15	15.K.C 15.E.V 15.R.c 15.N.c	2.0 1.5 1.1 0.8	0
+667	37	kárṇa	kaṇṇa	None	Pali	474	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+668	37	kárṇa	kān	kɑːn	Hindi	21	k ɑː n	1 7 4	AXN	KAN	6	6.K.C 6.A.V 6.N.c	2.0 1.5 0.8	0
+669	37	kárṇa	kān	kɑːn	Urdu	21	k ɑː n	1 7 4	AXN	KAN	18	18.K.C 18.A.V 18.N.c	2.0 1.5 0.8	0
+670	37	kárṇa	kān	kɑːn	Nepali	21	k ɑː n	1 7 4	AXN	KAN	10	10.K.C 10.A.V 10.N.c	2.0 1.5 0.8	0
+671	37	kárṇa	kān	kɑːn	Bhojpuri	470	k ɑː n	1 7 4	AXN	KAN	3	3.K.C 3.A.V 3.N.c	2.0 1.5 0.8	0
+672	37	kárṇa	kann	kənː	Punjabi	21	k ə nː	1 7 4	AXN	KEN	13	13.K.C 13.E.V 13.N.c	2.0 1.5 0.8	0
+673	37	kárṇa	kana	kɑːnɑ	Sindhi	21	k ɑː n ɑ	1 7 4 7	AXBZ	KANA	16	16.K.C 16.A.V 16.N.C 16.A.V	2.0 1.5 1.75 0.8	0
+674	37	kárṇa	kān	kɑːn	Gujarati	21	k ɑː n	1 7 4	AXN	KAN	5	5.K.C 5.A.V 5.N.c	2.0 1.5 0.8	0
+675	37	kárṇa	kān	kɑːn	Marathi	21	k ɑː n	1 7 4	AXN	KAN	9	9.K.C 9.A.V 9.N.c	2.0 1.5 0.8	0
+676	37	kárṇa	kān	kɑːn	Konkani	21	k ɑː n	1 7 4	AXN	KAN	8	8.K.C 8.A.V 8.N.c	2.0 1.5 0.8	0
+677	37	kárṇa	kan	kɑn	Assamese	21	k ɑ n	1 7 4	AXN	KAN	1	1.K.C 1.A.V 1.N.c	2.0 1.5 0.8	0
+678	37	kárṇa	kan	kɑn	Bengali	21	k ɑ n	1 7 4	AXN	KAN	2	2.K.C 2.A.V 2.N.c	2.0 1.5 0.8	0
+679	37	kárṇa	kanô	kanɔ	Oriya	21	k a n ɔ	1 7 4 7	AXBZ	KANU	11	11.K.C 11.A.V 11.N.C 11.U.V	2.0 1.5 1.75 0.8	0
+680	37	kárṇa	None	None	Kashmiri	470	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+681	37	kárṇa	kana	kana	Sinhalese	21	k a n a	1 7 4 7	AXBZ	KANA	17	17.K.C 17.A.V 17.N.C 17.A.V	2.0 1.5 1.75 0.8	0
+682	37	kárṇa	kan̊fat̊	kan̊fat̊	Dhivehi	21	k a n̊ f a t̊	1 7 4 3 7 1	AXMBYN	KANBAT	4	4.K.C 4.A.V 4.N.c 4.B.C 4.A.V 4.T.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+683	37	kárṇa	kan	kan	Romani	21	k a n	1 7 4	AXN	KAN	14	14.K.C 14.A.V 14.N.c	2.0 1.5 0.8	0
+#
+630	35	kéśa	kéśa	kɐjɕɐ	Sanskrit	836	k ɐ j ɕ ɐ	1 7 6 3 7	AXMBZ	KEJSE	15	15.K.C 15.E.V 15.J.c 15.S.C 15.E.V	2.0 1.5 1.1 1.75 0.8	0
+631	35	kéśa	kesa	ˈkɛsa	Pali	836	ˈk ɛ s a	1 7 3 7	AXBZ	KESA	12	12.K.C 12.E.V 12.S.C 12.A.V	2.0 1.5 1.75 0.8	0
+632	35	kéśa	bāl	bɑːl	Hindi	36	b ɑː l	1 7 5	AXN	PAL	6	6.P.C 6.A.V 6.L.c	2.0 1.5 0.8	0
+633	35	kéśa	bāl	baːla	Urdu	36	b aː l a	1 7 5 7	AXBZ	PALA	18	18.P.C 18.A.V 18.L.C 18.A.V	2.0 1.5 1.75 0.8	0
+634	35	kéśa	kapāl,	kəpɑːl	Nepali	36	k ə p ɑː l	1 7 1 7 5	AXBYN	KEPAL	10	10.K.C 10.E.V 10.P.C 10.A.V 10.L.c	2.0 1.5 1.75 1.3 0.8	0
+635	35	kéśa	bār,	bɑːɾ	Bhojpuri	830	b ɑː ɾ	1 7 5	AXN	PAR	3	3.P.C 3.A.V 3.R.c	2.0 1.5 0.8	0
+636	35	kéśa	vāl	ʋɑːl	Punjabi	36	ʋ ɑː l	6 7 5	AXN	WAL	13	13.W.C 13.A.V 13.L.c	2.0 1.5 0.8	0
+637	35	kéśa	vāra	ʋɑːɾ	Sindhi	36	ʋ ɑː ɾ	6 7 5	AXN	WAR	16	16.W.C 16.A.V 16.R.c	2.0 1.5 0.8	0
+638	35	kéśa	vāḷ	None	Gujarati	36	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1
+639	35	kéśa	kes	kɛːs	Marathi	185	k ɛː s	1 7 3	AXN	KES	9	9.K.C 9.E.V 9.S.c	2.0 1.5 0.8	0
+640	35	kéśa	kes	kɛːs	Konkani	185	k ɛː s	1 7 3	AXN	KES	8	8.K.C 8.E.V 8.S.c	2.0 1.5 0.8	0
+641	35	kéśa	suli	suli	Assamese	308	s u l i	3 7 5 7	AXBZ	SYLI	1	1.S.C 1.Y.V 1.L.C 1.I.V	2.0 1.5 1.75 0.8	0
+642	35	kéśa	cul	tʃul	Bengali	308	t ʃ u l	1 3 7 5	ACXN	TSYL	2	2.T.C 2.S.C 2.Y.V 2.L.c	2.0 1.5 1.5 0.8	0
+643	35	kéśa	baḷô,	None	Oriya	308	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	0
+644	35	kéśa	None	None	Kashmiri	835	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+645	35	kéśa	kes,	ˈkɛs	Sinhalese	185	ˈk ɛ s	1 7 3	AXN	KES	17	17.K.C 17.E.V 17.S.c	2.0 1.5 0.8	0
+646	35	kéśa	istaṣi	istaṣaɪ	Dhivehi	535	i s t a ṣ aɪ	7 3 1 7 3 7	XMBYBZ	ISTASA	4	4.I.V 4.S.c 4.T.C 4.A.V 4.S.C 4.A.V	1.5 1.1 1.75 1.3 1.75 0.8	0
+647	35	kéśa	bal	bal	Romani	36	b a l	1 7 5	AXN	PAL	14	14.P.C 14.A.V 14.L.c	2.0 1.5 0.8	0
+#
+109	6	kím	kím	kím	Sanskrit	2307	k í m	1 7 4	AXN	KIM	15	15.K.C 15.I.V 15.M.c	2.0 1.5 0.8	0
+110	6	kím	ka,	kɑː	Pali	2315	k ɑː	1 7	AX	KA	12	12.K.C 12.A.V	2.0 1.5	1
+111	6	kím	kyā	kjɑː	Hindi	96	k j ɑː	1 6 7	ACX	KJA	6	6.K.C 6.J.C 6.A.V	2.0 1.5 1.5	0
+112	6	kím	kyā	kjɑː	Urdu	96	k j ɑː	1 6 7	ACX	KJA	18	18.K.C 18.J.C 18.A.V	2.0 1.5 1.5	0
+113	6	kím	ke	keː	Nepali	96	k eː	1 7	AX	KE	10	10.K.C 10.E.V	2.0 1.5	0
+114	6	kím	kā	kɑː	Bhojpuri	2307	k ɑː	1 7	AX	KA	3	3.K.C 3.A.V	2.0 1.5	0
+115	6	kím	kī	keɪi:	Punjabi	96	k eɪi:	1 7	AX	KE	13	13.K.C 13.E.V	2.0 1.5	0
+116	6	kím	chā	chɑː	Sindhi	96	c h ɑː	1 3 7	ACX	CHA	16	16.C.C 16.H.C 16.A.V	2.0 1.5 1.5	0
+117	6	kím	śũ	śũ	Gujarati	96	ś ũ	3 7	AX	SY	5	5.S.C 5.Y.V	2.0 1.5	0
+118	6	kím	kāy	kajə	Marathi	96	k a j ə	1 7 6 7	AXBZ	KAJE	9	9.K.C 9.A.V 9.J.C 9.E.V	2.0 1.5 1.75 0.8	0
+119	6	kím	kidẽ,	kɪdẽ	Konkani	96	k ɪ d ẽ	1 7 1 7	AXBZ	KITE	8	8.K.C 8.I.V 8.T.C 8.E.V	2.0 1.5 1.75 0.8	0
+120	6	kím	ki	ki	Assamese	96	k i	1 7	AX	KI	1	1.K.C 1.I.V	2.0 1.5	0
+121	6	kím	ki	ki	Bengali	96	k i	1 7	AX	KI	2	2.K.C 2.I.V	2.0 1.5	0
+122	6	kím	kôṇô	kɔṇɔ	Oriya	96	k ɔ ṇ ɔ	1 7 4 7	AXBZ	KUNU	11	11.K.C 11.U.V 11.N.C 11.U.V	2.0 1.5 1.75 0.8	0
+123	6	kím	None	None	Kashmiri	2311	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+124	6	kím	monawā,	monawɑː	Sinhalese	96	m o n a w ɑː	4 7 4 7 6 7	AXBYBZ	MUNAWA	17	17.M.C 17.U.V 17.N.C 17.A.V 17.W.C 17.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+125	6	kím	kon̊eccek̊	kon̊eccek̊	Dhivehi	96	k o n̊ e cc e k̊	1 7 4 7 1 7 1	AXBYBYN	KUNECEK	4	4.K.C 4.U.V 4.N.C 4.E.V 4.C.C 4.E.V 4.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0
+126	6	kím	so	səʊ	Romani	96	s əʊ	3 7	AX	SE	14	14.S.C 14.E.V	2.0 1.5	0
+#
+1223	68	kṛṣṇá	kṛṣṇá	kɾɪʂɳ	Sanskrit	197	k ɾ ɪ ʂ ɳ	1 5 7 3 4	ACXBC	KRISN	15	15.K.C 15.R.C 15.I.V 15.S.C 15.N.C	2.0 1.5 1.5 1.75 1.5	0
+1224	68	kṛṣṇá	kanha	None	Pali	195	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+1225	68	kṛṣṇá	kālā	kɑːlɑː	Hindi	9	k ɑː l ɑː	1 7 5 7	AXBZ	KALA	6	6.K.C 6.A.V 6.L.C 6.A.V	2.0 1.5 1.75 0.8	0
+1226	68	kṛṣṇá	siyāh	kɑːlɑ	Urdu	9	k ɑː l ɑ	1 7 5 7	AXBZ	KALA	18	18.K.C 18.A.V 18.L.C 18.A.V	2.0 1.5 1.75 0.8	0
+1227	68	kṛṣṇá	kālo	kälo	Nepali	9	k ä l o	1 7 5 7	AXBZ	KALU	10	10.K.C 10.A.V 10.L.C 10.U.V	2.0 1.5 1.75 0.8	0
+1228	68	kṛṣṇá	kariyā	kɑːlɑ	Bhojpuri	187	k ɑː l ɑ	1 7 5 7	AXBZ	KALA	3	3.K.C 3.A.V 3.L.C 3.A.V	2.0 1.5 1.75 0.8	0
+1229	68	kṛṣṇá	kālā	None	Punjabi	9	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1
+1230	68	kṛṣṇá	kāro	kɑːro	Sindhi	9	k ɑː r o	1 7 5 7	AXBZ	KARU	16	16.K.C 16.A.V 16.R.C 16.U.V	2.0 1.5 1.75 0.8	0
+1231	68	kṛṣṇá	kāḷo	kɑːlo	Gujarati	9	k ɑː l o	1 7 5 7	AXBZ	KALU	5	5.K.C 5.A.V 5.L.C 5.U.V	2.0 1.5 1.75 0.8	0
+1232	68	kṛṣṇá	kāḷe	kɑːle	Marathi	9	k ɑː l e	1 7 5 7	AXBZ	KALE	9	9.K.C 9.A.V 9.L.C 9.E.V	2.0 1.5 1.75 0.8	0
+1233	68	kṛṣṇá	kāḷo	kɑːlo	Konkani	9	k ɑː l o	1 7 5 7	AXBZ	KALU	8	8.K.C 8.A.V 8.L.C 8.U.V	2.0 1.5 1.75 0.8	0
+1234	68	kṛṣṇá	köla	kola	Assamese	9	k o l a	1 7 5 7	AXBZ	KULA	1	1.K.C 1.U.V 1.L.C 1.A.V	2.0 1.5 1.75 0.8	0
+1235	68	kṛṣṇá	kalo	kalo	Bengali	9	k a l o	1 7 5 7	AXBZ	KALU	2	2.K.C 2.A.V 2.L.C 2.U.V	2.0 1.5 1.75 0.8	0
+1236	68	kṛṣṇá	kôḷa	kɔḷa	Oriya	9	k ɔ ḷ a	1 7 5 7	AXBZ	KULA	11	11.K.C 11.U.V 11.L.C 11.A.V	2.0 1.5 1.75 0.8	0
+1237	68	kṛṣṇá	None	None	Kashmiri	191	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1238	68	kṛṣṇá	kaḷu	kaḷu	Sinhalese	9	k a ḷ u	1 7 5 7	AXBZ	KALY	17	17.K.C 17.A.V 17.L.C 17.Y.V	2.0 1.5 1.75 0.8	0
+1239	68	kṛṣṇá	kaḷu	kaḷu	Dhivehi	9	k a ḷ u	1 7 5 7	AXBZ	KALY	4	4.K.C 4.A.V 4.L.C 4.Y.V	2.0 1.5 1.75 0.8	0
+1240	68	kṛṣṇá	kalo	ˈkaloʔ	Romani	9	ˈk a l o ʔ	1 7 5 7 1	AXBYN	KALUH	14	14.K.C 14.A.V 14.L.C 14.U.V 14.H.c	2.0 1.5 1.75 1.3 0.8	0
+#
+1026	57	kṣám,	kṣám,	kʂɐm	Sanskrit	476	k ʂ ɐ m	1 3 7 4	ACXN	KSEM	15	15.K.C 15.S.C 15.E.V 15.M.c	2.0 1.5 1.5 0.8	0
+1027	57	kṣám,	bhūmi	None	Pali	484	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+1028	57	kṣám,	dhartī	dʱəɾtiː	Hindi	22	dʱ ə ɾ t iː	1 7 5 1 7	AXMBZ	TERTI	6	6.T.C 6.E.V 6.R.c 6.T.C 6.I.V	2.0 1.5 1.1 1.75 0.8	0
+1029	57	kṣám,	zamīn	zamiːn	Urdu	22	z a m iː n	3 7 4 7 4	AXBYN	SAMIN	18	18.S.C 18.A.V 18.M.C 18.I.V 18.N.c	2.0 1.5 1.75 1.3 0.8	0
+1030	57	kṣám,	dhartī,	dʱʌrti	Nepali	22	dʱ ʌ r t i	1 7 5 1 7	AXMBZ	TERTI	10	10.T.C 10.E.V 10.R.c 10.T.C 10.I.V	2.0 1.5 1.1 1.75 0.8	0
+1031	57	kṣám,	ज़amīn,	dʒəmiːn	Bhojpuri	478	d ʒ ə m iː n	1 3 7 4 7 4	ACXBYN	TSEMIN	3	3.T.C 3.S.C 3.E.V 3.M.C 3.I.V 3.N.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+1032	57	kṣám,	zamīn,	dʱəɾtiː	Punjabi	22	dʱ ə ɾ t iː	1 7 5 1 7	AXMBZ	TERTI	13	13.T.C 13.E.V 13.R.c 13.T.C 13.I.V	2.0 1.5 1.1 1.75 0.8	0
+1033	57	kṣám,	dhartī,	dʱəɾtiː	Sindhi	22	dʱ ə ɾ t iː	1 7 5 1 7	AXMBZ	TERTI	16	16.T.C 16.E.V 16.R.c 16.T.C 16.I.V	2.0 1.5 1.1 1.75 0.8	0
+1034	57	kṣám,	pṛthvī	pɾɪtʰʋiː	Gujarati	22	p ɾ ɪ tʰ ʋ iː	1 5 7 1 6 7	ACXBCZ	PRITWI	5	5.P.C 5.R.C 5.I.V 5.T.C 5.W.C 5.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+1035	57	kṣám,	pruthvī	pɾɪtʰʋiː	Marathi	118	p ɾ ɪ tʰ ʋ iː	1 5 7 1 6 7	ACXBCZ	PRITWI	9	9.P.C 9.R.C 9.I.V 9.T.C 9.W.C 9.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+1036	57	kṣám,	jamīn,	dʒəmiːn	Konkani	118	d ʒ ə m iː n	1 3 7 4 7 4	ACXBYN	TSEMIN	8	8.T.C 8.S.C 8.E.V 8.M.C 8.I.V 8.N.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+1037	57	kṣám,	prithiwi	pitʰibi	Assamese	157	p i tʰ i b i	1 7 1 7 1 7	AXBYBZ	PITIPI	1	1.P.C 1.I.V 1.T.C 1.I.V 1.P.C 1.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1038	57	kṣám,	maṭi	mati	Bengali	157	m a t i	4 7 1 7	AXBZ	MATI	2	2.M.C 2.A.V 2.T.C 2.I.V	2.0 1.5 1.75 0.8	0
+1039	57	kṣám,	pruthwi,	pɾutʰwiː	Oriya	157	p ɾ u tʰ w iː	1 5 7 1 6 7	ACXBCZ	PRYTWI	11	11.P.C 11.R.C 11.Y.V 11.T.C 11.W.C 11.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+1040	57	kṣám,	None	None	Kashmiri	482	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1041	57	kṣám,	bima,	bima	Sinhalese	396	b i m a	1 7 4 7	AXBZ	PIMA	17	17.P.C 17.I.V 17.M.C 17.A.V	2.0 1.5 1.75 0.8	0
+1042	57	kṣám,	bin̊	bin	Dhivehi	118	b i n	1 7 4	AXN	PIN	4	4.P.C 4.I.V 4.N.c	2.0 1.5 0.8	0
+1043	57	kṣám,	phuv	pʰuʋ	Romani	118	pʰ u ʋ	1 7 6	AXN	PYW	14	14.P.C 14.Y.V 14.W.c	2.0 1.5 0.8	0
+#
+217	12	mahát	mahát	mɐɦɐt	Sanskrit	156	m ɐ ɦ ɐ t	4 7 3 7 1	AXBYN	MEHET	15	15.M.C 15.E.V 15.H.C 15.E.V 15.T.c	2.0 1.5 1.75 1.3 0.8	0
+218	12	mahát	mahant	None	Pali	154	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	0
+219	12	mahát	baṛā	bəɽɑː	Hindi	5	b ə ɽ ɑː	1 7 5 7	AXBZ	PERA	6	6.P.C 6.E.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	0
+220	12	mahát	baṛā	bəɽɑː	Urdu	5	b ə ɽ ɑː	1 7 5 7	AXBZ	PERA	18	18.P.C 18.E.V 18.R.C 18.A.V	2.0 1.5 1.75 0.8	0
+221	12	mahát	ṭhūlo	ʈʰulo	Nepali	358	ʈʰ u l o	1 7 5 7	AXBZ	TYLU	10	10.T.C 10.Y.V 10.L.C 10.U.V	2.0 1.5 1.75 0.8	0
+222	12	mahát	baṛ	bəɽ	Bhojpuri	146	b ə ɽ	1 7 5	AXN	PER	3	3.P.C 3.E.V 3.R.c	2.0 1.5 0.8	0
+223	12	mahát	vaḍḍā	vaᶑᶑa:	Punjabi	5	v a ᶑᶑ a:	3 7 0 7	AXBZ	BA0A	13	13.B.C 13.A.V 13.0.C 13.A.V	2.0 1.5 1.75 0.8	0
+224	12	mahát	vaᶑo	vaᶑo	Sindhi	5	v a ᶑ o	3 7 0 7	AXBZ	BA0U	16	16.B.C 16.A.V 16.0.C 16.U.V	2.0 1.5 1.75 0.8	0
+225	12	mahát	moṭũ	moʈũ	Gujarati	248	m o ʈ ũ	4 7 1 7	AXBZ	MUTY	5	5.M.C 5.U.V 5.T.C 5.Y.V	2.0 1.5 1.75 0.8	0
+226	12	mahát	moṭhe	moʈʰe	Marathi	248	m o ʈʰ e	4 7 1 7	AXBZ	MUTE	9	9.M.C 9.U.V 9.T.C 9.E.V	2.0 1.5 1.75 0.8	0
+227	12	mahát	vhoḍ	vʰoᶑ	Konkani	5	vʰ o ᶑ	3 7 0	AXN	BU0	8	8.B.C 8.U.V 8.0.c	2.0 1.5 0.8	0
+228	12	mahát	daṅor	daŋɔɹ	Assamese	5	d a ŋ ɔ ɹ	1 7 4 7 5	AXBYN	TANUR	1	1.T.C 1.A.V 1.N.C 1.U.V 1.R.c	2.0 1.5 1.75 1.3 0.8	0
+229	12	mahát	bôṛ	ˈbɔɽo	Bengali	5	ˈb ɔ ɽ o	1 7 5 7	AXBZ	PURU	2	2.P.C 2.U.V 2.R.C 2.U.V	2.0 1.5 1.75 0.8	0
+230	12	mahát	bôṛô	bɔɽɔ	Oriya	5	b ɔ ɽ ɔ	1 7 5 7	AXBZ	PURU	11	11.P.C 11.U.V 11.R.C 11.U.V	2.0 1.5 1.75 0.8	0
+231	12	mahát	boḍ,	boᶑ	Kashmiri	150	b o ᶑ	1 7 0	AXN	PU0	7	7.P.C 7.U.V 7.0.c	2.0 1.5 0.8	0
+232	12	mahát	loku	loku	Sinhalese	385	l o k u	5 7 1 7	AXBZ	LUKY	17	17.L.C 17.U.V 17.K.C 17.Y.V	2.0 1.5 1.75 0.8	0
+233	12	mahát	boḍu,	boᶑu	Dhivehi	669	b o ᶑ u	1 7 0 7	AXBZ	PU0Y	4	4.P.C 4.U.V 4.0.C 4.Y.V	2.0 1.5 1.75 0.8	0
+234	12	mahát	baro	ˈbaːrəʊ	Romani	5	ˈb aː r əʊ	1 7 5 7	AXBZ	PARE	14	14.P.C 14.A.V 14.R.C 14.E.V	2.0 1.5 1.75 0.8	0
+#
+307	17	mátsya	mátsya	mətsjᵊ	Sanskrit	634	m ə t s jᵊ	4 7 1 3 6	AXBCC	METSJ	15	15.M.C 15.E.V 15.T.C 15.S.C 15.J.C	2.0 1.5 1.75 1.5 1.5	0
+308	17	mátsya	maccha	mətʃʰaː	Pali	642	m ə t ʃʰ aː	4 7 1 3 7	AXBCZ	METSA	12	12.M.C 12.E.V 12.T.C 12.S.C 12.A.V	2.0 1.5 1.75 1.5 0.8	0
+309	17	mátsya	machlī	mətʃʰliː	Hindi	28	m ə t ʃʰ l iː	4 7 1 3 5 7	AXBCCZ	METSLI	6	6.M.C 6.E.V 6.T.C 6.S.C 6.L.C 6.I.V	2.0 1.5 1.75 1.5 1.5 0.8	0
+310	17	mátsya	machlī	mətʃʰliː	Urdu	28	m ə t ʃʰ l iː	4 7 1 3 5 7	AXBCCZ	METSLI	18	18.M.C 18.E.V 18.T.C 18.S.C 18.L.C 18.I.V	2.0 1.5 1.75 1.5 1.5 0.8	0
+311	17	mátsya	māchā	mätsʰä	Nepali	28	m ä t sʰ ä	4 7 1 3 7	AXBCZ	MATSA	10	10.M.C 10.A.V 10.T.C 10.S.C 10.A.V	2.0 1.5 1.75 1.5 0.8	0
+312	17	mátsya	machrī	mətʃʰriː	Bhojpuri	635	m ə t ʃʰ r iː	4 7 1 3 5 7	AXBCCZ	METSRI	3	3.M.C 3.E.V 3.T.C 3.S.C 3.R.C 3.I.V	2.0 1.5 1.75 1.5 1.5 0.8	0
+313	17	mátsya	macchī	mətʃʰːiː	Punjabi	28	m ə t ʃʰː iː	4 7 1 3 7	AXBCZ	METSI	13	13.M.C 13.E.V 13.T.C 13.S.C 13.I.V	2.0 1.5 1.75 1.5 0.8	0
+314	17	mátsya	machī	mətʃʰiː	Sindhi	28	m ə t ʃʰ iː	4 7 1 3 7	AXBCZ	METSI	16	16.M.C 16.E.V 16.T.C 16.S.C 16.I.V	2.0 1.5 1.75 1.5 0.8	0
+315	17	mátsya	māchlī	mətʃʰliː	Gujarati	28	m ə t ʃʰ l iː	4 7 1 3 5 7	AXBCCZ	METSLI	5	5.M.C 5.E.V 5.T.C 5.S.C 5.L.C 5.I.V	2.0 1.5 1.75 1.5 1.5 0.8	0
+316	17	mátsya	māsā	maːsaː	Marathi	28	m aː s aː	4 7 3 7	AXBZ	MASA	9	9.M.C 9.A.V 9.S.C 9.A.V	2.0 1.5 1.75 0.8	0
+317	17	mátsya	māsoḷī,	maːsoḷiː	Konkani	28	m aː s o ḷ iː	4 7 3 7 5 7	AXBYBZ	MASULI	8	8.M.C 8.A.V 8.S.C 8.U.V 8.L.C 8.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+318	17	mátsya	mas	mas	Assamese	28	m a s	4 7 3	AXN	MAS	1	1.M.C 1.A.V 1.S.c	2.0 1.5 0.8	0
+319	17	mátsya	mach	mas	Bengali	28	m a s	4 7 3	AXN	MAS	2	2.M.C 2.A.V 2.S.c	2.0 1.5 0.8	0
+320	17	mátsya	machô	matʃʰɔ	Oriya	28	m a t ʃʰ ɔ	4 7 1 3 7	AXBCZ	MATSU	11	11.M.C 11.A.V 11.T.C 11.S.C 11.U.V	2.0 1.5 1.75 1.5 0.8	0
+321	17	mátsya	gāḍ	gaːd	Kashmiri	639	g aː d	1 7 1	AXN	KAT	7	7.K.C 7.A.V 7.T.c	2.0 1.5 0.8	0
+322	17	mátsya	māḷuwā	maːḷuwaː	Sinhalese	-3	m aː ḷ u w aː	4 7 5 7 6 7	AXBYBZ	MALYWA	17	17.M.C 17.A.V 17.L.C 17.Y.V 17.W.C 17.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+323	17	mátsya	mas	mas	Dhivehi	28	m a s	4 7 3	AXN	MAS	4	4.M.C 4.A.V 4.S.c	2.0 1.5 0.8	0
+324	17	mátsya	maćho	matʃʰo	Romani	28	m a t ʃʰ o	4 7 1 3 7	AXBCZ	MATSU	14	14.M.C 14.A.V 14.T.C 14.S.C 14.U.V	2.0 1.5 1.75 1.5 0.8	0
+#
+918	51	mā́sa,	mā́sa,	mɑːs	Sanskrit	1223	m ɑː s	4 7 3	AXN	MAS	15	15.M.C 15.A.V 15.S.c	2.0 1.5 0.8	0
+919	51	mā́sa,	canda	ˈkanda	Pali	1226	ˈk a n d a	1 7 4 1 7	AXMBZ	KANTA	12	12.K.C 12.A.V 12.N.c 12.T.C 12.A.V	2.0 1.5 1.1 1.75 0.8	0
+920	51	mā́sa,	cānd	tʃɑːnd	Hindi	52	t ʃ ɑː n d	1 3 7 4 1	ACXLN	TSANT	6	6.T.C 6.S.C 6.A.V 6.N.c 6.T.c	2.0 1.5 1.5 1.1 0.8	0
+921	51	mā́sa,	cānd	tʃɑːnd	Urdu	52	t ʃ ɑː n d	1 3 7 4 1	ACXLN	TSANT	18	18.T.C 18.S.C 18.A.V 18.N.c 18.T.c	2.0 1.5 1.5 1.1 0.8	0
+922	51	mā́sa,	jun,	dzun	Nepali	340	d z u n	1 3 7 4	ACXN	TSYN	10	10.T.C 10.S.C 10.Y.V 10.N.c	2.0 1.5 1.5 0.8	0
+923	51	mā́sa,	cān	tʃɑːn	Bhojpuri	1224	t ʃ ɑː n	1 3 7 4	ACXN	TSAN	3	3.T.C 3.S.C 3.A.V 3.N.c	2.0 1.5 1.5 0.8	0
+924	51	mā́sa,	cand	tʃənd	Punjabi	52	t ʃ ə n d	1 3 7 4 1	ACXLN	TSENT	13	13.T.C 13.S.C 13.E.V 13.N.c 13.T.c	2.0 1.5 1.5 1.1 0.8	0
+925	51	mā́sa,	canḍu	tʃənḍu	Sindhi	52	t ʃ ə n ḍ u	1 3 7 4 1 7	ACXMBZ	TSENTY	16	16.T.C 16.S.C 16.E.V 16.N.c 16.T.C 16.Y.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+926	51	mā́sa,	candra,	tʃəndrᵊ	Gujarati	52	t ʃ ə n d rᵊ	1 3 7 4 1 5	ACXMBC	TSENTR	5	5.T.C 5.S.C 5.E.V 5.N.c 5.T.C 5.R.C	2.0 1.5 1.5 1.1 1.75 1.5	0
+927	51	mā́sa,	candra	tʃəndɾᵊ	Marathi	52	t ʃ ə n d ɾᵊ	1 3 7 4 1 5	ACXMBC	TSENTR	9	9.T.C 9.S.C 9.E.V 9.N.c 9.T.C 9.R.C	2.0 1.5 1.5 1.1 1.75 1.5	0
+928	51	mā́sa,	candra	tʃəndɾᵊ	Konkani	52	t ʃ ə n d ɾᵊ	1 3 7 4 1 5	ACXMBC	TSENTR	8	8.T.C 8.S.C 8.E.V 8.N.c 8.T.C 8.R.C	2.0 1.5 1.5 1.1 1.75 1.5	0
+929	51	mā́sa,	zün	zʊn	Assamese	340	z ʊ n	3 7 4	AXN	SYN	1	1.S.C 1.Y.V 1.N.c	2.0 1.5 0.8	0
+930	51	mā́sa,	cãdô	sãd	Bengali	52	s ã d	3 7 1	AXN	SAT	2	2.S.C 2.A.V 2.T.c	2.0 1.5 0.8	0
+931	51	mā́sa,	côndrô,	tʃɔndɾɔ	Oriya	-8	t ʃ ɔ n d ɾ ɔ	1 3 7 4 1 5 7	ACXMBCZ	TSUNTRU	11	11.T.C 11.S.C 11.U.V 11.N.c 11.T.C 11.R.C 11.U.V	2.0 1.5 1.5 1.1 1.75 1.5 0.8	0
+932	51	mā́sa,	None	None	Kashmiri	1227	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+933	51	mā́sa,	haⁿda	haⁿda	Sinhalese	52	h aⁿ d a	3 7 1 7	AXBZ	HATA	17	17.H.C 17.A.V 17.T.C 17.A.V	2.0 1.5 1.75 0.8	0
+934	51	mā́sa,	haⁿdu	həⁿdu	Dhivehi	52	h əⁿ d u	3 7 1 7	AXBZ	HETY	4	4.H.C 4.E.V 4.T.C 4.Y.V	2.0 1.5 1.75 0.8	0
+935	51	mā́sa,	ćhon	'tʃʰon	Romani	340	't ʃʰ o n	1 3 7 4	ACXN	TSUN	14	14.T.C 14.S.C 14.U.V 14.N.c	2.0 1.5 1.5 0.8	0
+#
+487	27	māṃsá	māṃsá	mɑːns	Sanskrit	1215	m ɑː n s	4 7 4 3	AXLN	MANS	15	15.M.C 15.A.V 15.N.c 15.S.c	2.0 1.5 1.1 0.8	0
+488	27	māṃsá	maṃsa	mɑːnsɑː	Pali	1220	m ɑː n s ɑː	4 7 4 3 7	AXMBZ	MANSA	12	12.M.C 12.A.V 12.N.c 12.S.C 12.A.V	2.0 1.5 1.1 1.75 0.8	0
+489	27	māṃsá	mā̃s	mɑːs	Hindi	-5	m ɑː s	4 7 3	AXN	MAS	6	6.M.C 6.A.V 6.S.c	2.0 1.5 0.8	0
+490	27	māṃsá	gośt	ɡoːʃt	Urdu	-5	ɡ oː ʃ t	1 7 3 1	AXLN	KUST	18	18.K.C 18.U.V 18.S.c 18.T.c	2.0 1.5 1.1 0.8	0
+491	27	māṃsá	māsu	mäsu	Nepali	124	m ä s u	4 7 3 7	AXBZ	MASY	10	10.M.C 10.A.V 10.S.C 10.Y.V	2.0 1.5 1.75 0.8	0
+492	27	māṃsá	śikār,	ʃɪkɑːɾ	Bhojpuri	1217	ʃ ɪ k ɑː ɾ	3 7 1 7 5	AXBYN	SIKAR	3	3.S.C 3.I.V 3.K.C 3.A.V 3.R.c	2.0 1.5 1.75 1.3 0.8	0
+493	27	māṃsá	mās	mɑːs	Punjabi	124	m ɑː s	4 7 3	AXN	MAS	13	13.M.C 13.A.V 13.S.c	2.0 1.5 0.8	0
+494	27	māṃsá	gośt	ɡoːʃt	Sindhi	124	ɡ oː ʃ t	1 7 3 1	AXLN	KUST	16	16.K.C 16.U.V 16.S.c 16.T.c	2.0 1.5 1.1 0.8	0
+495	27	māṃsá	mā̃s	None	Gujarati	124	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1
+496	27	māṃsá	mās	mɑːs	Marathi	124	m ɑː s	4 7 3	AXN	MAS	9	9.M.C 9.A.V 9.S.c	2.0 1.5 0.8	0
+497	27	māṃsá	mās	mɑːs	Konkani	124	m ɑː s	4 7 3	AXN	MAS	8	8.M.C 8.A.V 8.S.c	2.0 1.5 0.8	0
+498	27	māṃsá	moṅoh,	mɔŋɔɦ	Assamese	124	m ɔ ŋ ɔ ɦ	4 7 4 7 3	AXBYN	MUNUH	1	1.M.C 1.U.V 1.N.C 1.U.V 1.H.c	2.0 1.5 1.75 1.3 0.8	0
+499	27	māṃsá	maṅś,	maŋxɔ	Bengali	124	m a ŋ x ɔ	4 7 4 3 7	AXMBZ	MANGU	2	2.M.C 2.A.V 2.N.c 2.G.C 2.U.V	2.0 1.5 1.1 1.75 0.8	0
+500	27	māṃsá	maṃsô	mãsɔ	Oriya	124	m ã s ɔ	4 7 3 7	AXBZ	MASU	11	11.M.C 11.A.V 11.S.C 11.U.V	2.0 1.5 1.75 0.8	0
+501	27	māṃsá	None	None	Kashmiri	1215	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+502	27	māṃsá	mas	mas	Sinhalese	124	m a s	4 7 3	AXN	MAS	17	17.M.C 17.A.V 17.S.c	2.0 1.5 0.8	0
+503	27	māṃsá	mas	mas	Dhivehi	124	m a s	4 7 3	AXN	MAS	4	4.M.C 4.A.V 4.S.c	2.0 1.5 0.8	1
+504	27	māṃsá	mas	mas	Romani	124	m a s	4 7 3	AXN	MAS	14	14.M.C 14.A.V 14.S.c	2.0 1.5 0.8	0
+#
+433	24	mū́la	mū́la	mul	Sanskrit	1494	m u l	4 7 5	AXN	MYL	15	15.M.C 15.Y.V 15.L.c	2.0 1.5 0.8	0
+434	24	mū́la	mūla	mu:l	Pali	1492	m u: l	4 7 5	AXN	MYL	12	12.M.C 12.Y.V 12.L.c	2.0 1.5 0.8	0
+435	24	mū́la	jaṛ	dʒəɽ	Hindi	65	d ʒ ə ɽ	1 3 7 5	ACXN	TSER	6	6.T.C 6.S.C 6.E.V 6.R.c	2.0 1.5 1.5 0.8	0
+436	24	mū́la	jaṛ	dʒəɽ	Urdu	65	d ʒ ə ɽ	1 3 7 5	ACXN	TSER	18	18.T.C 18.S.C 18.E.V 18.R.c	2.0 1.5 1.5 0.8	0
+437	24	mū́la	jarā	dzʌɾä	Nepali	65	d z ʌ ɾ ä	1 3 7 5 7	ACXBZ	TSERA	10	10.T.C 10.S.C 10.E.V 10.R.C 10.A.V	2.0 1.5 1.5 1.75 0.8	0
+438	24	mū́la	jaṛ	dʒəɽ	Bhojpuri	1484	d ʒ ə ɽ	1 3 7 5	ACXN	TSER	3	3.T.C 3.S.C 3.E.V 3.R.c	2.0 1.5 1.5 0.8	0
+439	24	mū́la	jaṛh	dʒəh	Punjabi	65	d ʒ ə h	1 3 7 3	ACXN	TSEH	13	13.T.C 13.S.C 13.E.V 13.H.c	2.0 1.5 1.5 0.8	0
+440	24	mū́la	pāṛa	pəɽːə	Sindhi	65	p ə ɽː ə	1 7 5 7	AXBZ	PERE	16	16.P.C 16.E.V 16.R.C 16.E.V	2.0 1.5 1.75 0.8	0
+441	24	mū́la	mūḷ	muːl	Gujarati	259	m uː l	4 7 5	AXN	MYL	5	5.M.C 5.Y.V 5.L.c	2.0 1.5 0.8	0
+442	24	mū́la	mūḷ	muːɭ̆	Marathi	259	m uː ɭ̆	4 7 5	AXN	MYL	9	9.M.C 9.Y.V 9.L.c	2.0 1.5 0.8	0
+443	24	mū́la	mūḷ	muːɭ̆	Konkani	259	m uː ɭ̆	4 7 5	AXN	MYL	8	8.M.C 8.Y.V 8.L.c	2.0 1.5 0.8	0
+444	24	mū́la	xipa	xipa	Assamese	343	x i p a	3 7 1 7	AXBZ	GIPA	1	1.G.C 1.I.V 1.P.C 1.A.V	2.0 1.5 1.75 0.8	0
+445	24	mū́la	śikôṛ	sikɔr	Bengali	313	s i k ɔ r	3 7 1 7 5	AXBYN	SIKUR	2	2.S.C 2.I.V 2.K.C 2.U.V 2.R.c	2.0 1.5 1.75 1.3 0.8	0
+446	24	mū́la	cerô,	cerɔ	Oriya	259	c e r ɔ	1 7 5 7	AXBZ	CERU	11	11.C.C 11.E.V 11.R.C 11.U.V	2.0 1.5 1.75 0.8	0
+447	24	mū́la	None	None	Kashmiri	1488	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+448	24	mū́la	mula	mula	Sinhalese	259	m u l a	4 7 5 7	AXBZ	MYLA	17	17.M.C 17.Y.V 17.L.C 17.A.V	2.0 1.5 1.75 0.8	0
+449	24	mū́la	mū	muː	Dhivehi	259	m uː	4 7	AX	MY	4	4.M.C 4.Y.V	2.0 1.5	0
+450	24	mū́la	rikita	rikita	Romani	-10	r i k i t a	5 7 1 7 1 7	AXBYBZ	RIKITA	14	14.R.C 14.I.V 14.K.C 14.I.V 14.T.C 14.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+#
+127	7	ná	ná	na	Sanskrit	1340	n a	4 7	AX	NA	15	15.N.C 15.A.V	2.0 1.5	0
+128	7	ná	na	nɑː	Pali	1340	n ɑː	4 7	AX	NA	12	12.N.C 12.A.V	2.0 1.5	0
+129	7	ná	nahī̃	nəɦĩː	Hindi	60	n ə ɦ ĩː	4 7 3 7	AXBZ	NEHI	6	6.N.C 6.E.V 6.H.C 6.I.V	2.0 1.5 1.75 0.8	0
+130	7	ná	nahī̃,	nəiː	Urdu	60	n əiː	4 7	AX	NE	18	18.N.C 18.E.V	2.0 1.5	0
+131	7	ná	hoina,	ɦoinʌ	Nepali	60	ɦ oi n ʌ	3 7 4 7	AXBZ	HUNE	10	10.H.C 10.U.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	0
+132	7	ná	nā	nɑː	Bhojpuri	1340	n ɑː	4 7	AX	NA	3	3.N.C 3.A.V	2.0 1.5	0
+133	7	ná	nahī̃,	nəiː	Punjabi	60	n əiː	4 7	AX	NE	13	13.N.C 13.E.V	2.0 1.5	0
+134	7	ná	na	nɑː	Sindhi	60	n ɑː	4 7	AX	NA	16	16.N.C 16.A.V	2.0 1.5	0
+135	7	ná	na,	nə	Gujarati	60	n ə	4 7	AX	NE	5	5.N.C 5.E.V	2.0 1.5	0
+136	7	ná	nāhī	naɦi	Marathi	60	n a ɦ i	4 7 3 7	AXBZ	NAHI	9	9.N.C 9.A.V 9.H.C 9.I.V	2.0 1.5 1.75 0.8	0
+137	7	ná	nū	nu:	Konkani	60	n u:	4 7	AX	NY	8	8.N.C 8.Y.V	2.0 1.5	0
+138	7	ná	nai	naɪ	Assamese	60	n aɪ	4 7	AX	NA	1	1.N.C 1.A.V	2.0 1.5	0
+139	7	ná	na	na:	Bengali	60	n a:	4 7	AX	NA	2	2.N.C 2.A.V	2.0 1.5	0
+140	7	ná	nuhem̐,	nuhem̐	Oriya	60	n u h e m̐	4 7 3 7 4	AXBYN	NYHEM	11	11.N.C 11.Y.V 11.H.C 11.E.V 11.M.c	2.0 1.5 1.75 1.3 0.8	0
+141	7	ná	None	None	Kashmiri	1344	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+142	7	ná	næhæ,	næhæ	Sinhalese	60	n æ h æ	4 7 3 7	AXBZ	NEHE	17	17.N.C 17.E.V 17.H.C 17.E.V	2.0 1.5 1.75 0.8	0
+143	7	ná	nūn	nu:n	Dhivehi	60	n u: n	4 7 4	AXN	NYN	4	4.N.C 4.Y.V 4.N.c	2.0 1.5 0.8	0
+144	7	ná	na	nɑː	Romani	60	n ɑː	4 7	AX	NA	14	14.N.C 14.A.V	2.0 1.5	0
+#
+1044	58	nábhas,	nábhas,	nɐbʱɐs	Sanskrit	287	n ɐ bʱ ɐ s	4 7 1 7 3	AXBYN	NEPES	15	15.N.C 15.E.V 15.P.C 15.E.V 15.S.c	2.0 1.5 1.75 1.3 0.8	0
+1045	58	nábhas,	megha	megʰa	Pali	295	m e gʰ a	4 7 1 7	AXBZ	MEKA	12	12.M.C 12.E.V 12.K.C 12.A.V	2.0 1.5 1.75 0.8	0
+1046	58	nábhas,	bādal	bɑːdəl	Hindi	15	b ɑː d ə l	1 7 1 7 5	AXBYN	PATEL	6	6.P.C 6.A.V 6.T.C 6.E.V 6.L.c	2.0 1.5 1.75 1.3 0.8	0
+1047	58	nábhas,	bādal	bɑːdəl	Urdu	15	b ɑː d ə l	1 7 1 7 5	AXBYN	PATEL	18	18.P.C 18.A.V 18.T.C 18.E.V 18.L.c	2.0 1.5 1.75 1.3 0.8	0
+1048	58	nábhas,	bādal	bɑːdəl	Nepali	15	b ɑː d ə l	1 7 1 7 5	AXBYN	PATEL	10	10.P.C 10.A.V 10.T.C 10.E.V 10.L.c	2.0 1.5 1.75 1.3 0.8	0
+1049	58	nábhas,	badrī	bɑdri	Bhojpuri	288	b ɑ d r i	1 7 1 5 7	AXBCZ	PATRI	3	3.P.C 3.A.V 3.T.C 3.R.C 3.I.V	2.0 1.5 1.75 1.5 0.8	0
+1050	58	nábhas,	baddal	bɑːd:əl	Punjabi	15	b ɑː d: ə l	1 7 1 7 5	AXBYN	PATEL	13	13.P.C 13.A.V 13.T.C 13.E.V 13.L.c	2.0 1.5 1.75 1.3 0.8	0
+1051	58	nábhas,	kakaru	kakaru	Sindhi	179	k a k a r u	1 7 1 7 5 7	AXBYBZ	KAKARY	16	16.K.C 16.A.V 16.K.C 16.A.V 16.R.C 16.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1052	58	nábhas,	vādaḷ	ʋɑːdl	Gujarati	15	ʋ ɑː d l	6 7 1 5	AXBC	WATL	5	5.W.C 5.A.V 5.T.C 5.L.C	2.0 1.5 1.75 1.5	0
+1053	58	nábhas,	ḍhag	dʰag	Marathi	272	dʰ a g	1 7 1	AXN	TAK	9	9.T.C 9.A.V 9.K.c	2.0 1.5 0.8	0
+1054	58	nábhas,	kūp	kúːpɐ	Konkani	-3	k úː p ɐ	1 7 1 7	AXBZ	KYPE	8	8.K.C 8.Y.V 8.P.C 8.E.V	2.0 1.5 1.75 0.8	0
+1055	58	nábhas,	megh	mɛɡ	Assamese	15	m ɛ ɡ	4 7 1	AXN	MEK	1	1.M.C 1.E.V 1.K.c	2.0 1.5 0.8	0
+1056	58	nábhas,	megh	mɛɡ	Bengali	-2	m ɛ ɡ	4 7 1	AXN	MEK	2	2.M.C 2.E.V 2.K.c	2.0 1.5 0.8	0
+1057	58	nábhas,	meghô	meɡʱɔ	Oriya	-2	m e ɡʱ ɔ	4 7 1 7	AXBZ	MEKU	11	11.M.C 11.E.V 11.K.C 11.U.V	2.0 1.5 1.75 0.8	0
+1058	58	nábhas,	None	None	Kashmiri	287	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1059	58	nábhas,	wæli	wæli	Sinhalese	391	w æ l i	6 7 5 7	AXBZ	WELI	17	17.W.C 17.E.V 17.L.C 17.I.V	2.0 1.5 1.75 0.8	1
+1060	58	nábhas,	vilā	ʋiləː	Dhivehi	391	ʋ i l əː	6 7 5 7	AXBZ	WILE	4	4.W.C 4.I.V 4.L.C 4.E.V	2.0 1.5 1.75 0.8	0
+1061	58	nábhas,	noro	noro	Romani	-4	n o r o	4 7 5 7	AXBZ	NURU	14	14.N.C 14.U.V 14.R.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+936	52	nákṣatra,	nákṣatra,	nəkʂətɾᵊ	Sanskrit	1911	n ə k ʂ ə t ɾᵊ	4 7 1 3 7 1 5	AXBCYBC	NEKSETR	15	15.N.C 15.E.V 15.K.C 15.S.C 15.E.V 15.T.C 15.R.C	2.0 1.5 1.75 1.5 1.3 1.75 1.5	0
+937	52	nákṣatra,	tārakā	tɑːɾɑːkɑː	Pali	1914	t ɑː ɾ ɑː k ɑː	1 7 5 7 1 7	AXBYBZ	TARAKA	12	12.T.C 12.A.V 12.R.C 12.A.V 12.K.C 12.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+938	52	nákṣatra,	tārā	tɑːɾɑː	Hindi	80	t ɑː ɾ ɑː	1 7 5 7	AXBZ	TARA	6	6.T.C 6.A.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	0
+939	52	nákṣatra,	sitārā	sitɑːɾɑː	Urdu	80	s i t ɑː ɾ ɑː	3 7 1 7 5 7	AXBYBZ	SITARA	18	18.S.C 18.I.V 18.T.C 18.A.V 18.R.C 18.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+940	52	nákṣatra,	tārā	tɑːɾɑː	Nepali	80	t ɑː ɾ ɑː	1 7 5 7	AXBZ	TARA	10	10.T.C 10.A.V 10.R.C 10.A.V	2.0 1.5 1.75 0.8	0
+941	52	nákṣatra,	tārā	tɑːɾɑː	Bhojpuri	1911	t ɑː ɾ ɑː	1 7 5 7	AXBZ	TARA	3	3.T.C 3.A.V 3.R.C 3.A.V	2.0 1.5 1.75 0.8	0
+942	52	nákṣatra,	tārā	taːraː	Punjabi	80	t aː r aː	1 7 5 7	AXBZ	TARA	13	13.T.C 13.A.V 13.R.C 13.A.V	2.0 1.5 1.75 0.8	0
+943	52	nákṣatra,	tāro	tɑːro	Sindhi	80	t ɑː r o	1 7 5 7	AXBZ	TARU	16	16.T.C 16.A.V 16.R.C 16.U.V	2.0 1.5 1.75 0.8	0
+944	52	nákṣatra,	tāro	taːro	Gujarati	80	t aː r o	1 7 5 7	AXBZ	TARU	5	5.T.C 5.A.V 5.R.C 5.U.V	2.0 1.5 1.75 0.8	0
+945	52	nákṣatra,	tārā	tɑːɾɑː	Marathi	80	t ɑː ɾ ɑː	1 7 5 7	AXBZ	TARA	9	9.T.C 9.A.V 9.R.C 9.A.V	2.0 1.5 1.75 0.8	0
+946	52	nákṣatra,	tāro	None	Konkani	-9	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1
+947	52	nákṣatra,	tora	tɔɹa	Assamese	80	t ɔ ɹ a	1 7 5 7	AXBZ	TURA	1	1.T.C 1.U.V 1.R.C 1.A.V	2.0 1.5 1.75 0.8	0
+948	52	nákṣatra,	tara	tara	Bengali	80	t a r a	1 7 5 7	AXBZ	TARA	2	2.T.C 2.A.V 2.R.C 2.A.V	2.0 1.5 1.75 0.8	0
+949	52	nákṣatra,	tara	taːro	Oriya	80	t aː r o	1 7 5 7	AXBZ	TARU	11	11.T.C 11.A.V 11.R.C 11.U.V	2.0 1.5 1.75 0.8	0
+950	52	nákṣatra,	None	None	Kashmiri	1911	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+951	52	nákṣatra,	taru	None	Sinhalese	80	N o n e	0 7 4 7	AXBZ	0UNE	17	17.0.C 17.U.V 17.N.C 17.E.V	2.0 1.5 1.75 0.8	1
+952	52	nákṣatra,	tari	təɾi	Dhivehi	80	t ə ɾ i	1 7 5 7	AXBZ	TERI	4	4.T.C 4.E.V 4.R.C 4.I.V	2.0 1.5 1.75 0.8	0
+953	52	nákṣatra,	ćexrain	'tʃexrain	Romani	-16	't ʃ e x r ai n	1 3 7 3 5 7 4	ACXBCYN	TSEGRAN	14	14.T.C 14.S.C 14.E.V 14.G.C 14.R.C 14.A.V 14.N.c	2.0 1.5 1.5 1.75 1.5 1.3 0.8	0
+#
+1313	73	náva,	náva,	nɐʋɐ	Sanskrit	1313	n ɐ ʋ ɐ	4 7 6 7	AXBZ	NEWE	15	15.N.C 15.E.V 15.W.C 15.E.V	2.0 1.5 1.75 0.8	0
+1314	73	náva,	nava	nâːvḁ	Pali	1321	n âː v ḁ	4 7 3 0	AXLN	NAB0	12	12.N.C 12.A.V 12.B.c 12.0.c	2.0 1.5 1.1 0.8	0
+1315	73	náva,	nayā	nəˈjaː	Hindi	57	n ə ˈj aː	4 7 6 7	AXBZ	NEJA	6	6.N.C 6.E.V 6.J.C 6.A.V	2.0 1.5 1.75 0.8	0
+1316	73	náva,	nayā	niˈjɒː	Urdu	57	n i ˈj ɒː	4 7 6 7	AXBZ	NIJO	18	18.N.C 18.I.V 18.J.C 18.O.V	2.0 1.5 1.75 0.8	0
+1317	73	náva,	nayā̃	nʌjä	Nepali	57	n ʌ j ä	4 7 6 7	AXBZ	NEJA	10	10.N.C 10.E.V 10.J.C 10.A.V	2.0 1.5 1.75 0.8	0
+1318	73	náva,	nāyā	naːjaː	Bhojpuri	1314	n aː j aː	4 7 6 7	AXBZ	NAJA	3	3.N.C 3.A.V 3.J.C 3.A.V	2.0 1.5 1.75 0.8	0
+1319	73	náva,	navā̃	nəʋɑː	Punjabi	57	n ə ʋ ɑː	4 7 6 7	AXBZ	NEWA	13	13.N.C 13.E.V 13.W.C 13.A.V	2.0 1.5 1.75 0.8	0
+1320	73	náva,	naõ	naõ	Sindhi	57	n aõ	4 7	AX	NA	16	16.N.C 16.A.V	2.0 1.5	0
+1321	73	náva,	navũ	navũ	Gujarati	57	n a v ũ	4 7 3 7	AXBZ	NABY	5	5.N.C 5.A.V 5.B.C 5.Y.V	2.0 1.5 1.75 0.8	0
+1322	73	náva,	nave,	nave	Marathi	57	n a v e	4 7 3 7	AXBZ	NABE	9	9.N.C 9.A.V 9.B.C 9.E.V	2.0 1.5 1.75 0.8	0
+1323	73	náva,	navẽ	navẽ	Konkani	57	n a v ẽ	4 7 3 7	AXBZ	NABE	8	8.N.C 8.A.V 8.B.C 8.E.V	2.0 1.5 1.75 0.8	0
+1324	73	náva,	notun	nɔtun	Assamese	57	n ɔ t u n	4 7 1 7 4	AXBYN	NUTYN	1	1.N.C 1.U.V 1.T.C 1.Y.V 1.N.c	2.0 1.5 1.75 1.3 0.8	0
+1325	73	náva,	nôtun	nɔtun	Bengali	57	n ɔ t u n	4 7 1 7 4	AXBYN	NUTYN	2	2.N.C 2.U.V 2.T.C 2.Y.V 2.N.c	2.0 1.5 1.75 1.3 0.8	0
+1326	73	náva,	nua,	nua	Oriya	57	n ua	4 7	AX	NY	11	11.N.C 11.Y.V	2.0 1.5	0
+1327	73	náva,	None	None	Kashmiri	1313	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1328	73	náva,	alut	alut	Sinhalese	57	a l u t	7 5 7 1	XBYN	ALYT	17	17.A.V 17.L.C 17.Y.V 17.T.c	1.5 1.75 1.3 0.8	0
+1329	73	náva,	ā,	əː	Dhivehi	57	əː	7	X	E	4	4.E.V	1.5	0
+1330	73	náva,	nevo	ˈnevo	Romani	57	ˈn e v o	4 7 3 7	AXBZ	NEBU	14	14.N.C 14.E.V 14.B.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+1385	77	nā́man	nā́man	nɑːmɐn	Sanskrit	1262	n ɑː m ɐ n	4 7 4 7 4	AXBYN	NAMEN	15	15.N.C 15.A.V 15.M.C 15.E.V 15.N.c	2.0 1.5 1.75 1.3 0.8	0
+1386	77	nā́man	nāma	nɑːma	Pali	1268	n ɑː m a	4 7 4 7	AXBZ	NAMA	12	12.N.C 12.A.V 12.M.C 12.A.V	2.0 1.5 1.75 0.8	0
+1387	77	nā́man	nām	nɑːm	Hindi	55	n ɑː m	4 7 4	AXN	NAM	6	6.N.C 6.A.V 6.M.c	2.0 1.5 0.8	0
+1388	77	nā́man	nām	naːma	Urdu	55	n aː m a	4 7 4 7	AXBZ	NAMA	18	18.N.C 18.A.V 18.M.C 18.A.V	2.0 1.5 1.75 0.8	0
+1389	77	nā́man	nām,	nɑːm	Nepali	55	n ɑː m	4 7 4	AXN	NAM	10	10.N.C 10.A.V 10.M.c	2.0 1.5 0.8	0
+1390	77	nā́man	nāv	nɑːʋ	Bhojpuri	1263	n ɑː ʋ	4 7 6	AXN	NAW	3	3.N.C 3.A.V 3.W.c	2.0 1.5 0.8	0
+1391	77	nā́man	nām,	nɑːm	Punjabi	55	n ɑː m	4 7 4	AXN	NAM	13	13.N.C 13.A.V 13.M.c	2.0 1.5 0.8	0
+1392	77	nā́man	nālo	nalo	Sindhi	55	n a l o	4 7 5 7	AXBZ	NALU	16	16.N.C 16.A.V 16.L.C 16.U.V	2.0 1.5 1.75 0.8	0
+1393	77	nā́man	nām	nɑːm	Gujarati	55	n ɑː m	4 7 4	AXN	NAM	5	5.N.C 5.A.V 5.M.c	2.0 1.5 0.8	0
+1394	77	nā́man	nāv	nɑːʋ	Marathi	55	n ɑː ʋ	4 7 6	AXN	NAW	9	9.N.C 9.A.V 9.W.c	2.0 1.5 0.8	0
+1395	77	nā́man	nāuva	nɑːuʋɑ	Konkani	55	n ɑːu ʋ ɑ	4 7 6 7	AXBZ	NAWA	8	8.N.C 8.A.V 8.W.C 8.A.V	2.0 1.5 1.75 0.8	0
+1396	77	nā́man	nam	nam	Assamese	55	n a m	4 7 4	AXN	NAM	1	1.N.C 1.A.V 1.M.c	2.0 1.5 0.8	0
+1397	77	nā́man	nam	nam	Bengali	55	n a m	4 7 4	AXN	NAM	2	2.N.C 2.A.V 2.M.c	2.0 1.5 0.8	0
+1398	77	nā́man	namô	namɔ	Oriya	55	n a m ɔ	4 7 4 7	AXBZ	NAMU	11	11.N.C 11.A.V 11.M.C 11.U.V	2.0 1.5 1.75 0.8	0
+1399	77	nā́man	None	None	Kashmiri	1262	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1400	77	nā́man	nama	nama	Sinhalese	55	n a m a	4 7 4 7	AXBZ	NAMA	17	17.N.C 17.A.V 17.M.C 17.A.V	2.0 1.5 1.75 0.8	0
+1401	77	nā́man	nan̊	nən	Dhivehi	55	n ə n	4 7 4	AXN	NEN	4	4.N.C 4.E.V 4.N.c	2.0 1.5 0.8	0
+1402	77	nā́man	anav	ɑnɑːʋ	Romani	55	ɑ n ɑː ʋ	7 4 7 6	XBYN	ANAW	14	14.A.V 14.N.C 14.A.V 14.W.c	1.5 1.75 1.3 0.8	0
+#
+702	39	nā́sā	nā́sā	nɑːsɑː	Sanskrit	1331	n ɑː s ɑː	4 7 3 7	AXBZ	NASA	15	15.N.C 15.A.V 15.S.C 15.A.V	2.0 1.5 1.75 0.8	0
+703	39	nā́sā	nāsā	nɑːsɑː	Pali	1337	n ɑː s ɑː	4 7 3 7	AXBZ	NASA	12	12.N.C 12.A.V 12.S.C 12.A.V	2.0 1.5 1.75 0.8	0
+704	39	nā́sā	nāk	nɑːk	Hindi	59	n ɑː k	4 7 1	AXN	NAK	6	6.N.C 6.A.V 6.K.c	2.0 1.5 0.8	0
+705	39	nā́sā	nāk	nɑːk	Urdu	59	n ɑː k	4 7 1	AXN	NAK	18	18.N.C 18.A.V 18.K.c	2.0 1.5 0.8	0
+706	39	nā́sā	nāk	nɑːk	Nepali	59	n ɑː k	4 7 1	AXN	NAK	10	10.N.C 10.A.V 10.K.c	2.0 1.5 0.8	0
+707	39	nā́sā	nāk	nɑːk	Bhojpuri	1331	n ɑː k	4 7 1	AXN	NAK	3	3.N.C 3.A.V 3.K.c	2.0 1.5 0.8	0
+708	39	nā́sā	nakka	nɑːku	Punjabi	59	n ɑː k u	4 7 1 7	AXBZ	NAKY	13	13.N.C 13.A.V 13.K.C 13.Y.V	2.0 1.5 1.75 0.8	0
+709	39	nā́sā	naku	nɑːku	Sindhi	59	n ɑː k u	4 7 1 7	AXBZ	NAKY	16	16.N.C 16.A.V 16.K.C 16.Y.V	2.0 1.5 1.75 0.8	0
+710	39	nā́sā	nāk	nɑːku	Gujarati	59	n ɑː k u	4 7 1 7	AXBZ	NAKY	5	5.N.C 5.A.V 5.K.C 5.Y.V	2.0 1.5 1.75 0.8	0
+711	39	nā́sā	nāk	nɑːk	Marathi	59	n ɑː k	4 7 1	AXN	NAK	9	9.N.C 9.A.V 9.K.c	2.0 1.5 0.8	0
+712	39	nā́sā	nāṅka	ɛnāṅkɑ	Konkani	59	ɛ n ā ṅ k ɑ	7 4 7 0 1 7	XBYBCZ	ENA0KA	8	8.E.V 8.N.C 8.A.V 8.0.C 8.K.C 8.A.V	1.5 1.75 1.3 1.75 1.5 0.8	0
+713	39	nā́sā	nak	nak	Assamese	59	n a k	4 7 1	AXN	NAK	1	1.N.C 1.A.V 1.K.c	2.0 1.5 0.8	0
+714	39	nā́sā	nak	nak	Bengali	59	n a k	4 7 1	AXN	NAK	2	2.N.C 2.A.V 2.K.c	2.0 1.5 0.8	0
+715	39	nā́sā	nakô	nakɔ	Oriya	59	n a k ɔ	4 7 1 7	AXBZ	NAKU	11	11.N.C 11.A.V 11.K.C 11.U.V	2.0 1.5 1.75 0.8	0
+716	39	nā́sā	None	None	Kashmiri	1334	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+717	39	nā́sā	nahaya	nahaya	Sinhalese	59	n a h aya	4 7 3 7	AXBZ	NAHA	17	17.N.C 17.A.V 17.H.C 17.A.V	2.0 1.5 1.75 0.8	0
+718	39	nā́sā	nēfat̊	neːfət	Dhivehi	59	n eː f ə t	4 7 3 7 1	AXBYN	NEBET	4	4.N.C 4.E.V 4.B.C 4.E.V 4.T.c	2.0 1.5 1.75 1.3 0.8	0
+719	39	nā́sā	nakh	nɑːkʰ	Romani	59	n ɑː kʰ	4 7 1	AXN	NAK	14	14.N.C 14.A.V 14.K.c	2.0 1.5 0.8	0
+#
+756	42	padá	padá	pəd	Sanskrit	706	p ə d	1 7 1	AXN	PET	15	15.P.C 15.E.V 15.T.c	2.0 1.5 0.8	0
+757	42	padá	pāda	pɑːdɑ	Pali	713	p ɑː d ɑ	1 7 1 7	AXBZ	PATA	12	12.P.C 12.A.V 12.T.C 12.A.V	2.0 1.5 1.75 0.8	0
+758	42	padá	pair	pɛːɾ	Hindi	30	p ɛː ɾ	1 7 5	AXN	PER	6	6.P.C 6.E.V 6.R.c	2.0 1.5 0.8	0
+759	42	padá	pair,	piːɾ	Urdu	30	p iː ɾ	1 7 5	AXN	PIR	18	18.P.C 18.I.V 18.R.c	2.0 1.5 0.8	0
+760	42	padá	pāu,	päu	Nepali	30	p ä u	1 7 7	AXZ	PAY	10	10.P.C 10.A.V 10.Y.V	2.0 1.5 0.8	0
+761	42	padá	goṛ,	goɾ	Bhojpuri	706	g o ɾ	1 7 5	AXN	KUR	3	3.K.C 3.U.V 3.R.c	2.0 1.5 0.8	0
+762	42	padá	pair	pɛːɾ	Punjabi	30	p ɛː ɾ	1 7 5	AXN	PER	13	13.P.C 13.E.V 13.R.c	2.0 1.5 0.8	0
+763	42	padá	peru	pəˈru	Sindhi	30	p ə ˈr u	1 7 5 7	AXBZ	PERY	16	16.P.C 16.E.V 16.R.C 16.Y.V	2.0 1.5 1.75 0.8	0
+764	42	padá	pagno	pagno	Gujarati	30	p a g n o	1 7 1 4 7	AXBCZ	PAKNU	5	5.P.C 5.A.V 5.K.C 5.N.C 5.U.V	2.0 1.5 1.75 1.5 0.8	0
+765	42	padá	pāūl	pɑːuːl	Marathi	30	p ɑːuː l	1 7 5	AXN	PAL	9	9.P.C 9.A.V 9.L.c	2.0 1.5 0.8	0
+766	42	padá	pāy	paj	Konkani	30	p a j	1 7 6	AXN	PAJ	8	8.P.C 8.A.V 8.J.c	2.0 1.5 0.8	0
+767	42	padá	bhori	bʱoɹi	Assamese	30	bʱ o ɹ i	1 7 5 7	AXBZ	PURI	1	1.P.C 1.U.V 1.R.C 1.I.V	2.0 1.5 1.75 0.8	0
+768	42	padá	pa	pa	Bengali	30	p a	1 7	AX	PA	2	2.P.C 2.A.V	2.0 1.5	0
+769	42	padá	padô	padɔ	Oriya	30	p a d ɔ	1 7 1 7	AXBZ	PATU	11	11.P.C 11.A.V 11.T.C 11.U.V	2.0 1.5 1.75 0.8	0
+770	42	padá	None	None	Kashmiri	709	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+771	42	padá	paya,	paja	Sinhalese	30	p a j a	1 7 6 7	AXBZ	PAJA	17	17.P.C 17.A.V 17.J.C 17.A.V	2.0 1.5 1.75 0.8	0
+772	42	padá	faitila	faitila	Dhivehi	30	f ai t i l a	3 7 1 7 5 7	AXBYBZ	BATILA	4	4.B.C 4.A.V 4.T.C 4.I.V 4.L.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+773	42	padá	punro	punro	Romani	596	p u n r o	1 7 4 5 7	AXBCZ	PYNRU	14	14.P.C 14.Y.V 14.N.C 14.R.C 14.U.V	2.0 1.5 1.75 1.5 0.8	0
+#
+612	34	parṇá	parṇá	pəɾɳ	Sanskrit	572	p ə ɾ ɳ	1 7 5 4	AXLN	PERN	15	15.P.C 15.E.V 15.R.c 15.N.c	2.0 1.5 1.1 0.8	0
+613	34	parṇá	paṇṇa,	pəɳɳa	Pali	574	p ə ɳɳ a	1 7 4 7	AXBZ	PENA	12	12.P.C 12.E.V 12.N.C 12.A.V	2.0 1.5 1.75 0.8	0
+614	34	parṇá	paṅkh	pəŋkʰ	Hindi	26	p ə ŋ kʰ	1 7 4 1	AXLN	PENK	6	6.P.C 6.E.V 6.N.c 6.K.c	2.0 1.5 1.1 0.8	0
+615	34	parṇá	par	puɾ	Urdu	26	p u ɾ	1 7 5	AXN	PYR	18	18.P.C 18.Y.V 18.R.c	2.0 1.5 0.8	0
+616	34	parṇá	pwā̃kh	pwɑːkʰ	Nepali	26	p w ɑː kʰ	1 6 7 1	ACXN	PWAK	10	10.P.C 10.W.C 10.A.V 10.K.c	2.0 1.5 1.5 0.8	0
+617	34	parṇá	pā̃kh	pɑːkʰ	Bhojpuri	571	p ɑː kʰ	1 7 1	AXN	PAK	3	3.P.C 3.A.V 3.K.c	2.0 1.5 0.8	0
+618	34	parṇá	pant	pant	Punjabi	26	p a n t	1 7 4 1	AXLN	PANT	13	13.P.C 13.A.V 13.N.c 13.T.c	2.0 1.5 1.1 0.8	0
+619	34	parṇá	khambhu	kʰɑmbʰu	Sindhi	119	kʰ ɑ m bʰ u	1 7 4 1 7	AXMBZ	KAMPY	16	16.K.C 16.A.V 16.M.c 16.P.C 16.Y.V	2.0 1.5 1.1 1.75 0.8	0
+620	34	parṇá	pī̃chũ	piːtʃʰuː	Gujarati	250	p iː t ʃʰ uː	1 7 1 3 7	AXBCZ	PITSY	5	5.P.C 5.I.V 5.T.C 5.S.C 5.Y.V	2.0 1.5 1.75 1.5 0.8	0
+621	34	parṇá	pīs	pis	Marathi	26	p i s	1 7 3	AXN	PIS	9	9.P.C 9.I.V 9.S.c	2.0 1.5 0.8	0
+622	34	parṇá	pāk	pɑːk	Konkani	26	p ɑː k	1 7 1	AXN	PAK	8	8.P.C 8.A.V 8.K.c	2.0 1.5 0.8	0
+623	34	parṇá	pakhi	pakʰi	Assamese	26	p a kʰ i	1 7 1 7	AXBZ	PAKI	1	1.P.C 1.A.V 1.K.C 1.I.V	2.0 1.5 1.75 0.8	0
+624	34	parṇá	pôr	pɔɾ	Bengali	306	p ɔ ɾ	1 7 5	AXN	PUR	2	2.P.C 2.U.V 2.R.c	2.0 1.5 0.8	0
+625	34	parṇá	pôrô	pɔɾɔ	Oriya	306	p ɔ ɾ ɔ	1 7 5 7	AXBZ	PURU	11	11.P.C 11.U.V 11.R.C 11.U.V	2.0 1.5 1.75 0.8	0
+626	34	parṇá	None	None	Kashmiri	572	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+627	34	parṇá	pihāṭu	pihɑːṭu	Sinhalese	250	p i h ɑː ṭ u	1 7 3 7 1 7	AXBYBZ	PIHATY	17	17.P.C 17.I.V 17.H.C 17.A.V 17.T.C 17.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+628	34	parṇá	dūnifat̊	diuːnifat̊	Dhivehi	250	d iuː n i f a t̊	1 7 4 7 3 7 1	AXBYBYN	TINIBAT	4	4.T.C 4.I.V 4.N.C 4.I.V 4.B.C 4.A.V 4.T.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0
+629	34	parṇá	por	pɔɹ	Romani	-5	p ɔ ɹ	1 7 5	AXN	PUR	14	14.P.C 14.U.V 14.R.c	2.0 1.5 0.8	0
+#
+1115	62	patha,	patha,	pətʰ	Sanskrit	1473	p ə tʰ	1 7 1	AXN	PET	15	15.P.C 15.E.V 15.T.c	2.0 1.5 0.8	0
+1116	62	patha,	patha,	pətʰɑ	Pali	1478	p ə tʰ ɑ	1 7 1 7	AXBZ	PETA	12	12.P.C 12.E.V 12.T.C 12.A.V	2.0 1.5 1.75 0.8	0
+1117	62	patha,	saṛak	səɽək	Hindi	64	s ə ɽ ə k	3 7 5 7 1	AXBYN	SEREK	6	6.S.C 6.E.V 6.R.C 6.E.V 6.K.c	2.0 1.5 1.75 1.3 0.8	0
+1118	62	patha,	saṛak	səɽək	Urdu	64	s ə ɽ ə k	3 7 5 7 1	AXBYN	SEREK	18	18.S.C 18.E.V 18.R.C 18.E.V 18.K.c	2.0 1.5 1.75 1.3 0.8	0
+1119	62	patha,	bāṭo,	bäʈo	Nepali	415	b ä ʈ o	1 7 1 7	AXBZ	PATU	10	10.P.C 10.A.V 10.T.C 10.U.V	2.0 1.5 1.75 0.8	0
+1120	62	patha,	saṛak,	səɽək	Bhojpuri	1469	s ə ɽ ə k	3 7 5 7 1	AXBYN	SEREK	3	3.S.C 3.E.V 3.R.C 3.E.V 3.K.c	2.0 1.5 1.75 1.3 0.8	0
+1121	62	patha,	saṛak	səɽək	Punjabi	64	s ə ɽ ə k	3 7 5 7 1	AXBYN	SEREK	13	13.S.C 13.E.V 13.R.C 13.E.V 13.K.c	2.0 1.5 1.75 1.3 0.8	0
+1122	62	patha,	rasto	rasto	Sindhi	64	r a s t o	5 7 3 1 7	AXMBZ	RASTU	16	16.R.C 16.A.V 16.S.c 16.T.C 16.U.V	2.0 1.5 1.1 1.75 0.8	0
+1123	62	patha,	rasto	rasto	Gujarati	64	r a s t o	5 7 3 1 7	AXMBZ	RASTU	5	5.R.C 5.A.V 5.S.c 5.T.C 5.U.V	2.0 1.5 1.1 1.75 0.8	0
+1124	62	patha,	rastā	rastɑː	Marathi	64	r a s t ɑː	5 7 3 1 7	AXMBZ	RASTA	9	9.R.C 9.A.V 9.S.c 9.T.C 9.A.V	2.0 1.5 1.1 1.75 0.8	0
+1125	62	patha,	rasto	rasto	Konkani	-7	r a s t o	5 7 3 1 7	AXMBZ	RASTU	8	8.R.C 8.A.V 8.S.c 8.T.C 8.U.V	2.0 1.5 1.1 1.75 0.8	0
+1126	62	patha,	ali,	ali	Assamese	164	a l i	7 5 7	XBZ	ALI	1	1.A.V 1.L.C 1.I.V	1.5 1.75 0.8	0
+1127	62	patha,	raśta,	ɾasta	Bengali	-8	ɾ a s t a	5 7 3 1 7	AXMBZ	RASTA	2	2.R.C 2.A.V 2.S.c 2.T.C 2.A.V	2.0 1.5 1.1 1.75 0.8	0
+1128	62	patha,	sôṛôkô,	sɔɽɔkɔ	Oriya	64	s ɔ ɽ ɔ k ɔ	3 7 5 7 1 7	AXBYBZ	SURUKU	11	11.S.C 11.U.V 11.R.C 11.U.V 11.K.C 11.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1129	62	patha,	None	None	Kashmiri	1474	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1130	62	patha,	pāra,	pɑːra	Sinhalese	415	p ɑː r a	1 7 5 7	AXBZ	PARA	17	17.P.C 17.A.V 17.R.C 17.A.V	2.0 1.5 1.75 0.8	0
+1131	62	patha,	magu	None	Dhivehi	415	N o n e	0 7 4 7	AXBZ	0UNE	4	4.0.C 4.U.V 4.N.C 4.E.V	2.0 1.5 1.75 0.8	1
+1132	62	patha,	drom	drɔm	Romani	-9	d r ɔ m	1 5 7 4	ACXN	TRUM	14	14.T.C 14.R.C 14.U.V 14.M.c	2.0 1.5 1.5 0.8	0
+#
+415	23	páttra	páttra	pɐttɾɐ	Sanskrit	1084	p ɐ tt ɾ ɐ	1 7 1 5 7	AXBCZ	PETRE	15	15.P.C 15.E.V 15.T.C 15.R.C 15.E.V	2.0 1.5 1.75 1.5 0.8	0
+416	23	páttra	patti	ˈpɑtːi	Pali	1084	ˈp ɑ tː i	1 7 1 7	AXBZ	PATI	12	12.P.C 12.A.V 12.T.C 12.I.V	2.0 1.5 1.75 0.8	0
+417	23	páttra	pattā	pəttɑː	Hindi	45	p ə tt ɑː	1 7 1 7	AXBZ	PETA	6	6.P.C 6.E.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	0
+418	23	páttra	pattā	pətɑː	Urdu	45	p ə t ɑː	1 7 1 7	AXBZ	PETA	18	18.P.C 18.E.V 18.T.C 18.A.V	2.0 1.5 1.75 0.8	0
+419	23	páttra	pāt	pɑːt	Nepali	45	p ɑː t	1 7 1	AXN	PAT	10	10.P.C 10.A.V 10.T.c	2.0 1.5 0.8	0
+420	23	páttra	pāt,	pɑːt	Bhojpuri	1085	p ɑː t	1 7 1	AXN	PAT	3	3.P.C 3.A.V 3.T.c	2.0 1.5 0.8	0
+421	23	páttra	patā	pətɑː	Punjabi	45	p ə t ɑː	1 7 1 7	AXBZ	PETA	13	13.P.C 13.E.V 13.T.C 13.A.V	2.0 1.5 1.75 0.8	0
+422	23	páttra	panu	panu	Sindhi	189	p a n u	1 7 4 7	AXBZ	PANY	16	16.P.C 16.A.V 16.N.C 16.Y.V	2.0 1.5 1.75 0.8	0
+423	23	páttra	pā̃dḍũ	pā̃dḍũ	Gujarati	189	p ā̃ d ḍ ũ	1 7 1 1 7	AXMBZ	PATTY	5	5.P.C 5.A.V 5.T.c 5.T.C 5.Y.V	2.0 1.5 1.1 1.75 0.8	0
+424	23	páttra	pān	pɑn	Marathi	189	p ɑ n	1 7 4	AXN	PAN	9	9.P.C 9.A.V 9.N.c	2.0 1.5 0.8	0
+425	23	páttra	pān	pɑn	Konkani	189	p ɑ n	1 7 4	AXN	PAN	8	8.P.C 8.A.V 8.N.c	2.0 1.5 0.8	0
+426	23	páttra	pat	pat	Assamese	45	p a t	1 7 1	AXN	PAT	1	1.P.C 1.A.V 1.T.c	2.0 1.5 0.8	0
+427	23	páttra	pata	pata	Bengali	45	p a t a	1 7 1 7	AXBZ	PATA	2	2.P.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	0
+428	23	páttra	pôtrô	pɔtɾɔ	Oriya	-6	p ɔ t ɾ ɔ	1 7 1 5 7	AXBCZ	PUTRU	11	11.P.C 11.U.V 11.T.C 11.R.C 11.U.V	2.0 1.5 1.75 1.5 0.8	0
+429	23	páttra	pan,	pan	Kashmiri	1089	p a n	1 7 4	AXN	PAN	7	7.P.C 7.A.V 7.N.c	2.0 1.5 0.8	0
+430	23	páttra	koḷē	koleː	Sinhalese	45	k o l eː	1 7 5 7	AXBZ	KULE	17	17.K.C 17.U.V 17.L.C 17.E.V	2.0 1.5 1.75 0.8	0
+431	23	páttra	fat̊	fæt	Dhivehi	45	f æ t	3 7 1	AXN	BET	4	4.B.C 4.E.V 4.T.c	2.0 1.5 0.8	0
+432	23	páttra	patrin	patrin	Romani	45	p a t r i n	1 7 1 5 7 4	AXBCYN	PATRIN	14	14.P.C 14.A.V 14.T.C 14.R.C 14.I.V 14.N.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+#
+594	33	púccha	púccha	pʊtʃtʃʰ	Sanskrit	2017	p ʊ t ʃ t ʃʰ	1 7 1 3 1 3	AXBYBC	PYTSTS	15	15.P.C 15.Y.V 15.T.C 15.S.V 15.T.C 15.S.C	2.0 1.5 1.75 1.3 1.75 1.5	0
+595	33	púccha	puccha	putʃtʃʰ	Pali	2023	p u t ʃ t ʃʰ	1 7 1 3 1 3	AXBYBC	PYTSTS	12	12.P.C 12.Y.V 12.T.C 12.S.V 12.T.C 12.S.C	2.0 1.5 1.75 1.3 1.75 1.5	0
+596	33	púccha	pū̃ch	pũːtʃʰ	Hindi	84	p ũː t ʃʰ	1 7 1 3	AXBC	PYTS	6	6.P.C 6.Y.V 6.T.C 6.S.C	2.0 1.5 1.75 1.5	0
+597	33	púccha	pūnch,	pũːntʃʰ	Urdu	84	p ũː n t ʃʰ	1 7 4 1 3	AXMBC	PYNTS	18	18.P.C 18.Y.V 18.N.c 18.T.C 18.S.C	2.0 1.5 1.1 1.75 1.5	0
+598	33	púccha	pucchar,	putʃtʃʰr	Nepali	84	p u t ʃ t ʃʰ r	1 7 1 3 1 3 5	AXBYBCC	PYTSTSR	10	10.P.C 10.Y.V 10.T.C 10.S.V 10.T.C 10.S.C 10.R.C	2.0 1.5 1.75 1.3 1.75 1.5 1.5	0
+599	33	púccha	põch	põːtʃʰ	Bhojpuri	2013	p õː t ʃʰ	1 7 1 3	AXBC	PUTS	3	3.P.C 3.U.V 3.T.C 3.S.C	2.0 1.5 1.75 1.5	0
+600	33	púccha	pūch	puːtʃ	Punjabi	84	p uː t ʃ	1 7 1 3	AXBC	PYTS	13	13.P.C 13.Y.V 13.T.C 13.S.C	2.0 1.5 1.75 1.5	0
+601	33	púccha	puchu	putʃʰu	Sindhi	84	p u t ʃʰ u	1 7 1 3 7	AXBCZ	PYTSY	16	16.P.C 16.Y.V 16.T.C 16.S.C 16.Y.V	2.0 1.5 1.75 1.5 0.8	0
+602	33	púccha	pū̃chḍī	pūːtʃʰɖiː	Gujarati	84	p ūː t ʃʰ ɖ iː	1 7 1 3 1 7	AXBYBZ	PYTSTI	5	5.P.C 5.Y.V 5.T.C 5.S.V 5.T.C 5.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+603	33	púccha	śepūṭ,	śepuːṭ	Marathi	288	ś e p uː ṭ	3 7 1 7 1	AXBYN	SEPYT	9	9.S.C 9.E.V 9.P.C 9.Y.V 9.T.c	2.0 1.5 1.75 1.3 0.8	0
+604	33	púccha	śempḍī	śempḍiː	Konkani	84	ś e m p ḍ iː	3 7 4 1 1 7	AXLMBZ	SEMPTI	8	8.S.C 8.E.V 8.M.c 8.P.c 8.T.C 8.I.V	2.0 1.5 1.1 1.1 1.75 0.8	0
+605	33	púccha	nez	nɛz	Assamese	317	n ɛ z	4 7 3	AXN	NES	1	1.N.C 1.E.V 1.S.c	2.0 1.5 0.8	0
+606	33	púccha	lej	leʤ	Bengali	317	l e ʤ	5 7 2	AXN	LEC	2	2.L.C 2.E.V 2.C.c	2.0 1.5 0.8	0
+607	33	púccha	lañjô	lɑñʤeɪô	Oriya	317	l ɑ ñ ʤ eɪ ô	5 7 4 2 7 7	AXMBYZ	LANCEU	11	11.L.C 11.A.V 11.N.c 11.C.C 11.E.V 11.U.V	2.0 1.5 1.1 1.75 1.3 0.8	0
+608	33	púccha	None	None	Kashmiri	2018	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+609	33	púccha	waligaya	waligaya	Sinhalese	317	w a l i g aya	6 7 5 7 1 7	AXBYBZ	WALIKA	17	17.W.C 17.A.V 17.L.C 17.I.V 17.K.C 17.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+610	33	púccha	nagū	naguː	Dhivehi	317	n a g uː	4 7 1 7	AXBZ	NAKY	4	4.N.C 4.A.V 4.K.C 4.Y.V	2.0 1.5 1.75 0.8	0
+611	33	púccha	pori	ˈpori	Romani	601	ˈp o r i	1 7 5 7	AXBZ	PURI	14	14.P.C 14.U.V 14.R.C 14.I.V	2.0 1.5 1.75 0.8	0
+#
+289	16	púruṣa,	púruṣa,	pʊɾʊʂ	Sanskrit	1197	p ʊ ɾ ʊ ʂ	1 7 5 7 3	AXBYN	PYRYS	15	15.P.C 15.Y.V 15.R.C 15.Y.V 15.S.c	2.0 1.5 1.75 1.3 0.8	0
+290	16	púruṣa,	purisa,	None	Pali	1197	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+291	16	púruṣa,	ādmī	ɑːdmiː	Hindi	-4	ɑː d m iː	7 1 4 7	XBCZ	ATMI	6	6.A.V 6.T.C 6.M.C 6.I.V	1.5 1.75 1.5 0.8	0
+292	16	púruṣa,	ādmī	ɑːdmiː	Urdu	-3	ɑː d m iː	7 1 4 7	XBCZ	ATMI	18	18.A.V 18.T.C 18.M.C 18.I.V	1.5 1.75 1.5 0.8	0
+293	16	púruṣa,	puruṣ	pʊɾʊʂ	Nepali	192	p ʊ ɾ ʊ ʂ	1 7 5 7 3	AXBYN	PYRYS	10	10.P.C 10.Y.V 10.R.C 10.Y.V 10.S.c	2.0 1.5 1.75 1.3 0.8	0
+294	16	púruṣa,	marad,	None	Bhojpuri	1189	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1
+295	16	púruṣa,	ādamī	aːdmiː	Punjabi	-3	aː d m iː	7 1 4 7	XBCZ	ATMI	13	13.A.V 13.T.C 13.M.C 13.I.V	1.5 1.75 1.5 0.8	0
+296	16	púruṣa,	māṇhū,	mɑːṇhuː	Sindhi	192	m ɑː ṇ h uː	4 7 4 3 7	AXMBZ	MANHY	16	16.M.C 16.A.V 16.N.c 16.H.C 16.Y.V	2.0 1.5 1.1 1.75 0.8	0
+297	16	púruṣa,	puruṣ	pʊɾʊʂ	Gujarati	256	p ʊ ɾ ʊ ʂ	1 7 5 7 3	AXBYN	PYRYS	5	5.P.C 5.Y.V 5.R.C 5.Y.V 5.S.c	2.0 1.5 1.75 1.3 0.8	0
+298	16	púruṣa,	puruṣ	pʊɾʊʂ	Marathi	-8	p ʊ ɾ ʊ ʂ	1 7 5 7 3	AXBYN	PYRYS	9	9.P.C 9.Y.V 9.R.C 9.Y.V 9.S.c	2.0 1.5 1.75 1.3 0.8	0
+299	16	púruṣa,	didlo	didlo	Konkani	192	d i d l o	1 7 1 5 7	AXBCZ	TITLU	8	8.T.C 8.I.V 8.T.C 8.L.C 8.U.V	2.0 1.5 1.75 1.5 0.8	0
+300	16	púruṣa,	mota	mɔtamanuʱ	Assamese	192	m ɔ t a m a n uʱ	4 7 1 7 4 7 4 7	AXBYBYBZ	MUTAMANY	1	1.M.C 1.U.V 1.T.C 1.A.V 1.M.C 1.A.V 1.N.C 1.Y.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	0
+301	16	púruṣa,	puruś	pʊɾʊʂ	Bengali	192	p ʊ ɾ ʊ ʂ	1 7 5 7 3	AXBYN	PYRYS	2	2.P.C 2.Y.V 2.R.C 2.Y.V 2.S.c	2.0 1.5 1.75 1.3 0.8	0
+302	16	púruṣa,	puruṣô	pʊɾʊʂɔ	Oriya	-7	p ʊ ɾ ʊ ʂ ɔ	1 7 5 7 3 7	AXBYBZ	PYRYSU	11	11.P.C 11.Y.V 11.R.C 11.Y.V 11.S.C 11.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+303	16	púruṣa,	mrụd	mrụd	Kashmiri	1193	m r ụ d	4 5 7 1	ACXN	MRYT	7	7.M.C 7.R.C 7.Y.V 7.T.c	2.0 1.5 1.5 0.8	0
+304	16	púruṣa,	pirimiyā	pirimijaaː	Sinhalese	411	p i r i m i j aaː	1 7 5 7 4 7 6 7	AXBYBYBZ	PIRIMIJA	17	17.P.C 17.I.V 17.R.C 17.I.V 17.M.C 17.I.V 17.J.C 17.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	0
+305	16	púruṣa,	firihen̊	firihen̊	Dhivehi	123	f i r i h e n̊	3 7 5 7 3 7 4	AXBYBYN	BIRIHEN	4	4.B.C 4.I.V 4.R.C 4.I.V 4.H.C 4.E.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0
+306	16	púruṣa,	murś	murś	Romani	123	m u r ś	4 7 5 3	AXLN	MYRS	14	14.M.C 14.Y.V 14.R.c 14.S.c	2.0 1.5 1.1 0.8	0
+#
+1008	56	pāṃsú,	pāṃsú,	pɑːsú	Sanskrit	1573	p ɑː s ú	1 7 3 7	AXBZ	PASY	15	15.P.C 15.A.V 15.S.C 15.Y.V	2.0 1.5 1.75 0.8	0
+1009	56	pāṃsú,	sikatā	None	Pali	1571	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+1010	56	pāṃsú,	ret	ɾeːt	Hindi	67	ɾ eː t	5 7 1	AXN	RET	6	6.R.C 6.E.V 6.T.c	2.0 1.5 0.8	0
+1011	56	pāṃsú,	ret	ɾeːt	Urdu	67	ɾ eː t	5 7 1	AXN	RET	18	18.R.C 18.E.V 18.T.c	2.0 1.5 0.8	0
+1012	56	pāṃsú,	bāluwā	bäluwä	Nepali	67	b ä l u w ä	1 7 5 7 6 7	AXBYBZ	PALYWA	10	10.P.C 10.A.V 10.L.C 10.Y.V 10.W.C 10.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1013	56	pāṃsú,	bālū	bɑːluː	Bhojpuri	1563	b ɑː l uː	1 7 5 7	AXBZ	PALY	3	3.P.C 3.A.V 3.L.C 3.Y.V	2.0 1.5 1.75 0.8	0
+1014	56	pāṃsú,	ret	ɾeːt	Punjabi	67	ɾ eː t	5 7 1	AXN	RET	13	13.R.C 13.E.V 13.T.c	2.0 1.5 0.8	0
+1015	56	pāṃsú,	vārī	ʋaːriː	Sindhi	67	ʋ aː r iː	6 7 5 7	AXBZ	WARI	16	16.W.C 16.A.V 16.R.C 16.I.V	2.0 1.5 1.75 0.8	0
+1016	56	pāṃsú,	retī	reti	Gujarati	67	r e t i	5 7 1 7	AXBZ	RETI	5	5.R.C 5.E.V 5.T.C 5.I.V	2.0 1.5 1.75 0.8	0
+1017	56	pāṃsú,	vāḷū	ʋaːr	Marathi	67	ʋ aː r	6 7 5	AXN	WAR	9	9.W.C 9.A.V 9.R.c	2.0 1.5 0.8	0
+1018	56	pāṃsú,	reuva	None	Konkani	67	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1
+1019	56	pāṃsú,	bali	bali	Assamese	68	b a l i	1 7 5 7	AXBZ	PALI	1	1.P.C 1.A.V 1.L.C 1.I.V	2.0 1.5 1.75 0.8	0
+1020	56	pāṃsú,	bali	bali	Bengali	68	b a l i	1 7 5 7	AXBZ	PALI	2	2.P.C 2.A.V 2.L.C 2.I.V	2.0 1.5 1.75 0.8	0
+1021	56	pāṃsú,	bali	bali	Oriya	68	b a l i	1 7 5 7	AXBZ	PALI	11	11.P.C 11.A.V 11.L.C 11.I.V	2.0 1.5 1.75 0.8	0
+1022	56	pāṃsú,	None	bali	Kashmiri	1567	b a l i	1 7 5 7	AXBZ	PALI	7	7.P.C 7.A.V 7.L.C 7.I.V	2.0 1.5 1.75 0.8	0
+1023	56	pāṃsú,	wæli	wæli	Sinhalese	67	w æ l i	6 7 5 7	AXBZ	WELI	17	17.W.C 17.E.V 17.L.C 17.I.V	2.0 1.5 1.75 0.8	0
+1024	56	pāṃsú,	fas	fəs	Dhivehi	68	f ə s	3 7 3	AXN	BES	4	4.B.C 4.E.V 4.S.c	2.0 1.5 0.8	0
+1025	56	pāṃsú,	kiśaj	kiśay	Romani	-12	k i ś ay	1 7 3 7	AXBZ	KISA	14	14.K.C 14.I.V 14.S.C 14.A.V	2.0 1.5 1.75 0.8	0
+#
+1187	66	pīta,	pīta,	piːtɐ	Sanskrit	2482	p iː t ɐ	1 7 1 7	AXBZ	PITE	15	15.P.C 15.I.V 15.T.C 15.E.V	2.0 1.5 1.75 0.8	0
+1188	66	pīta,	pīta	piːtɐ	Pali	2488	p iː t ɐ	1 7 1 7	AXBZ	PITE	12	12.P.C 12.I.V 12.T.C 12.E.V	2.0 1.5 1.75 0.8	0
+1189	66	pīta,	pīlā	piːlɑː	Hindi	100	p iː l ɑː	1 7 5 7	AXBZ	PILA	6	6.P.C 6.I.V 6.L.C 6.A.V	2.0 1.5 1.75 0.8	0
+1190	66	pīta,	pīlā	piːlɑː	Urdu	100	p iː l ɑː	1 7 5 7	AXBZ	PILA	18	18.P.C 18.I.V 18.L.C 18.A.V	2.0 1.5 1.75 0.8	0
+1191	66	pīta,	pahẽlo	pʌɦẽlo	Nepali	100	p ʌ ɦ ẽ l o	1 7 3 7 5 7	AXBYBZ	PEHELU	10	10.P.C 10.E.V 10.H.C 10.E.V 10.L.C 10.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1192	66	pīta,	pīyar	piːjɑːr	Bhojpuri	2478	p iː j ɑː r	1 7 6 7 5	AXBYN	PIJAR	3	3.P.C 3.I.V 3.J.C 3.A.V 3.R.c	2.0 1.5 1.75 1.3 0.8	0
+1193	66	pīta,	pīlā	piːlɑː	Punjabi	100	p iː l ɑː	1 7 5 7	AXBZ	PILA	13	13.P.C 13.I.V 13.L.C 13.A.V	2.0 1.5 1.75 0.8	0
+1194	66	pīta,	phiko	pʱiko	Sindhi	100	pʱ i k o	1 7 1 7	AXBZ	PIKU	16	16.P.C 16.I.V 16.K.C 16.U.V	2.0 1.5 1.75 0.8	0
+1195	66	pīta,	pīḷo	piːḷo	Gujarati	100	p iː ḷ o	1 7 5 7	AXBZ	PILU	5	5.P.C 5.I.V 5.L.C 5.U.V	2.0 1.5 1.75 0.8	0
+1196	66	pīta,	pivḷe	pivḷe	Marathi	100	p i v ḷ e	1 7 3 5 7	AXBCZ	PIBLE	9	9.P.C 9.I.V 9.B.C 9.L.C 9.E.V	2.0 1.5 1.75 1.5 0.8	0
+1197	66	pīta,	haḷduvo	haḷduvo	Konkani	322	h a ḷ d u v o	3 7 5 1 7 3 7	AXMBYBZ	HALTYBU	8	8.H.C 8.A.V 8.L.c 8.T.C 8.Y.V 8.B.C 8.U.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	0
+1198	66	pīta,	halodhia	ɦalɔdʱia	Assamese	322	ɦ a l ɔ dʱ ia	3 7 5 7 1 7	AXBYBZ	HALUTI	1	1.H.C 1.A.V 1.L.C 1.U.V 1.T.C 1.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1199	66	pīta,	hôlud	hɔlud	Bengali	322	h ɔ l u d	3 7 5 7 1	AXBYN	HULYT	2	2.H.C 2.U.V 2.L.C 2.Y.V 2.T.c	2.0 1.5 1.75 1.3 0.8	0
+1200	66	pīta,	hôḷôdia	hɔḷɔdia	Oriya	322	h ɔ ḷ ɔ d ia	3 7 5 7 1 7	AXBYBZ	HULUTI	11	11.H.C 11.U.V 11.L.C 11.U.V 11.T.C 11.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1201	66	pīta,	None	None	Kashmiri	2483	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1202	66	pīta,	kaha	kaha	Sinhalese	431	k a h a	1 7 3 7	AXBZ	KAHA	17	17.K.C 17.A.V 17.H.C 17.A.V	2.0 1.5 1.75 0.8	0
+1203	66	pīta,	rīⁿdūkula	rīⁿdūkula	Dhivehi	546	r īⁿ d ū k u l a	5 7 1 7 1 7 5 7	AXBYBYBZ	RITYKYLA	4	4.R.C 4.I.V 4.T.C 4.Y.V 4.K.C 4.Y.V 4.L.C 4.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	0
+1204	66	pīta,	gàlbeno	gàlbeno	Romani	-19	g à l b e n o	1 7 5 1 7 4 7	AXMBYBZ	KALPENU	14	14.K.C 14.A.V 14.L.c 14.P.C 14.E.V 14.N.C 14.U.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	0
+#
+541	30	pī́vas,	pī́vas,	píːʋɐs	Sanskrit	550	p íː ʋ ɐ s	1 7 6 7 3	AXBYN	PIWES	15	15.P.C 15.I.V 15.W.C 15.E.V 15.S.c	2.0 1.5 1.75 1.3 0.8	0
+542	30	pī́vas,	meda	ˈmeða	Pali	548	ˈm e ð a	4 7 3 7	AXBZ	MEDA	12	12.M.C 12.E.V 12.D.C 12.A.V	2.0 1.5 1.75 0.8	0
+543	30	pī́vas,	carbī	tʃəɾbiː	Hindi	-2	t ʃ ə ɾ b iː	1 3 7 5 1 7	ACXMBZ	TSERPI	6	6.T.C 6.S.C 6.E.V 6.R.c 6.P.C 6.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+544	30	pī́vas,	carbī	tʃaɾbiː	Urdu	-2	t ʃ a ɾ b iː	1 3 7 5 1 7	ACXMBZ	TSARPI	18	18.T.C 18.S.C 18.A.V 18.R.c 18.P.C 18.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+545	30	pī́vas,	cillo,	tʃil	Nepali	361	t ʃ i l	1 3 7 5	ACXN	TSIL	10	10.T.C 10.S.C 10.I.V 10.L.c	2.0 1.5 1.5 0.8	0
+546	30	pī́vas,	carbī	tʃəɾbiː	Bhojpuri	540	t ʃ ə ɾ b iː	1 3 7 5 1 7	ACXMBZ	TSERPI	3	3.T.C 3.S.C 3.E.V 3.R.c 3.P.C 3.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+547	30	pī́vas,	carbī	tʃəɾbiː	Punjabi	-1	t ʃ ə ɾ b iː	1 3 7 5 1 7	ACXMBZ	TSERPI	13	13.T.C 13.S.C 13.E.V 13.R.c 13.P.C 13.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+548	30	pī́vas,	carɓī	tʃəɾbiː	Sindhi	-1	t ʃ ə ɾ b iː	1 3 7 5 1 7	ACXMBZ	TSERPI	16	16.T.C 16.S.C 16.E.V 16.R.c 16.P.C 16.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+549	30	pī́vas,	carbī	tʃəɾbiː	Marathi	-5	t ʃ ə ɾ b iː	1 3 7 5 1 7	ACXMBZ	TSERPI	9	9.T.C 9.S.C 9.E.V 9.R.c 9.P.C 9.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+550	30	pī́vas,	vos	None	Konkani	361	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1
+551	30	pī́vas,	sorri,	sɔɹbi	Assamese	-1	s ɔ ɹ b i	3 7 5 1 7	AXMBZ	SURPI	1	1.S.C 1.U.V 1.R.c 1.P.C 1.I.V	2.0 1.5 1.1 1.75 0.8	0
+552	30	pī́vas,	côrbi	tʃorbi	Bengali	-3	t ʃ o r b i	1 3 7 5 1 7	ACXMBZ	TSURPI	2	2.T.C 2.S.C 2.U.V 2.R.c 2.P.C 2.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+553	30	pī́vas,	moṭa,	moʈa	Oriya	-3	m o ʈ a	4 7 1 7	AXBZ	MUTA	11	11.M.C 11.U.V 11.T.C 11.A.V	2.0 1.5 1.75 0.8	0
+554	30	pī́vas,	None	None	Kashmiri	544	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+555	30	pī́vas,	mēda	meːda	Sinhalese	399	m eː d a	4 7 1 7	AXBZ	META	17	17.M.C 17.E.V 17.T.C 17.A.V	2.0 1.5 1.75 0.8	0
+556	30	pī́vas,	sarubī	sɔɹubi:	Dhivehi	-1	s ɔ ɹ u b i:	3 7 5 7 1 7	AXBYBZ	SURYPI	4	4.S.C 4.U.V 4.R.C 4.Y.V 4.P.C 4.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+557	30	pī́vas,	thulo	tʰulo	Romani	220	tʰ u l o	1 7 5 7	AXBZ	TYLU	14	14.T.C 14.Y.V 14.L.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+1295	72	pūrṇá	pūrṇá	puːɾɳ	Sanskrit	751	p uː ɾ ɳ	1 7 5 4	AXLN	PYRN	15	15.P.C 15.Y.V 15.R.c 15.N.c	2.0 1.5 1.1 0.8	0
+1296	72	pūrṇá	puṇṇa	puɳɳa	Pali	759	p u ɳɳ a	1 7 4 7	AXBZ	PYNA	12	12.P.C 12.Y.V 12.N.C 12.A.V	2.0 1.5 1.75 0.8	0
+1297	72	pūrṇá	pūrā	puːɾɑː	Hindi	31	p uː ɾ ɑː	1 7 5 7	AXBZ	PYRA	6	6.P.C 6.Y.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	0
+1298	72	pūrṇá	pūrā	puːɾɑː	Urdu	31	p uː ɾ ɑː	1 7 5 7	AXBZ	PYRA	18	18.P.C 18.Y.V 18.R.C 18.A.V	2.0 1.5 1.75 0.8	0
+1299	72	pūrṇá	bharī,	bʰariː	Nepali	31	bʰ a r iː	1 7 5 7	AXBZ	PARI	10	10.P.C 10.A.V 10.R.C 10.I.V	2.0 1.5 1.75 0.8	0
+1300	72	pūrṇá	pūrā	puːɾɑː	Bhojpuri	751	p uː ɾ ɑː	1 7 5 7	AXBZ	PYRA	3	3.P.C 3.Y.V 3.R.C 3.A.V	2.0 1.5 1.75 0.8	0
+1301	72	pūrṇá	pūrā	puːɾɑː	Punjabi	31	p uː ɾ ɑː	1 7 5 7	AXBZ	PYRA	13	13.P.C 13.Y.V 13.R.C 13.A.V	2.0 1.5 1.75 0.8	0
+1302	72	pūrṇá	bharyal	bʰarjal	Sindhi	31	bʰ a r j a l	1 7 5 6 7 5	AXBCYN	PARJAL	16	16.P.C 16.A.V 16.R.C 16.J.C 16.A.V 16.L.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+1303	72	pūrṇá	bharelũ	bʰarelũ	Gujarati	32	bʰ a r e l ũ	1 7 5 7 5 7	AXBYBZ	PARELY	5	5.P.C 5.A.V 5.R.C 5.E.V 5.L.C 5.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1304	72	pūrṇá	sampūrṇa	səmpuːɾɳ	Marathi	31	s ə m p uː ɾ ɳ	3 7 4 1 7 5 4	AXMBYLN	SEMPYRN	9	9.S.C 9.E.V 9.M.c 9.P.C 9.Y.V 9.R.c 9.N.c	2.0 1.5 1.1 1.75 1.3 1.1 0.8	0
+1305	72	pūrṇá	purāy	purɑːy	Konkani	31	p u r ɑːy	1 7 5 7	AXBZ	PYRA	8	8.P.C 8.Y.V 8.R.C 8.A.V	2.0 1.5 1.75 0.8	0
+1306	72	pūrṇá	bhora,	bʱɔɹa	Assamese	32	bʱ ɔ ɹ a	1 7 5 7	AXBZ	PURA	1	1.P.C 1.U.V 1.R.C 1.A.V	2.0 1.5 1.75 0.8	0
+1307	72	pūrṇá	bhôra	bʰɔra	Bengali	31	bʰ ɔ r a	1 7 5 7	AXBZ	PURA	2	2.P.C 2.U.V 2.R.C 2.A.V	2.0 1.5 1.75 0.8	0
+1308	72	pūrṇá	purṇṇô,	None	Oriya	32	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1
+1309	72	pūrṇá	None	None	Kashmiri	755	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1310	72	pūrṇá	pura	None	Sinhalese	32	N o n e	0 7 4 7	AXBZ	0UNE	17	17.0.C 17.U.V 17.N.C 17.E.V	2.0 1.5 1.75 0.8	1
+1311	72	pūrṇá	furifai	furifai	Dhivehi	32	f u r i f ai	3 7 5 7 3 7	AXBYBZ	BYRIBA	4	4.B.C 4.Y.V 4.R.C 4.I.V 4.B.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1312	72	pūrṇá	pherdo	pʰerdo	Romani	31	pʰ e r d o	1 7 5 1 7	AXMBZ	PERTU	14	14.P.C 14.E.V 14.R.c 14.T.C 14.U.V	2.0 1.5 1.1 1.75 0.8	0
+#
+505	28	rakta,	rakta,	ɾəkt	Sanskrit	212	ɾ ə k t	5 7 1 1	AXLN	REKT	15	15.R.C 15.E.V 15.K.c 15.T.c	2.0 1.5 1.1 0.8	0
+506	28	rakta,	lohita	None	Pali	210	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+507	28	rakta,	xūn	kʰuːn	Hindi	10	kʰ uː n	1 7 4	AXN	KYN	6	6.K.C 6.Y.V 6.N.c	2.0 1.5 0.8	0
+508	28	rakta,	xūn	xuːn	Urdu	10	x uː n	3 7 4	AXN	GYN	18	18.G.C 18.Y.V 18.N.c	2.0 1.5 0.8	0
+509	28	rakta,	ragat	ragat	Nepali	-1	r a g a t	5 7 1 7 1	AXBYN	RAKAT	10	10.R.C 10.A.V 10.K.C 10.A.V 10.T.c	2.0 1.5 1.75 1.3 0.8	0
+510	28	rakta,	ख़ūn	kʰuːn	Bhojpuri	202	kʰ uː n	1 7 4	AXN	KYN	3	3.K.C 3.Y.V 3.N.c	2.0 1.5 0.8	0
+511	28	rakta,	xūn,	ɛksūɛn	Punjabi	10	ɛ k s ūɛ n	7 1 3 7 4	XBCYN	EKSYN	13	13.E.V 13.K.C 13.S.C 13.Y.V 13.N.c	1.5 1.75 1.5 1.3 0.8	0
+512	28	rakta,	ratu	ɾʊtːᵊ	Sindhi	115	ɾ ʊ tːᵊ	5 7 1	AXN	RYT	16	16.R.C 16.Y.V 16.T.c	2.0 1.5 0.8	0
+513	28	rakta,	lohī	loʰiː	Gujarati	10	l oʰiː	5 7	AX	LU	5	5.L.C 5.U.V	2.0 1.5	0
+514	28	rakta,	rakta	ɾəkt	Marathi	-3	ɾ ə k t	5 7 1 1	AXLN	REKT	9	9.R.C 9.E.V 9.K.c 9.T.c	2.0 1.5 1.1 0.8	0
+515	28	rakta,	ragat	ragat	Konkani	-2	r a g a t	5 7 1 7 1	AXBYN	RAKAT	8	8.R.C 8.A.V 8.K.C 8.A.V 8.T.c	2.0 1.5 1.75 1.3 0.8	0
+516	28	rakta,	tez	tez	Assamese	-33	t e z	1 7 3	AXN	TES	1	1.T.C 1.E.V 1.S.c	2.0 1.5 0.8	0
+517	28	rakta,	rôkt	rɔkto	Bengali	-1	r ɔ k t o	5 7 1 1 7	AXMBZ	RUKTU	2	2.R.C 2.U.V 2.K.c 2.T.C 2.U.V	2.0 1.5 1.1 1.75 0.8	0
+518	28	rakta,	rôktô,	ɾɔktɔ	Oriya	-1	ɾ ɔ k t ɔ	5 7 1 1 7	AXMBZ	RUKTU	11	11.R.C 11.U.V 11.K.c 11.T.C 11.U.V	2.0 1.5 1.1 1.75 0.8	0
+519	28	rakta,	None	None	Kashmiri	206	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+520	28	rakta,	lē	leː	Sinhalese	10	l eː	5 7	AX	LE	17	17.L.C 17.E.V	2.0 1.5	0
+521	28	rakta,	lē	leː	Dhivehi	10	l eː	5 7	AX	LE	4	4.L.C 4.E.V	2.0 1.5	0
+522	28	rakta,	rat	ɹæt	Romani	115	ɹ æ t	5 7 1	AXN	RET	14	14.R.C 14.E.V 14.T.c	2.0 1.5 0.8	0
+1151	64	rakta,	rakta,	ɾəkt	Sanskrit	1442	ɾ ə k t	5 7 1 1	AXLN	REKT	15	15.R.C 15.E.V 15.K.c 15.T.c	2.0 1.5 1.1 0.8	1
+1152	64	rakta,	lohita	None	Pali	1440	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+1153	64	rakta,	lāl	lɑːl	Hindi	63	l ɑː l	5 7 5	AXN	LAL	6	6.L.C 6.A.V 6.L.c	2.0 1.5 0.8	0
+1154	64	rakta,	surx,	suɾx	Urdu	63	s u ɾ x	3 7 5 3	AXLN	SYRG	18	18.S.C 18.Y.V 18.R.c 18.G.c	2.0 1.5 1.1 0.8	0
+1155	64	rakta,	rāto	räto	Nepali	128	r ä t o	5 7 1 7	AXBZ	RATU	10	10.R.C 10.A.V 10.T.C 10.U.V	2.0 1.5 1.75 0.8	0
+1156	64	rakta,	lāl	lɑːl	Bhojpuri	1434	l ɑː l	5 7 5	AXN	LAL	3	3.L.C 3.A.V 3.L.c	2.0 1.5 0.8	0
+1157	64	rakta,	lāl	lɑːl	Punjabi	63	l ɑː l	5 7 5	AXN	LAL	13	13.L.C 13.A.V 13.L.c	2.0 1.5 0.8	0
+1158	64	rakta,	gāṛho	gɑːṛʱo	Sindhi	63	g ɑː ṛʱ o	1 7 5 7	AXBZ	KARU	16	16.K.C 16.A.V 16.R.C 16.U.V	2.0 1.5 1.75 0.8	0
+1159	64	rakta,	lāl	lɑːl	Gujarati	63	l ɑː l	5 7 5	AXN	LAL	5	5.L.C 5.A.V 5.L.c	2.0 1.5 0.8	0
+1160	64	rakta,	lāl	lɑːl	Marathi	63	l ɑː l	5 7 5	AXN	LAL	9	9.L.C 9.A.V 9.L.c	2.0 1.5 0.8	0
+1161	64	rakta,	lāl	lɑːl	Konkani	282	l ɑː l	5 7 5	AXN	LAL	8	8.L.C 8.A.V 8.L.c	2.0 1.5 0.8	0
+1162	64	rakta,	roṅa	ɹɔŋa	Assamese	128	ɹ ɔ ŋ a	5 7 4 7	AXBZ	RUNA	1	1.R.C 1.U.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	0
+1163	64	rakta,	lal	lal	Bengali	63	l a l	5 7 5	AXN	LAL	2	2.L.C 2.A.V 2.L.c	2.0 1.5 0.8	0
+1164	64	rakta,	lalô,	lalɔ	Oriya	63	l a l ɔ	5 7 5 7	AXBZ	LALU	11	11.L.C 11.A.V 11.L.C 11.U.V	2.0 1.5 1.75 0.8	0
+1165	64	rakta,	None	None	Kashmiri	1438	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1166	64	rakta,	ratu	ratu	Sinhalese	128	r a t u	5 7 1 7	AXBZ	RATY	17	17.R.C 17.A.V 17.T.C 17.Y.V	2.0 1.5 1.75 0.8	0
+1167	64	rakta,	rat̊	rat̊	Dhivehi	128	r a t̊	5 7 1	AXN	RAT	4	4.R.C 4.A.V 4.T.c	2.0 1.5 0.8	0
+1168	64	rakta,	lolo	lolo	Romani	63	l o l o	5 7 5 7	AXBZ	LULU	14	14.L.C 14.U.V 14.L.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+1241	69	rā́tri,	rā́tri,	ɾɑːtɾiː	Sanskrit	1324	ɾ ɑː t ɾ iː	5 7 1 5 7	AXBCZ	RATRI	15	15.R.C 15.A.V 15.T.C 15.R.C 15.I.V	2.0 1.5 1.75 1.5 0.8	0
+1242	69	rā́tri,	ratti	ˈrɑtːi	Pali	1324	ˈr ɑ tː i	5 7 1 7	AXBZ	RATI	12	12.R.C 12.A.V 12.T.C 12.I.V	2.0 1.5 1.75 0.8	0
+1243	69	rā́tri,	rāt	ɾɑːt	Hindi	58	ɾ ɑː t	5 7 1	AXN	RAT	6	6.R.C 6.A.V 6.T.c	2.0 1.5 0.8	0
+1244	69	rā́tri,	rāt	ɾɑːt	Urdu	58	ɾ ɑː t	5 7 1	AXN	RAT	18	18.R.C 18.A.V 18.T.c	2.0 1.5 0.8	0
+1245	69	rā́tri,	rāt,	ɾɑːt	Nepali	58	ɾ ɑː t	5 7 1	AXN	RAT	10	10.R.C 10.A.V 10.T.c	2.0 1.5 0.8	0
+1246	69	rā́tri,	rāt	ɾɑːt	Bhojpuri	1324	ɾ ɑː t	5 7 1	AXN	RAT	3	3.R.C 3.A.V 3.T.c	2.0 1.5 0.8	0
+1247	69	rā́tri,	rāt,	ɾaːt	Punjabi	58	ɾ aː t	5 7 1	AXN	RAT	13	13.R.C 13.A.V 13.T.c	2.0 1.5 0.8	0
+1248	69	rā́tri,	rāti	ɾɑːt	Sindhi	58	ɾ ɑː t	5 7 1	AXN	RAT	16	16.R.C 16.A.V 16.T.c	2.0 1.5 0.8	0
+1249	69	rā́tri,	rāt	räːt	Gujarati	58	r äː t	5 7 1	AXN	RAT	5	5.R.C 5.A.V 5.T.c	2.0 1.5 0.8	0
+1250	69	rā́tri,	rātra	ɾɑːtra	Marathi	58	ɾ ɑː t r a	5 7 1 5 7	AXBCZ	RATRA	9	9.R.C 9.A.V 9.T.C 9.R.C 9.A.V	2.0 1.5 1.75 1.5 0.8	0
+1251	69	rā́tri,	rāt	ɾɑːt	Konkani	58	ɾ ɑː t	5 7 1	AXN	RAT	8	8.R.C 8.A.V 8.T.c	2.0 1.5 0.8	0
+1252	69	rā́tri,	rati	ɹati	Assamese	58	ɹ a t i	5 7 1 7	AXBZ	RATI	1	1.R.C 1.A.V 1.T.C 1.I.V	2.0 1.5 1.75 0.8	0
+1253	69	rā́tri,	ratri,	None	Bengali	58	N o n e	0 7 4 7	AXBZ	0UNE	2	2.0.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	0
+1254	69	rā́tri,	rati,	ɾati	Oriya	58	ɾ a t i	5 7 1 7	AXBZ	RATI	11	11.R.C 11.A.V 11.T.C 11.I.V	2.0 1.5 1.75 0.8	0
+1255	69	rā́tri,	None	None	Kashmiri	1327	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1256	69	rā́tri,	rǣ	rǣ	Sinhalese	58	r ǣ	5 0	AN	R0	17	17.R.C 17.0.c	2.0 0.8	0
+1257	69	rā́tri,	rēgaⁿḍu	None	Dhivehi	58	N o n e	0 7 4 7	AXBZ	0UNE	4	4.0.C 4.U.V 4.N.C 4.E.V	2.0 1.5 1.75 0.8	1
+1258	69	rā́tri,	rat	ɹæt	Romani	58	ɹ æ t	5 7 1	AXN	RET	14	14.R.C 14.E.V 14.T.c	2.0 1.5 0.8	1
+#
+271	15	strī́	strī́	stɾiː	Sanskrit	2449	s t ɾ iː	3 1 5 7	ACCZ	STRI	15	15.S.C 15.T.C 15.R.C 15.I.V	2.0 1.5 1.5 0.8	0
+272	15	strī́	itthī	itthi:	Pali	2450	i tt h i:	7 1 3 7	XBCZ	ITHI	12	12.I.V 12.T.C 12.H.C 12.I.V	1.5 1.75 1.5 0.8	0
+273	15	strī́	aurat,	ɔːɾət	Hindi	-7	ɔː ɾ ə t	7 5 7 1	XBYN	URET	6	6.U.V 6.R.C 6.E.V 6.T.c	1.5 1.75 1.3 0.8	0
+274	15	strī́	'aurat	ɔːɾət	Urdu	-7	ɔː ɾ ə t	7 5 7 1	XBYN	URET	18	18.U.V 18.R.C 18.E.V 18.T.c	1.5 1.75 1.3 0.8	0
+275	15	strī́	āimāī,	äimäi	Nepali	244	ä i m ä i	7 7 4 7 7	XYBYZ	AIMAI	10	10.A.V 10.I.V 10.M.C 10.A.V 10.I.V	1.5 1.3 1.75 1.3 0.8	0
+276	15	strī́	mehrārū,	None	Bhojpuri	2442	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1
+277	15	strī́	aurat	None	Punjabi	135	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	0
+278	15	strī́	'aurat,	ɔːɾət	Sindhi	206	ɔː ɾ ə t	7 5 7 1	XBYN	URET	16	16.U.V 16.R.C 16.E.V 16.T.c	1.5 1.75 1.3 0.8	0
+279	15	strī́	strī	stɾiː	Gujarati	268	s t ɾ iː	3 1 5 7	ACCZ	STRI	5	5.S.C 5.T.C 5.R.C 5.I.V	2.0 1.5 1.5 0.8	0
+280	15	strī́	bāī	bɑːiː	Marathi	268	b ɑːiː	1 7	AX	PA	9	9.P.C 9.A.V	2.0 1.5	0
+281	15	strī́	bāil	bɑːiːl	Konkani	-8	b ɑːiː l	1 7 5	AXN	PAL	8	8.P.C 8.A.V 8.L.c	2.0 1.5 0.8	0
+282	15	strī́	maiki	maɪkimanuʱ	Assamese	135	m aɪ k i m a n uʱ	4 7 1 7 4 7 4 7	AXBYBYBZ	MAKIMANY	1	1.M.C 1.A.V 1.K.C 1.I.V 1.M.C 1.A.V 1.N.C 1.Y.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	0
+283	15	strī́	môhila	mɔɦila	Bengali	321	m ɔ ɦ i l a	4 7 3 7 5 7	AXBYBZ	MUHILA	2	2.M.C 2.U.V 2.H.C 2.I.V 2.L.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+284	15	strī́	nari,	naɾi	Oriya	268	n a ɾ i	4 7 5 7	AXBZ	NARI	11	11.N.C 11.A.V 11.R.C 11.I.V	2.0 1.5 1.75 0.8	0
+285	15	strī́	zanān	zanaːn	Kashmiri	2446	z a n aː n	3 7 4 7 4	AXBYN	SANAN	7	7.S.C 7.A.V 7.N.C 7.A.V 7.N.c	2.0 1.5 1.75 1.3 0.8	0
+286	15	strī́	gǣni	ʤiǣni	Sinhalese	429	ʤ i ǣ n i	2 7 0 4 7	AXBCZ	CI0NI	17	17.C.C 17.I.V 17.0.C 17.N.C 17.I.V	2.0 1.5 1.75 1.5 0.8	0
+287	15	strī́	an̊hen̊	æn̊hɛn̊	Dhivehi	244	æ n̊ h ɛ n̊	7 4 3 7 4	XMBYN	ENHEN	4	4.E.V 4.N.c 4.H.C 4.E.V 4.N.c	1.5 1.1 1.75 1.3 0.8	0
+288	15	strī́	ʒuvli	dʒuvʎi	Romani	471	d ʒ u v ʎ i	1 3 7 3 5 7	ACXBCZ	TSYBLI	14	14.T.C 14.S.C 14.Y.V 14.B.C 14.L.C 14.I.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+#
+846	47	stána	stána	stɐnɐ	Sanskrit	246	s t ɐ n ɐ	3 1 7 4 7	ACYBZ	STENE	15	15.S.C 15.T.C 15.E.V 15.N.C 15.E.V	2.0 1.5 1.3 1.75 0.8	0
+847	47	stána	thana	ˈtɑːnə	Pali	246	ˈt ɑː n ə	1 7 4 7	AXBZ	TANE	12	12.T.C 12.A.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	0
+848	47	stána	chātī	tʃʰɑːtiː	Hindi	12	t ʃʰ ɑː t iː	1 3 7 1 7	ACXBZ	TSATI	6	6.T.C 6.S.C 6.A.V 6.T.C 6.I.V	2.0 1.5 1.5 1.75 0.8	0
+849	47	stána	sīnā	siːna	Urdu	12	s iː n a	3 7 4 7	AXBZ	SINA	18	18.S.C 18.I.V 18.N.C 18.A.V	2.0 1.5 1.75 0.8	0
+850	47	stána	chātī,	tʃʰɑːtiː	Nepali	12	t ʃʰ ɑː t iː	1 3 7 1 7	ACXBZ	TSATI	10	10.T.C 10.S.C 10.A.V 10.T.C 10.I.V	2.0 1.5 1.5 1.75 0.8	0
+851	47	stána	chātī,	tʃʰɑːtiː	Bhojpuri	246	t ʃʰ ɑː t iː	1 3 7 1 7	ACXBZ	TSATI	3	3.T.C 3.S.C 3.A.V 3.T.C 3.I.V	2.0 1.5 1.5 1.75 0.8	0
+852	47	stána	chātī	tʃʰɑːtiː	Punjabi	12	t ʃʰ ɑː t iː	1 3 7 1 7	ACXBZ	TSATI	13	13.T.C 13.S.C 13.A.V 13.T.C 13.I.V	2.0 1.5 1.5 1.75 0.8	0
+853	47	stána	chātī	tʃʰɑːtiː	Sindhi	12	t ʃʰ ɑː t iː	1 3 7 1 7	ACXBZ	TSATI	16	16.T.C 16.S.C 16.A.V 16.T.C 16.I.V	2.0 1.5 1.5 1.75 0.8	0
+854	47	stána	chātī	tʃʰɑːtiː	Gujarati	12	t ʃʰ ɑː t iː	1 3 7 1 7	ACXBZ	TSATI	5	5.T.C 5.S.C 5.A.V 5.T.C 5.I.V	2.0 1.5 1.5 1.75 0.8	0
+855	47	stána	chātī,	tʃʰɑːtiː	Marathi	-4	t ʃʰ ɑː t iː	1 3 7 1 7	ACXBZ	TSATI	9	9.T.C 9.S.C 9.A.V 9.T.C 9.I.V	2.0 1.5 1.5 1.75 0.8	0
+856	47	stána	chātī,	tʃʰɑːtiː	Konkani	116	t ʃʰ ɑː t iː	1 3 7 1 7	ACXBZ	TSATI	8	8.T.C 8.S.C 8.A.V 8.T.C 8.I.V	2.0 1.5 1.5 1.75 0.8	0
+857	47	stána	buku	buku	Assamese	297	b u k u	1 7 1 7	AXBZ	PYKY	1	1.P.C 1.Y.V 1.K.C 1.Y.V	2.0 1.5 1.75 0.8	0
+858	47	stána	buk	buk	Bengali	297	b u k	1 7 1	AXN	PYK	2	2.P.C 2.Y.V 2.K.c	2.0 1.5 0.8	0
+859	47	stána	stônô,	stɔnɔ	Oriya	12	s t ɔ n ɔ	3 1 7 4 7	ACYBZ	STUNU	11	11.S.C 11.T.C 11.U.V 11.N.C 11.U.V	2.0 1.5 1.3 1.75 0.8	0
+860	47	stána	None	None	Kashmiri	250	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+861	47	stána	tanē,	tane:	Sinhalese	116	t a n e:	1 7 4 7	AXBZ	TANE	17	17.T.C 17.A.V 17.N.C 17.E.V	2.0 1.5 1.75 0.8	0
+862	47	stána	kisfā	kisfā	Dhivehi	297	k i s f ā	1 7 3 3 7	AXMBZ	KISBA	4	4.K.C 4.I.V 4.S.c 4.B.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+863	47	stána	ćući	ćjuć	Romani	592	ć j u ć	0 6 7 0	ACXN	0JY0	14	14.0.C 14.J.C 14.Y.V 14.0.c	2.0 1.5 1.5 0.8	0
+#
+145	8	sárva	sárva	sɐɾʋɐ	Sanskrit	25	s ɐ ɾ ʋ ɐ	3 7 5 6 7	AXBCZ	SERWE	15	15.S.C 15.E.V 15.R.C 15.W.C 15.E.V	2.0 1.5 1.75 1.5 0.8	0
+146	8	sárva	sabba	ˈsabba	Pali	22	ˈs a bb a	3 7 1 7	AXBZ	SAPA	12	12.S.C 12.A.V 12.P.C 12.A.V	2.0 1.5 1.75 0.8	0
+147	8	sárva	sab,	səb	Hindi	1	s ə b	3 7 1	AXN	SEP	6	6.S.C 6.E.V 6.P.c	2.0 1.5 0.8	0
+148	8	sárva	sab,	sabb	Urdu	1	s a bb	3 7 1	AXN	SAP	18	18.S.C 18.A.V 18.P.c	2.0 1.5 0.8	0
+149	8	sárva	sabai,	sʌbʌi	Nepali	1	s ʌ b ʌi	3 7 1 7	AXBZ	SEPE	10	10.S.C 10.E.V 10.P.C 10.E.V	2.0 1.5 1.75 0.8	0
+150	8	sárva	kul,	kʊl	Bhojpuri	12	k ʊ l	1 7 5	AXN	KYL	3	3.K.C 3.Y.V 3.L.c	2.0 1.5 0.8	0
+151	8	sárva	sārā,	sɑːɾɑː	Punjabi	1	s ɑː ɾ ɑː	3 7 5 7	AXBZ	SARA	13	13.S.C 13.A.V 13.R.C 13.A.V	2.0 1.5 1.75 0.8	0
+152	8	sárva	sabhu	sabʰu	Sindhi	1	s a bʰ u	3 7 1 7	AXBZ	SAPY	16	16.S.C 16.A.V 16.P.C 16.Y.V	2.0 1.5 1.75 0.8	0
+153	8	sárva	badhũ,	bədʰũ	Gujarati	1	b ə dʰ ũ	1 7 1 7	AXBZ	PETY	5	5.P.C 5.E.V 5.T.C 5.Y.V	2.0 1.5 1.75 0.8	0
+154	8	sárva	sagḷe,	səɡɭe	Marathi	270	s ə ɡ ɭ e	3 7 1 5 7	AXBCZ	SEKLE	9	9.S.C 9.E.V 9.K.C 9.L.C 9.E.V	2.0 1.5 1.75 1.5 0.8	0
+155	8	sárva	sagḷe	səɡɭe	Konkani	270	s ə ɡ ɭ e	3 7 1 5 7	AXBCZ	SEKLE	8	8.S.C 8.E.V 8.K.C 8.L.C 8.E.V	2.0 1.5 1.75 1.5 0.8	0
+156	8	sárva	atai,	ataɪ	Assamese	1	a t aɪ	7 1 7	XBZ	ATA	1	1.A.V 1.T.C 1.A.V	1.5 1.75 0.8	0
+157	8	sárva	śôb	ʃɔb	Bengali	1	ʃ ɔ b	3 7 1	AXN	SUP	2	2.S.C 2.U.V 2.P.c	2.0 1.5 0.8	0
+158	8	sárva	sôbu	sabʰu	Oriya	1	s a bʰ u	3 7 1 7	AXBZ	SAPY	11	11.S.C 11.A.V 11.P.C 11.Y.V	2.0 1.5 1.75 0.8	0
+159	8	sárva	prth	prth	Kashmiri	17	p r t h	1 5 1 3	AXBC	PRTH	7	7.P.C 7.R.V 7.T.C 7.H.C	2.0 1.5 1.75 1.5	0
+160	8	sárva	hæma,	hæma	Sinhalese	270	h æ m a	3 7 4 7	AXBZ	HEMA	17	17.H.C 17.E.V 17.M.C 17.A.V	2.0 1.5 1.75 0.8	0
+161	8	sárva	hurihā	huriʰɑː	Dhivehi	174	h u r iʰɑː	3 7 5 7	AXBZ	HYRI	4	4.H.C 4.Y.V 4.R.C 4.I.V	2.0 1.5 1.75 0.8	0
+162	8	sárva	sa	sa	Romani	1	s a	3 7	AX	SA	14	14.S.C 14.A.V	2.0 1.5	0
+#
+900	50	sū́rya,	sū́rya,	suːɾjᵊ	Sanskrit	1977	s uː ɾ jᵊ	3 7 5 6	AXBC	SYRJ	15	15.S.C 15.Y.V 15.R.C 15.J.C	2.0 1.5 1.75 1.5	0
+901	50	sū́rya,	suriya	sʊɻɪjɐ	Pali	1972	s ʊ ɻ ɪ j ɐ	3 7 5 7 6 7	AXBYBZ	SYRIJE	12	12.S.C 12.Y.V 12.R.C 12.I.V 12.J.C 12.E.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+902	50	sū́rya,	sūraj	suːɾədʒ	Hindi	82	s uː ɾ ə d ʒ	3 7 5 7 1 3	AXBYBC	SYRETS	6	6.S.C 6.Y.V 6.R.C 6.E.V 6.T.C 6.S.C	2.0 1.5 1.75 1.3 1.75 1.5	0
+903	50	sū́rya,	sūraj	None	Urdu	82	N o n e	0 7 4 7	AXBZ	0UNE	18	18.0.C 18.U.V 18.N.C 18.E.V	2.0 1.5 1.75 0.8	1
+904	50	sū́rya,	ghām,	ɡʱam	Nepali	236	ɡʱ a m	1 7 4	AXN	KAM	10	10.K.C 10.A.V 10.M.c	2.0 1.5 0.8	0
+905	50	sū́rya,	sūraj	suːɾədʒ	Bhojpuri	1972	s uː ɾ ə d ʒ	3 7 5 7 1 3	AXBYBC	SYRETS	3	3.S.C 3.Y.V 3.R.C 3.E.V 3.T.C 3.S.C	2.0 1.5 1.75 1.3 1.75 1.5	0
+906	50	sū́rya,	sūraj	suːɾədʒ	Punjabi	82	s uː ɾ ə d ʒ	3 7 5 7 1 3	AXBYBC	SYRETS	13	13.S.C 13.Y.V 13.R.C 13.E.V 13.T.C 13.S.C	2.0 1.5 1.75 1.3 1.75 1.5	0
+907	50	sū́rya,	siju,	suːɾədʒ	Sindhi	82	s uː ɾ ə d ʒ	3 7 5 7 1 3	AXBYBC	SYRETS	16	16.S.C 16.Y.V 16.R.C 16.E.V 16.T.C 16.S.C	2.0 1.5 1.75 1.3 1.75 1.5	0
+908	50	sū́rya,	sūrya,	None	Gujarati	82	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1
+909	50	sū́rya,	sūrya	suːɾjᵊ	Marathi	-9	s uː ɾ jᵊ	3 7 5 6	AXBC	SYRJ	9	9.S.C 9.Y.V 9.R.C 9.J.C	2.0 1.5 1.75 1.5	0
+910	50	sū́rya,	sūrya	suːɾjᵊ	Konkani	-10	s uː ɾ jᵊ	3 7 5 6	AXBC	SYRJ	8	8.S.C 8.Y.V 8.R.C 8.J.C	2.0 1.5 1.75 1.5	0
+911	50	sū́rya,	beli	beli	Assamese	352	b e l i	1 7 5 7	AXBZ	PELI	1	1.P.C 1.E.V 1.L.C 1.I.V	2.0 1.5 1.75 0.8	0
+912	50	sū́rya,	śurjô	ˈʃurdʒːo	Bengali	-9	ˈʃ u r d ʒː o	3 7 5 1 3 7	AXMBCZ	SYRTSU	2	2.S.C 2.Y.V 2.R.c 2.T.C 2.S.C 2.U.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+913	50	sū́rya,	surjyô	suɾdʒjɔ	Oriya	-11	s u ɾ d ʒ j ɔ	3 7 5 1 3 6 7	AXMBCCZ	SYRTSJU	11	11.S.C 11.Y.V 11.R.c 11.T.C 11.S.C 11.J.C 11.U.V	2.0 1.5 1.1 1.75 1.5 1.5 0.8	0
+914	50	sū́rya,	None	None	Kashmiri	1972	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+915	50	sū́rya,	iru	None	Sinhalese	82	N o n e	0 7 4 7	AXBZ	0UNE	17	17.0.C 17.U.V 17.N.C 17.E.V	2.0 1.5 1.75 0.8	1
+916	50	sū́rya,	iru	iɾu	Dhivehi	82	i ɾ u	7 5 7	XBZ	IRY	4	4.I.V 4.R.C 4.Y.V	1.5 1.75 0.8	0
+917	50	sū́rya,	kham	kham	Romani	236	k h a m	1 3 7 4	ACXN	KHAM	14	14.K.C 14.H.C 14.A.V 14.M.c	2.0 1.5 1.5 0.8	0
+#
+1259	70	taptá	taptá	tɐptɐ	Sanskrit	2258	t ɐ p t ɐ	1 7 1 1 7	AXMBZ	TEPTE	15	15.T.C 15.E.V 15.P.c 15.T.C 15.E.V	2.0 1.5 1.1 1.75 0.8	0
+1260	70	taptá	ghamma	None	Pali	2256	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+1261	70	taptá	garm	ɡəɾəm	Hindi	-6	ɡ ə ɾ ə m	1 7 5 7 4	AXBYN	KEREM	6	6.K.C 6.E.V 6.R.C 6.E.V 6.M.c	2.0 1.5 1.75 1.3 0.8	0
+1262	70	taptá	garm	ɡaɾm	Urdu	-6	ɡ a ɾ m	1 7 5 4	AXLN	KARM	18	18.K.C 18.A.V 18.R.c 18.M.c	2.0 1.5 1.1 0.8	0
+1263	70	taptá	nyāno,	njäno	Nepali	170	n j ä n o	4 6 7 4 7	ACXBZ	NJANU	10	10.N.C 10.J.C 10.A.V 10.N.C 10.U.V	2.0 1.5 1.5 1.75 0.8	0
+1264	70	taptá	garam	garam	Bhojpuri	2250	g a r a m	1 7 5 7 4	AXBYN	KARAM	3	3.K.C 3.A.V 3.R.C 3.A.V 3.M.c	2.0 1.5 1.75 1.3 0.8	0
+1265	70	taptá	garam	ɡəɾᵊmə	Punjabi	133	ɡ ə ɾᵊ m ə	1 7 5 4 7	AXMBZ	KERME	13	13.K.C 13.E.V 13.R.c 13.M.C 13.E.V	2.0 1.5 1.1 1.75 0.8	0
+1266	70	taptá	koso,	koso	Sindhi	133	k o s o	1 7 3 7	AXBZ	KUSU	16	16.K.C 16.U.V 16.S.C 16.U.V	2.0 1.5 1.75 0.8	0
+1267	70	taptá	garam	garam	Gujarati	133	g a r a m	1 7 5 7 4	AXBYN	KARAM	5	5.K.C 5.A.V 5.R.C 5.A.V 5.M.c	2.0 1.5 1.75 1.3 0.8	0
+1268	70	taptá	garam,	garam	Marathi	133	g a r a m	1 7 5 7 4	AXBYN	KARAM	9	9.K.C 9.A.V 9.R.C 9.A.V 9.M.c	2.0 1.5 1.75 1.3 0.8	0
+1269	70	taptá	garam	garam	Konkani	133	g a r a m	1 7 5 7 4	AXBYN	KARAM	8	8.K.C 8.A.V 8.R.C 8.A.V 8.M.c	2.0 1.5 1.75 1.3 0.8	0
+1270	70	taptá	topot,	tɔpɔt	Assamese	133	t ɔ p ɔ t	1 7 1 7 1	AXBYN	TUPUT	1	1.T.C 1.U.V 1.P.C 1.U.V 1.T.c	2.0 1.5 1.75 1.3 0.8	0
+1271	70	taptá	gôrôm	ˈɡɔrom	Bengali	-10	ˈɡ ɔ r o m	1 7 5 7 4	AXBYN	KURUM	2	2.K.C 2.U.V 2.R.C 2.U.V 2.M.c	2.0 1.5 1.75 1.3 0.8	0
+1272	70	taptá	gôrômô	ɡɔɾɔmɔ	Oriya	12	ɡ ɔ ɾ ɔ m ɔ	1 7 5 7 4 7	AXBYBZ	KURUMU	11	11.K.C 11.U.V 11.R.C 11.U.V 11.M.C 11.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1273	70	taptá	None	None	Kashmiri	2249	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1274	70	taptá	uṇusum	None	Sinhalese	133	N o n e	0 7 4 7	AXBZ	0UNE	17	17.0.C 17.U.V 17.N.C 17.E.V	2.0 1.5 1.75 0.8	1
+1275	70	taptá	hūnu	hūnu	Dhivehi	133	h ū n u	3 7 4 7	AXBZ	HYNY	4	4.H.C 4.Y.V 4.N.C 4.Y.V	2.0 1.5 1.75 0.8	0
+1276	70	taptá	tato	ˈtato	Romani	170	ˈt a t o	1 7 1 7	AXBZ	TATU	14	14.T.C 14.A.V 14.T.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+451	25	tvác	tvác	tʋɐtɕ	Sanskrit	116	t ʋ ɐ t ɕ	1 6 7 1 3	ACXBC	TWETS	15	15.T.C 15.W.C 15.E.V 15.T.C 15.S.C	2.0 1.5 1.5 1.75 1.5	0
+452	25	tvác	taca	ˈtakə	Pali	114	ˈt a k ə	1 7 1 7	AXBZ	TAKE	12	12.T.C 12.A.V 12.K.C 12.E.V	2.0 1.5 1.75 0.8	0
+453	25	tvác	chāl	tʃʰɑːl	Hindi	4	t ʃʰ ɑː l	1 3 7 5	ACXN	TSAL	6	6.T.C 6.S.C 6.A.V 6.L.c	2.0 1.5 1.5 0.8	0
+454	25	tvác	chāl	tʃʰälə	Urdu	4	t ʃʰ ä l ə	1 3 7 5 7	ACXBZ	TSALE	18	18.T.C 18.S.C 18.A.V 18.L.C 18.E.V	2.0 1.5 1.5 1.75 0.8	0
+455	25	tvác	(rūkhko)	ruːkʰko	Nepali	328	r uː kʰ k o	5 7 1 1 7	AXMBZ	RYKKU	10	10.R.C 10.Y.V 10.K.c 10.K.C 10.U.V	2.0 1.5 1.1 1.75 0.8	0
+456	25	tvác	chāl,	tʃʰɑːl	Bhojpuri	107	t ʃʰ ɑː l	1 3 7 5	ACXN	TSAL	3	3.T.C 3.S.C 3.A.V 3.L.c	2.0 1.5 1.5 0.8	0
+457	25	tvác	chilla,	tʃʰillə	Punjabi	4	t ʃʰ i ll ə	1 3 7 5 7	ACXBZ	TSILE	13	13.T.C 13.S.C 13.I.V 13.L.C 13.E.V	2.0 1.5 1.5 1.75 0.8	0
+458	25	tvác	choᶑo	tʃoᶑo	Sindhi	4	t ʃ o ᶑ o	1 3 7 0 7	ACXBZ	TSU0U	16	16.T.C 16.S.C 16.U.V 16.0.C 16.U.V	2.0 1.5 1.5 1.75 0.8	0
+459	25	tvác	chāl	tʃʰɑːl	Gujarati	4	t ʃʰ ɑː l	1 3 7 5	ACXN	TSAL	5	5.T.C 5.S.C 5.A.V 5.L.c	2.0 1.5 1.5 0.8	0
+460	25	tvác	(j̈hāḍācī)	sɑːl	Marathi	4	s ɑː l	3 7 5	AXN	SAL	9	9.S.C 9.A.V 9.L.c	2.0 1.5 0.8	0
+461	25	tvác	(jhāḍāce)	sɑːl	Konkani	4	s ɑː l	3 7 5	AXN	SAL	8	8.S.C 8.A.V 8.L.c	2.0 1.5 0.8	0
+462	25	tvác	bakoli	bakɔli	Assamese	328	b a k ɔ l i	1 7 1 7 5 7	AXBYBZ	PAKULI	1	1.P.C 1.A.V 1.K.C 1.U.V 1.L.C 1.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+463	25	tvác	chal	sal	Bengali	4	s a l	3 7 5	AXN	SAL	2	2.S.C 2.A.V 2.L.c	2.0 1.5 0.8	0
+464	25	tvác	bôkôḷô,	bɔkɔlɔ	Oriya	4	b ɔ k ɔ l ɔ	1 7 1 7 5 7	AXBYBZ	PUKULU	11	11.P.C 11.U.V 11.K.C 11.U.V 11.L.C 11.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+465	25	tvác	None	None	Kashmiri	111	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+466	25	tvác	potu	potu	Sinhalese	383	p o t u	1 7 1 7	AXBZ	PUTY	17	17.P.C 17.U.V 17.T.C 17.Y.V	2.0 1.5 1.75 0.8	0
+467	25	tvác	toṣi	toṣi	Dhivehi	523	t o ṣ i	1 7 3 7	AXBZ	TUSI	4	4.T.C 4.U.V 4.S.C 4.I.V	2.0 1.5 1.75 0.8	0
+468	25	tvác	korca	None	Romani	-1	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1
+#
+19	1	tvám	tvám	tʋɐm	Sanskrit	2505	t ʋ ɐ m	1 6 7 4	ACXN	TWEM	15	15.T.C 15.W.C 15.E.V 15.M.c	2.0 1.5 1.5 0.8	0
+20	1	tvám	tvaṃ	tʋɐṃ	Pali	2501	t ʋ ɐ ṃ	1 6 7 4	ACXN	TWEM	12	12.T.C 12.W.C 12.E.V 12.M.c	2.0 1.5 1.5 0.8	0
+21	1	tvám	tū*,	tuː	Hindi	87	t uː	1 7	AX	TY	6	6.T.C 6.Y.V	2.0 1.5	0
+22	1	tvám	tū*,	toː	Urdu	87	t oː	1 7	AX	TU	18	18.T.C 18.U.V	2.0 1.5	0
+23	1	tvám	tã,	tʌ	Nepali	87	t ʌ	1 7	AX	TE	10	10.T.C 10.E.V	2.0 1.5	0
+24	1	tvám	te,	tɐj	Bhojpuri	2494	t ɐ j	1 7 6	AXN	TEJ	3	3.T.C 3.E.V 3.J.c	2.0 1.5 0.8	0
+25	1	tvám	tū̃*,	tũː	Punjabi	87	t ũː	1 7	AX	TY	13	13.T.C 13.Y.V	2.0 1.5	0
+26	1	tvám	tū̃	tun	Sindhi	87	t u n	1 7 4	AXN	TYN	16	16.T.C 16.Y.V 16.N.c	2.0 1.5 0.8	0
+27	1	tvám	tũ*,	tuː	Gujarati	87	t uː	1 7	AX	TY	5	5.T.C 5.Y.V	2.0 1.5	0
+28	1	tvám	tū*,	tuː	Marathi	87	t uː	1 7	AX	TY	9	9.T.C 9.Y.V	2.0 1.5	0
+29	1	tvám	tū	tuː	Konkani	87	t uː	1 7	AX	TY	8	8.T.C 8.Y.V	2.0 1.5	0
+30	1	tvám	toi*,	tɔɪ	Assamese	87	t ɔɪ	1 7	AX	TU	1	1.T.C 1.U.V	2.0 1.5	0
+31	1	tvám	tumi,	tumi	Bengali	87	t u m i	1 7 4 7	AXBZ	TYMI	2	2.T.C 2.Y.V 2.M.C 2.I.V	2.0 1.5 1.75 0.8	0
+32	1	tvám	tu,	tu	Oriya	87	t u	1 7	AX	TY	11	11.T.C 11.Y.V	2.0 1.5	0
+33	1	tvám	ċụ	tsɨ	Kashmiri	2494	t s ɨ	1 3 7	ACX	TSI	7	7.T.C 7.S.C 7.I.V	2.0 1.5 1.5	0
+34	1	tvám	oyā*,	ɔɪɑː	Sinhalese	87	ɔɪɑː	7	X	U	17	17.U.V	1.5	0
+35	1	tvám	kalē,	kæle:	Dhivehi	87	k æ l e:	1 7 5 7	AXBZ	KELE	4	4.K.C 4.E.V 4.L.C 4.E.V	2.0 1.5 1.75 0.8	0
+36	1	tvám	tu	ˈtu	Romani	87	ˈt u	1 7	AX	TY	14	14.T.C 14.Y.V	2.0 1.5	0
+#
+73	4	tát	tát	tɐt	Sanskrit	2032	t ɐ t	1 7 1	AXN	TET	15	15.T.C 15.E.V 15.T.c	2.0 1.5 0.8	0
+74	4	tát	asu,	ˈɑsu	Pali	2032	ˈɑ s u	7 3 7	XBZ	ASY	12	12.A.V 12.S.C 12.Y.V	1.5 1.75 0.8	0
+75	4	tát	vah	ʋəɦ	Hindi	85	ʋ ə ɦ	6 7 3	AXN	WEH	6	6.W.C 6.E.V 6.H.c	2.0 1.5 0.8	0
+76	4	tát	voh	ʋoː	Urdu	85	ʋ oː	6 7	AX	WU	18	18.W.C 18.U.V	2.0 1.5	0
+77	4	tát	tyo	tjo	Nepali	85	t j o	1 6 7	ACX	TJU	10	10.T.C 10.J.C 10.U.V	2.0 1.5 1.5	0
+78	4	tát	uh	ʌ	Bhojpuri	2030	ʌ	7	X	E	3	3.E.V	1.5	0
+79	4	tát	uha	uha	Punjabi	85	u h a	7 3 7	XBZ	YHA	13	13.Y.V 13.H.C 13.A.V	1.5 1.75 0.8	0
+80	4	tát	hū*,	huwa	Sindhi	85	h u w a	3 7 6 7	AXBZ	HYWA	16	16.H.C 16.Y.V 16.W.C 16.A.V	2.0 1.5 1.75 0.8	0
+81	4	tát	pelũ	pelũ	Gujarati	203	p e l ũ	1 7 5 7	AXBZ	PELY	5	5.P.C 5.E.V 5.L.C 5.Y.V	2.0 1.5 1.75 0.8	0
+82	4	tát	to*,	toː	Marathi	203	t oː	1 7	AX	TU	9	9.T.C 9.U.V	2.0 1.5	0
+83	4	tát	to,	toː	Konkani	203	t oː	1 7	AX	TU	8	8.T.C 8.U.V	2.0 1.5	0
+84	4	tát	xei	xei	Assamese	353	x ei	3 7	AX	GE	1	1.G.C 1.E.V	2.0 1.5	0
+85	4	tát	o	ʊ	Bengali	85	ʊ	7	X	Y	2	2.Y.V	1.5	0
+86	4	tát	taha	taha	Oriya	353	t a h a	1 7 3 7	AXBZ	TAHA	11	11.T.C 11.A.V 11.H.C 11.A.V	2.0 1.5 1.75 0.8	0
+87	4	tát	ti	ti	Kashmiri	2035	t i	1 7	AX	TI	7	7.T.C 7.I.V	2.0 1.5	0
+88	4	tát	ē*,	eː	Sinhalese	85	eː	7	X	E	17	17.E.V	1.5	0
+89	4	tát	tiޭ	tiޭ	Dhivehi	289	t i ޭ	1 7 0	AXN	TI0	4	4.T.C 4.I.V 4.0.c	2.0 1.5 0.8	0
+90	4	tát	kodo	ˈkodo	Romani	85	ˈk o d o	1 7 1 7	AXBZ	KUTU	14	14.K.C 14.U.V 14.T.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+810	45	udára	udára	ʊdəɾ	Sanskrit	141	ʊ d ə ɾ	7 1 7 5	XBYN	YTER	15	15.Y.V 15.T.C 15.E.V 15.R.c	1.5 1.75 1.3 0.8	0
+811	45	udára	udara	udara	Pali	141	u d a r a	7 1 7 5 7	XBYBZ	YTARA	12	12.Y.V 12.T.C 12.A.V 12.R.C 12.A.V	1.5 1.75 1.3 1.75 0.8	0
+812	45	udára	peṭ	peːʈ	Hindi	678	p eː ʈ	1 7 1	AXN	PET	6	6.P.C 6.E.V 6.T.c	2.0 1.5 0.8	0
+813	45	udára	peṭ	peːʈ	Urdu	678	p eː ʈ	1 7 1	AXN	PET	18	18.P.C 18.E.V 18.T.c	2.0 1.5 0.8	0
+814	45	udára	peṭ,	peːʈ	Nepali	678	p eː ʈ	1 7 1	AXN	PET	10	10.P.C 10.E.V 10.T.c	2.0 1.5 0.8	0
+815	45	udára	peṭ	peːʈ	Bhojpuri	134	p eː ʈ	1 7 1	AXN	PET	3	3.P.C 3.E.V 3.T.c	2.0 1.5 0.8	0
+816	45	udára	ḍhiḍḍa,	ʈɪɖːə	Punjabi	678	ʈ ɪ ɖː ə	1 7 1 7	AXBZ	TITE	13	13.T.C 13.I.V 13.T.C 13.E.V	2.0 1.5 1.75 0.8	0
+817	45	udára	peṭu	peːʈu	Sindhi	678	p eː ʈ u	1 7 1 7	AXBZ	PETY	16	16.P.C 16.E.V 16.T.C 16.Y.V	2.0 1.5 1.75 0.8	0
+818	45	udára	peṭ	peːʈ	Gujarati	678	p eː ʈ	1 7 1	AXN	PET	5	5.P.C 5.E.V 5.T.c	2.0 1.5 0.8	0
+819	45	udára	poṭ	poʊʈ	Marathi	-1	p oʊ ʈ	1 7 1	AXN	PUT	9	9.P.C 9.U.V 9.T.c	2.0 1.5 0.8	0
+820	45	udára	poṭ	poʊʈ	Konkani	-1	p oʊ ʈ	1 7 1	AXN	PUT	8	8.P.C 8.U.V 8.T.c	2.0 1.5 0.8	0
+821	45	udára	pet	pɛt	Assamese	678	p ɛ t	1 7 1	AXN	PET	1	1.P.C 1.E.V 1.T.c	2.0 1.5 0.8	0
+822	45	udára	peṭ	pɛt	Bengali	678	p ɛ t	1 7 1	AXN	PET	2	2.P.C 2.E.V 2.T.c	2.0 1.5 0.8	0
+823	45	udára	peṭô	peʈɔ	Oriya	678	p e ʈ ɔ	1 7 1 7	AXBZ	PETU	11	11.P.C 11.E.V 11.T.C 11.U.V	2.0 1.5 1.75 0.8	0
+824	45	udára	None	None	Kashmiri	134	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+825	45	udára	baḍa	baḍaː	Sinhalese	329	b a ḍ aː	1 7 1 7	AXBZ	PATA	17	17.P.C 17.A.V 17.T.C 17.A.V	2.0 1.5 1.75 0.8	0
+826	45	udára	baⁿḍu	baⁿḍu	Dhivehi	329	b aⁿ ḍ u	1 7 1 7	AXBZ	PATY	4	4.P.C 4.A.V 4.T.C 4.Y.V	2.0 1.5 1.75 0.8	0
+827	45	udára	per	pɜːɹ	Romani	678	p ɜː ɹ	1 7 5	AXN	PER	14	14.P.C 14.E.V 14.R.c	2.0 1.5 0.8	0
+#
+972	54	varṣá	varṣá	ʋəɾʂ	Sanskrit	1426	ʋ ə ɾ ʂ	6 7 5 3	AXLN	WERS	15	15.W.C 15.E.V 15.R.c 15.S.c	2.0 1.5 1.1 0.8	0
+973	54	varṣá	vassa	ˈvasːa	Pali	1426	ˈv a sː a	3 7 3 7	AXBZ	BASA	12	12.B.C 12.A.V 12.S.C 12.A.V	2.0 1.5 1.75 0.8	0
+974	54	varṣá	bāriś	bɑːɾɪʃ	Hindi	62	b ɑː ɾ ɪ ʃ	1 7 5 7 3	AXBYN	PARIS	6	6.P.C 6.A.V 6.R.C 6.I.V 6.S.c	2.0 1.5 1.75 1.3 0.8	0
+975	54	varṣá	bāriś	bɑːɾiʃ	Urdu	62	b ɑː ɾ i ʃ	1 7 5 7 3	AXBYN	PARIS	18	18.P.C 18.A.V 18.R.C 18.I.V 18.S.c	2.0 1.5 1.75 1.3 0.8	0
+976	54	varṣá	varṣā,	ʋəɾʂɑː	Nepali	369	ʋ ə ɾ ʂ ɑː	6 7 5 3 7	AXMBZ	WERSA	10	10.W.C 10.E.V 10.R.c 10.S.C 10.A.V	2.0 1.5 1.1 1.75 0.8	0
+977	54	varṣá	barkhā	bəɾkʰɑː	Bhojpuri	1426	b ə ɾ kʰ ɑː	1 7 5 1 7	AXMBZ	PERKA	3	3.P.C 3.E.V 3.R.c 3.K.C 3.A.V	2.0 1.5 1.1 1.75 0.8	0
+978	54	varṣá	bāriś	baːɾɪʃ	Punjabi	62	b aː ɾ ɪ ʃ	1 7 5 7 3	AXBYN	PARIS	13	13.P.C 13.A.V 13.R.C 13.I.V 13.S.c	2.0 1.5 1.75 1.3 0.8	0
+979	54	varṣá	mī̃hũ	mī̃hũ	Sindhi	62	m ī̃ h ũ	4 7 3 7	AXBZ	MIHY	16	16.M.C 16.I.V 16.H.C 16.Y.V	2.0 1.5 1.75 0.8	0
+980	54	varṣá	varsād	varsɑːd	Gujarati	127	v a r s ɑː d	3 7 5 3 7 1	AXMBYN	BARSAT	5	5.B.C 5.A.V 5.R.c 5.S.C 5.A.V 5.T.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+981	54	varṣá	pāūs	paus	Marathi	127	p au s	1 7 3	AXN	PAS	9	9.P.C 9.A.V 9.S.c	2.0 1.5 0.8	0
+982	54	varṣá	pāvas,	pɑːvas	Konkani	127	p ɑː v a s	1 7 3 7 3	AXBYN	PABAS	8	8.P.C 8.A.V 8.B.C 8.A.V 8.S.c	2.0 1.5 1.75 1.3 0.8	0
+983	54	varṣá	boroxun	bɔɹɔxun	Assamese	127	b ɔ ɹ ɔ x u n	1 7 5 7 3 7 4	AXBYBYN	PURUGYN	1	1.P.C 1.U.V 1.R.C 1.U.V 1.G.C 1.Y.V 1.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0
+984	54	varṣá	briśṭi	briśṭi	Bengali	127	b r i ś ṭ i	1 5 7 3 1 7	ACXMBZ	PRISTI	2	2.P.C 2.R.C 2.I.V 2.S.c 2.T.C 2.I.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+985	54	varṣá	bôrṣa	bɔɾsa	Oriya	-10	b ɔ ɾ s a	1 7 5 3 7	AXMBZ	PURSA	11	11.P.C 11.U.V 11.R.c 11.S.C 11.A.V	2.0 1.5 1.1 1.75 0.8	0
+986	54	varṣá	None	None	Kashmiri	1426	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+987	54	varṣá	wæssa	wæssa	Sinhalese	127	w æ ss a	6 7 3 7	AXBZ	WESA	17	17.W.C 17.E.V 17.S.C 17.A.V	2.0 1.5 1.75 0.8	0
+988	54	varṣá	vārē	vɑːreː	Dhivehi	127	v ɑː r eː	3 7 5 7	AXBZ	BARE	4	4.B.C 4.A.V 4.R.C 4.E.V	2.0 1.5 1.75 0.8	0
+989	54	varṣá	briśind	briśind	Romani	127	b r i ś i n d	1 5 7 3 7 4 1	ACXBYLN	PRISINT	14	14.P.C 14.R.C 14.I.V 14.S.C 14.I.V 14.N.c 14.T.c	2.0 1.5 1.5 1.75 1.3 1.1 0.8	0
+#
+37	2	vayám,	vayám,	ʋɐjɐm	Sanskrit	2289	ʋ ɐ j ɐ m	6 7 6 7 4	AXBYN	WEJEM	15	15.W.C 15.E.V 15.J.C 15.E.V 15.M.c	2.0 1.5 1.75 1.3 0.8	0
+38	2	vayám,	amhe,	amhe	Pali	2287	a m h e	7 4 3 7	XMBZ	AMHE	12	12.A.V 12.M.c 12.H.C 12.E.V	1.5 1.1 1.75 0.8	0
+39	2	vayám,	ham	ˈhəm	Hindi	95	ˈh ə m	3 7 4	AXN	HEM	6	6.H.C 6.E.V 6.M.c	2.0 1.5 0.8	0
+40	2	vayám,	ham	ɦəm	Urdu	95	ɦ ə m	3 7 4	AXN	HEM	18	18.H.C 18.E.V 18.M.c	2.0 1.5 0.8	0
+41	2	vayám,	hāmī,	ɦɑːmiː	Nepali	95	ɦ ɑː m iː	3 7 4 7	AXBZ	HAMI	10	10.H.C 10.A.V 10.M.C 10.I.V	2.0 1.5 1.75 0.8	0
+42	2	vayám,	hamnī	hamni:	Bhojpuri	2278	h a m n i:	3 7 4 4 7	AXMBZ	HAMNI	3	3.H.C 3.A.V 3.M.c 3.N.C 3.I.V	2.0 1.5 1.1 1.75 0.8	0
+43	2	vayám,	asī̃	æzī̃	Punjabi	95	æ z ī̃	7 3 7	XBZ	ESI	13	13.E.V 13.S.C 13.I.V	1.5 1.75 0.8	0
+44	2	vayám,	asī̃,	æzī̃	Sindhi	95	æ z ī̃	7 3 7	XBZ	ESI	16	16.E.V 16.S.C 16.I.V	1.5 1.75 0.8	0
+45	2	vayám,	ame	eɪm	Gujarati	95	eɪ m	7 4	XN	EM	5	5.E.V 5.M.c	1.5 0.8	0
+46	2	vayám,	āmhī*,	amʱi	Marathi	95	a mʱ i	7 4 7	XBZ	AMI	9	9.A.V 9.M.C 9.I.V	1.5 1.75 0.8	0
+47	2	vayám,	āmhī	amʱi	Konkani	95	a mʱ i	7 4 7	XBZ	AMI	8	8.A.V 8.M.C 8.I.V	1.5 1.75 0.8	0
+48	2	vayám,	ami	ami	Assamese	95	a m i	7 4 7	XBZ	AMI	1	1.A.V 1.M.C 1.I.V	1.5 1.75 0.8	0
+49	2	vayám,	amra	amra	Bengali	95	a m r a	7 4 5 7	XBCZ	AMRA	2	2.A.V 2.M.C 2.R.C 2.A.V	1.5 1.75 1.5 0.8	0
+50	2	vayám,	ame	eɪm	Oriya	95	eɪ m	7 4	XN	EM	11	11.E.V 11.M.c	1.5 0.8	0
+51	2	vayám,	ạs'	əsʲ	Kashmiri	2283	ə sʲ	7 3	XN	ES	7	7.E.V 7.S.c	1.5 0.8	0
+52	2	vayám,	api	api	Sinhalese	95	a p i	7 1 7	XBZ	API	17	17.A.V 17.P.C 17.I.V	1.5 1.75 0.8	0
+53	2	vayám,	aharemen̊,	əhəɾemen	Dhivehi	95	ə h ə ɾ e m e n	7 3 7 5 7 4 7 4	XBYBYBYN	EHEREMEN	4	4.E.V 4.H.C 4.E.V 4.R.C 4.E.V 4.M.C 4.E.V 4.N.c	1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	0
+54	2	vayám,	amen	eɪˈmɛn	Romani	95	eɪ ˈm ɛ n	7 4 7 4	XBYN	EMEN	14	14.E.V 14.M.C 14.E.V 14.N.c	1.5 1.75 1.3 0.8	0
+#
+1331	74	vásu,	vásu,	ʋɐsu	Sanskrit	787	ʋ ɐ s u	6 7 3 7	AXBZ	WESY	15	15.W.C 15.E.V 15.S.C 15.Y.V	2.0 1.5 1.75 0.8	0
+1332	74	vásu,	bhaddaka,	bʰaddaka	Pali	785	bʰ a dd a k a	1 7 1 7 1 7	AXBYBZ	PATAKA	12	12.P.C 12.A.V 12.T.C 12.A.V 12.K.C 12.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1333	74	vásu,	acchā	ətʃtʃʰɑː	Hindi	34	ə t ʃ t ʃʰ ɑː	7 1 3 1 3 7	XBYBCZ	ETSTSA	6	6.E.V 6.T.C 6.S.V 6.T.C 6.S.C 6.A.V	1.5 1.75 1.3 1.75 1.5 0.8	0
+1334	74	vásu,	acchā	ətʃtʃʰɑː	Urdu	34	ə t ʃ t ʃʰ ɑː	7 1 3 1 3 7	XBYBCZ	ETSTSA	18	18.E.V 18.T.C 18.S.V 18.T.C 18.S.C 18.A.V	1.5 1.75 1.3 1.75 1.5 0.8	0
+1335	74	vásu,	rāmro	rämro	Nepali	362	r ä m r o	5 7 4 5 7	AXBCZ	RAMRU	10	10.R.C 10.A.V 10.M.C 10.R.C 10.U.V	2.0 1.5 1.75 1.5 0.8	0
+1336	74	vásu,	baṛhiyā̃	None	Bhojpuri	775	N o n e	0 7 4 7	AXBZ	0UNE	3	3.0.C 3.U.V 3.N.C 3.E.V	2.0 1.5 1.75 0.8	1
+1337	74	vásu,	caṅgā	tʃəŋɡɑː	Punjabi	34	t ʃ ə ŋ ɡ ɑː	1 3 7 4 1 7	ACXMBZ	TSENKA	13	13.T.C 13.S.C 13.E.V 13.N.c 13.K.C 13.A.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+1338	74	vásu,	suṭho,	suṭʰo	Sindhi	120	s u ṭʰ o	3 7 1 7	AXBZ	SYTU	16	16.S.C 16.Y.V 16.T.C 16.U.V	2.0 1.5 1.75 0.8	0
+1339	74	vásu,	sārũ	sɑːru	Gujarati	184	s ɑː r u	3 7 5 7	AXBZ	SARY	5	5.S.C 5.A.V 5.R.C 5.Y.V	2.0 1.5 1.75 0.8	0
+1340	74	vásu,	cāṅgle	tʃhɑːgle	Marathi	120	t ʃ h ɑː g l e	1 3 3 7 1 5 7	ACBXBCZ	TSHAKLE	9	9.T.C 9.S.C 9.H.C 9.A.V 9.K.C 9.L.C 9.E.V	2.0 1.5 1.75 1.5 1.75 1.5 0.8	0
+1341	74	vásu,	barẽ	barẽ	Konkani	120	b a r ẽ	1 7 5 7	AXBZ	PARE	8	8.P.C 8.A.V 8.R.C 8.E.V	2.0 1.5 1.75 0.8	0
+1342	74	vásu,	bhal	bʱal	Assamese	184	bʱ a l	1 7 5	AXN	PAL	1	1.P.C 1.A.V 1.L.c	2.0 1.5 0.8	0
+1343	74	vásu,	bhalo	bʱalo	Bengali	184	bʱ a l o	1 7 5 7	AXBZ	PALU	2	2.P.C 2.A.V 2.L.C 2.U.V	2.0 1.5 1.75 0.8	0
+1344	74	vásu,	bhôlô	bhɔlɔ	Oriya	184	b h ɔ l ɔ	1 3 7 5 7	ACXBZ	PHULU	11	11.P.C 11.H.C 11.U.V 11.L.C 11.U.V	2.0 1.5 1.5 1.75 0.8	0
+1345	74	vásu,	None	None	Kashmiri	780	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1346	74	vásu,	hoⁿda	hoⁿda	Sinhalese	402	h oⁿ d a	3 7 1 7	AXBZ	HUTA	17	17.H.C 17.U.V 17.T.C 17.A.V	2.0 1.5 1.75 0.8	0
+1347	74	vásu,	raⁿgaḷu	raⁿgaḷu	Dhivehi	533	r aⁿ g a ḷ u	5 7 1 7 5 7	AXBYBZ	RAKALY	4	4.R.C 4.A.V 4.K.C 4.A.V 4.L.C 4.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1348	74	vásu,	laćho	None	Romani	34	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1
+#
+325	18	ví,	ví,	ʋí	Sanskrit	159	ʋ í	6 7	AX	WI	15	15.W.C 15.I.V	2.0 1.5	0
+326	18	ví,	pakkhin	pakkʰin	Pali	166	p a k kʰ i n	1 7 1 1 7 4	AXMBYN	PAKKIN	12	12.P.C 12.A.V 12.K.c 12.K.C 12.I.V 12.N.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+327	18	ví,	ciṛiyā	tʃɪɽɪjɑː	Hindi	6	t ʃ ɪ ɽ ɪ j ɑː	1 3 7 5 7 6 7	ACXBYBZ	TSIRIJA	6	6.T.C 6.S.C 6.I.V 6.R.C 6.I.V 6.J.C 6.A.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	0
+328	18	ví,	ciṛiyā	tʃɪɽɪjɑː	Urdu	6	t ʃ ɪ ɽ ɪ j ɑː	1 3 7 5 7 6 7	ACXBYBZ	TSIRIJA	18	18.T.C 18.S.C 18.I.V 18.R.C 18.I.V 18.J.C 18.A.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	0
+329	18	ví,	carā,	tsʌɾä	Nepali	6	t s ʌ ɾ ä	1 3 7 5 7	ACXBZ	TSERA	10	10.T.C 10.S.C 10.E.V 10.R.C 10.A.V	2.0 1.5 1.5 1.75 0.8	0
+330	18	ví,	ciṛaīn	tʃɪɽɑiːn	Bhojpuri	160	t ʃ ɪ ɽ ɑiː n	1 3 7 5 7 4	ACXBYN	TSIRAN	3	3.T.C 3.S.C 3.I.V 3.R.C 3.A.V 3.N.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+331	18	ví,	pañchī	pañcʰiː	Punjabi	7	p a ñ cʰ iː	1 7 4 1 7	AXMBZ	PANCI	13	13.P.C 13.A.V 13.N.c 13.C.C 13.I.V	2.0 1.5 1.1 1.75 0.8	0
+332	18	ví,	pakhī	pakʰiː	Sindhi	7	p a kʰ iː	1 7 1 7	AXBZ	PAKI	16	16.P.C 16.A.V 16.K.C 16.I.V	2.0 1.5 1.75 0.8	0
+333	18	ví,	paṅkhī,	pankʰiː	Gujarati	7	p a n kʰ iː	1 7 4 1 7	AXMBZ	PANKI	5	5.P.C 5.A.V 5.N.c 5.K.C 5.I.V	2.0 1.5 1.1 1.75 0.8	0
+334	18	ví,	pakṣī,	pækṣī	Marathi	-2	p æ k ṣ ī	1 7 1 3 7	AXBCZ	PEKSI	9	9.P.C 9.E.V 9.K.C 9.S.C 9.I.V	2.0 1.5 1.75 1.5 0.8	0
+335	18	ví,	pakṣi	pækṣī	Konkani	7	p æ k ṣ ī	1 7 1 3 7	AXBCZ	PEKSI	8	8.P.C 8.E.V 8.K.C 8.S.C 8.I.V	2.0 1.5 1.75 1.5 0.8	0
+336	18	ví,	sorai	sɔɹaɪ	Assamese	6	s ɔ ɹ aɪ	3 7 5 7	AXBZ	SURA	1	1.S.C 1.U.V 1.R.C 1.A.V	2.0 1.5 1.75 0.8	0
+337	18	ví,	pakhi	pakʰi	Bengali	7	p a kʰ i	1 7 1 7	AXBZ	PAKI	2	2.P.C 2.A.V 2.K.C 2.I.V	2.0 1.5 1.75 0.8	0
+338	18	ví,	côṛhei,	cɔṛhei	Oriya	6	c ɔ ṛ h ei	1 7 5 3 7	AXMBZ	CURHE	11	11.C.C 11.U.V 11.R.c 11.H.C 11.E.V	2.0 1.5 1.1 1.75 0.8	0
+339	18	ví,	pạrindụ	piạraɪndụ	Kashmiri	162	p i ạ r aɪ n d ụ	1 7 7 5 7 4 1 7	AXYBYMBZ	PIARANTY	7	7.P.C 7.I.V 7.A.V 7.R.C 7.A.V 7.N.c 7.T.C 7.Y.V	2.0 1.5 1.3 1.75 1.3 1.1 1.75 0.8	0
+340	18	ví,	kurullā	kurullɑː	Sinhalese	-1	k u r u ll ɑː	1 7 5 7 5 7	AXBYBZ	KYRYLA	17	17.K.C 17.Y.V 17.R.C 17.Y.V 17.L.C 17.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+341	18	ví,	dūni	duːni	Dhivehi	524	d uː n i	1 7 4 7	AXBZ	TYNI	4	4.T.C 4.Y.V 4.N.C 4.I.V	2.0 1.5 1.75 0.8	0
+342	18	ví,	ćiriklo	None	Romani	6	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	0
+#
+379	21	vṛkṣá,	vṛkṣá,	ʋɾɪkʂ	Sanskrit	2191	ʋ ɾ ɪ k ʂ	6 5 7 1 3	ACYBC	WRIKS	15	15.W.C 15.R.C 15.I.V 15.K.C 15.S.C	2.0 1.5 1.3 1.75 1.5	0
+380	21	vṛkṣá,	rukkha	rukkʰaː	Pali	2189	r u k kʰ aː	5 7 1 1 7	AXMBZ	RYKKA	12	12.R.C 12.Y.V 12.K.c 12.K.C 12.A.V	2.0 1.5 1.1 1.75 0.8	0
+381	21	vṛkṣá,	peṛ	peːɽ	Hindi	90	p eː ɽ	1 7 5	AXN	PER	6	6.P.C 6.E.V 6.R.c	2.0 1.5 0.8	0
+382	21	vṛkṣá,	darxat	deˈɾæxtʰ	Urdu	90	d e ˈɾ æ x tʰ	1 7 5 7 3 1	AXBYLN	TEREGT	18	18.T.C 18.E.V 18.R.C 18.E.V 18.G.c 18.T.c	2.0 1.5 1.75 1.3 1.1 0.8	0
+383	21	vṛkṣá,	rūkh	rukʰ	Nepali	131	r u kʰ	5 7 1	AXN	RYK	10	10.R.C 10.Y.V 10.K.c	2.0 1.5 0.8	0
+384	21	vṛkṣá,	pheṛ,	pʰeṛ	Bhojpuri	2180	pʰ e ṛ	1 7 5	AXN	PER	3	3.P.C 3.E.V 3.R.c	2.0 1.5 0.8	0
+385	21	vṛkṣá,	rukkha	rukkʰaː	Punjabi	131	r u k kʰ aː	5 7 1 1 7	AXMBZ	RYKKA	13	13.R.C 13.Y.V 13.K.c 13.K.C 13.A.V	2.0 1.5 1.1 1.75 0.8	0
+386	21	vṛkṣá,	vaṇu	vaṇu	Sindhi	169	v a ṇ u	3 7 4 7	AXBZ	BANY	16	16.B.C 16.A.V 16.N.C 16.Y.V	2.0 1.5 1.75 0.8	0
+387	21	vṛkṣá,	jhāḍ,	dzʱaɖ	Gujarati	266	d zʱ a ɖ	1 3 7 1	ACXN	TSAT	5	5.T.C 5.S.C 5.A.V 5.T.c	2.0 1.5 1.5 0.8	0
+388	21	vṛkṣá,	j̈hāḍ	dzʱaɖ	Marathi	266	d zʱ a ɖ	1 3 7 1	ACXN	TSAT	9	9.T.C 9.S.C 9.A.V 9.T.c	2.0 1.5 1.5 0.8	0
+389	21	vṛkṣá,	jhāḍ,	dzʱaɖ	Konkani	131	d zʱ a ɖ	1 3 7 1	ACXN	TSAT	8	8.T.C 8.S.C 8.A.V 8.T.c	2.0 1.5 1.5 0.8	0
+390	21	vṛkṣá,	gos	ɡɔs	Assamese	318	ɡ ɔ s	1 7 3	AXN	KUS	1	1.K.C 1.U.V 1.S.c	2.0 1.5 0.8	0
+391	21	vṛkṣá,	gach	ɡɑs	Bengali	318	ɡ ɑ s	1 7 3	AXN	KAS	2	2.K.C 2.A.V 2.S.c	2.0 1.5 0.8	0
+392	21	vṛkṣá,	gôchô,	ɡɔtʃʰɔ	Oriya	318	ɡ ɔ t ʃʰ ɔ	1 7 1 3 7	AXBCZ	KUTSU	11	11.K.C 11.U.V 11.T.C 11.S.C 11.U.V	2.0 1.5 1.75 1.5 0.8	0
+393	21	vṛkṣá,	kul	kul	Kashmiri	2185	k u l	1 7 5	AXN	KYL	7	7.K.C 7.Y.V 7.L.c	2.0 1.5 0.8	0
+394	21	vṛkṣá,	gasa	ɡəsə	Sinhalese	318	ɡ ə s ə	1 7 3 7	AXBZ	KESE	17	17.K.C 17.E.V 17.S.C 17.E.V	2.0 1.5 1.75 0.8	0
+395	21	vṛkṣá,	gas	ɡəs	Dhivehi	318	ɡ ə s	1 7 3	AXN	KES	4	4.K.C 4.E.V 4.S.c	2.0 1.5 0.8	0
+396	21	vṛkṣá,	rukh	rukʰ	Romani	603	r u kʰ	5 7 1	AXN	RYK	14	14.R.C 14.Y.V 14.K.c	2.0 1.5 0.8	0
+#
+1349	75	vṛttá,	vṛttá,	ʋɾɪtt	Sanskrit	1522	ʋ ɾ ɪ tt	6 5 7 1	ACYN	WRIT	15	15.W.C 15.R.C 15.I.V 15.T.c	2.0 1.5 1.3 0.8	0
+1350	75	vṛttá,	guḷa	guḷa	Pali	1529	g u ḷ a	1 7 5 7	AXBZ	KYLA	12	12.K.C 12.Y.V 12.L.C 12.A.V	2.0 1.5 1.75 0.8	0
+1351	75	vṛttá,	gol	ɡoːl	Hindi	66	ɡ oː l	1 7 5	AXN	KUL	6	6.K.C 6.U.V 6.L.c	2.0 1.5 0.8	0
+1352	75	vṛttá,	gol	ɡoːl	Urdu	66	ɡ oː l	1 7 5	AXN	KUL	18	18.K.C 18.U.V 18.L.c	2.0 1.5 0.8	0
+1353	75	vṛttá,	golo	ɡolo	Nepali	283	ɡ o l o	1 7 5 7	AXBZ	KULU	10	10.K.C 10.U.V 10.L.C 10.U.V	2.0 1.5 1.75 0.8	0
+1354	75	vṛttá,	gol	ɡoːl	Bhojpuri	1522	ɡ oː l	1 7 5	AXN	KUL	3	3.K.C 3.U.V 3.L.c	2.0 1.5 0.8	0
+1355	75	vṛttá,	gol	ɡoːl	Punjabi	66	ɡ oː l	1 7 5	AXN	KUL	13	13.K.C 13.U.V 13.L.c	2.0 1.5 0.8	0
+1356	75	vṛttá,	golu	ɡoːl	Sindhi	66	ɡ oː l	1 7 5	AXN	KUL	16	16.K.C 16.U.V 16.L.c	2.0 1.5 0.8	0
+1357	75	vṛttá,	goḷ	goḷ	Gujarati	66	g o ḷ	1 7 5	AXN	KUL	5	5.K.C 5.U.V 5.L.c	2.0 1.5 0.8	0
+1358	75	vṛttá,	gol	ɡoːl	Marathi	66	ɡ oː l	1 7 5	AXN	KUL	9	9.K.C 9.U.V 9.L.c	2.0 1.5 0.8	0
+1359	75	vṛttá,	golākār	golɑːkɑːr	Konkani	-8	g o l ɑː k ɑː r	1 7 5 7 1 7 5	AXBYBYN	KULAKAR	8	8.K.C 8.U.V 8.L.C 8.A.V 8.K.C 8.A.V 8.R.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0
+1360	75	vṛttá,	gül	ɡʊl	Assamese	66	ɡ ʊ l	1 7 5	AXN	KYL	1	1.K.C 1.Y.V 1.L.c	2.0 1.5 0.8	0
+1361	75	vṛttá,	gol	ɡʊl	Bengali	66	ɡ ʊ l	1 7 5	AXN	KYL	2	2.K.C 2.Y.V 2.L.c	2.0 1.5 0.8	0
+1362	75	vṛttá,	golô	golɔ	Oriya	66	g o l ɔ	1 7 5 7	AXBZ	KULU	11	11.K.C 11.U.V 11.L.C 11.U.V	2.0 1.5 1.75 0.8	0
+1363	75	vṛttá,	None	None	Kashmiri	1526	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1364	75	vṛttá,	waṭaya	waṭaya	Sinhalese	283	w a ṭ aya	6 7 1 7	AXBZ	WATA	17	17.W.C 17.A.V 17.T.C 17.A.V	2.0 1.5 1.75 0.8	0
+1365	75	vṛttá,	vaṣ̊	vaṣ̊	Dhivehi	283	v a ṣ̊	3 7 3	AXN	BAS	4	4.B.C 4.A.V 4.S.c	2.0 1.5 0.8	0
+1366	75	vṛttá,	oblo	ˈoblo	Romani	66	ˈo b l o	7 1 5 7	XBCZ	UPLU	14	14.U.V 14.P.C 14.L.C 14.U.V	1.5 1.75 1.5 0.8	0
+#
+882	49	yákṛt	yákṛt	jɐkrt	Sanskrit	1157	j ɐ k r t	6 7 1 5 1	AXBYN	JEKRT	15	15.J.C 15.E.V 15.K.C 15.R.V 15.T.c	2.0 1.5 1.75 1.3 0.8	0
+883	49	yákṛt	yakana	jakana	Pali	1155	j a k a n a	6 7 1 7 4 7	AXBYBZ	JAKANA	12	12.J.C 12.A.V 12.K.C 12.A.V 12.N.C 12.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+884	49	yákṛt	jigar,	dʒɪɡəɾ	Hindi	48	d ʒ ɪ ɡ ə ɾ	1 3 7 1 7 5	ACXBYN	TSIKER	6	6.T.C 6.S.C 6.I.V 6.K.C 6.E.V 6.R.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+885	49	yákṛt	jigar	dʒiɡaɾ	Urdu	48	d ʒ i ɡ a ɾ	1 3 7 1 7 5	ACXBYN	TSIKAR	18	18.T.C 18.S.C 18.I.V 18.K.C 18.A.V 18.R.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+886	49	yákṛt	kalejo	kʌledzo	Nepali	48	k ʌ l e d z o	1 7 5 7 1 3 7	AXBYBCZ	KELETSU	10	10.K.C 10.E.V 10.L.C 10.E.V 10.T.C 10.S.C 10.U.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	0
+887	49	yákṛt	jigar,	dʒɪɡəɾ	Bhojpuri	1147	d ʒ ɪ ɡ ə ɾ	1 3 7 1 7 5	ACXBYN	TSIKER	3	3.T.C 3.S.C 3.I.V 3.K.C 3.E.V 3.R.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+888	49	yákṛt	jigar	None	Punjabi	48	N o n e	0 7 4 7	AXBZ	0UNE	13	13.0.C 13.U.V 13.N.C 13.E.V	2.0 1.5 1.75 0.8	1
+889	49	yákṛt	jigaru	dʒiɡaɾ	Sindhi	190	d ʒ i ɡ a ɾ	1 3 7 1 7 5	ACXBYN	TSIKAR	16	16.T.C 16.S.C 16.I.V 16.K.C 16.A.V 16.R.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+890	49	yákṛt	yakṛt,	jakɾt	Gujarati	48	j a k ɾ t	6 7 1 5 1	AXBYN	JAKRT	5	5.J.C 5.A.V 5.K.C 5.R.V 5.T.c	2.0 1.5 1.75 1.3 0.8	0
+891	49	yákṛt	yakrut,	jakɾut	Marathi	-7	j a k ɾ u t	6 7 1 5 7 1	AXBCYN	JAKRYT	9	9.J.C 9.A.V 9.K.C 9.R.C 9.Y.V 9.T.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+892	49	yákṛt	yakrut	jakɾut	Konkani	48	j a k ɾ u t	6 7 1 5 7 1	AXBCYN	JAKRYT	8	8.J.C 8.A.V 8.K.C 8.R.C 8.Y.V 8.T.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+893	49	yákṛt	zokrit,	zokrit	Assamese	-3	z o k r i t	3 7 1 5 7 1	AXBCYN	SUKRIT	1	1.S.C 1.U.V 1.K.C 1.R.C 1.I.V 1.T.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+894	49	yákṛt	kôlje	kɔldʒe	Bengali	-7	k ɔ l d ʒ e	1 7 5 1 3 7	AXMBCZ	KULTSE	2	2.K.C 2.U.V 2.L.c 2.T.C 2.S.C 2.E.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+895	49	yákṛt	jôkrutô,	dʒɔkɾutɔ	Oriya	48	d ʒ ɔ k ɾ u t ɔ	1 3 7 1 5 7 1 7	ACXBCYBZ	TSUKRYTU	11	11.T.C 11.S.C 11.U.V 11.K.C 11.R.C 11.Y.V 11.T.C 11.U.V	2.0 1.5 1.5 1.75 1.5 1.3 1.75 0.8	0
+896	49	yákṛt	None	None	Kashmiri	1151	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+897	49	yákṛt	akmāwa	akmɑːwɑ	Sinhalese	410	a k m ɑː w ɑ	7 1 4 7 6 7	XBCYBZ	AKMAWA	17	17.A.V 17.K.C 17.M.C 17.A.V 17.W.C 17.A.V	1.5 1.75 1.5 1.3 1.75 0.8	0
+898	49	yákṛt	mē	mɛː	Dhivehi	539	m ɛː	4 7	AX	ME	4	4.M.C 4.E.V	2.0 1.5	0
+899	49	yákṛt	puko	puko	Romani	496	p u k o	1 7 1 7	AXBZ	PYKU	14	14.P.C 14.Y.V 14.K.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+361	20	yūkā	yūkā	juːkɑː	Sanskrit	1186	j uː k ɑː	6 7 1 7	AXBZ	JYKA	15	15.J.C 15.Y.V 15.K.C 15.A.V	2.0 1.5 1.75 0.8	0
+362	20	yūkā	ūkā	uːkɑː	Pali	1184	uː k ɑː	7 1 7	XBZ	YKA	12	12.Y.V 12.K.C 12.A.V	1.5 1.75 0.8	0
+363	20	yūkā	jū̃	dʒũː	Hindi	50	d ʒ ũː	1 3 7	ACX	TSY	6	6.T.C 6.S.C 6.Y.V	2.0 1.5 1.5	0
+364	20	yūkā	jū̃	dʒũː	Urdu	50	d ʒ ũː	1 3 7	ACX	TSY	18	18.T.C 18.S.C 18.Y.V	2.0 1.5 1.5	0
+365	20	yūkā	jumrā	dzumrä	Nepali	50	d z u m r ä	1 3 7 4 5 7	ACXBCZ	TSYMRA	10	10.T.C 10.S.C 10.Y.V 10.M.C 10.R.C 10.A.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+366	20	yūkā	līkh	li:kʱ	Bhojpuri	1176	l i: kʱ	5 7 1	AXN	LIK	3	3.L.C 3.I.V 3.K.c	2.0 1.5 0.8	0
+367	20	yūkā	jū̃	dʒeɪū̃	Punjabi	50	d ʒ eɪū̃	1 3 7	ACX	TSE	13	13.T.C 13.S.C 13.E.V	2.0 1.5 1.5	0
+368	20	yūkā	jū̃a,	dʒeɪū̃eɪ	Sindhi	50	d ʒ eɪū̃eɪ	1 3 7	ACX	TSE	16	16.T.C 16.S.C 16.E.V	2.0 1.5 1.5	0
+369	20	yūkā	jū	dʒeɪū̃	Gujarati	50	d ʒ eɪū̃	1 3 7	ACX	TSE	5	5.T.C 5.S.C 5.E.V	2.0 1.5 1.5	0
+370	20	yūkā	ū	uː	Marathi	50	uː	7	X	Y	9	9.Y.V	1.5	0
+371	20	yūkā	ūv,	ūvi	Konkani	50	ū v i	7 3 7	XBZ	YBI	8	8.Y.V 8.B.C 8.I.V	1.5 1.75 0.8	0
+372	20	yūkā	ükoni	ükoni	Assamese	50	ü k o n i	7 1 7 4 7	XBYBZ	YKUNI	1	1.Y.V 1.K.C 1.U.V 1.N.C 1.I.V	1.5 1.75 1.3 1.75 0.8	0
+373	20	yūkā	ukun	ukun	Bengali	50	u k u n	7 1 7 4	XBYN	YKYN	2	2.Y.V 2.K.C 2.Y.V 2.N.c	1.5 1.75 1.3 0.8	0
+374	20	yūkā	ukuṇi	ukuṇi	Oriya	50	u k u ṇ i	7 1 7 4 7	XBYBZ	YKYNI	11	11.Y.V 11.K.C 11.Y.V 11.N.C 11.I.V	1.5 1.75 1.3 1.75 0.8	0
+375	20	yūkā	None	None	Kashmiri	1181	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+376	20	yūkā	ukuṇā	ukuṇɑː	Sinhalese	50	u k u ṇ ɑː	7 1 7 4 7	XBYBZ	YKYNA	17	17.Y.V 17.K.C 17.Y.V 17.N.C 17.A.V	1.5 1.75 1.3 1.75 0.8	0
+377	20	yūkā	ukunu	ukunu	Dhivehi	50	u k u n u	7 1 7 4 7	XBYBZ	YKYNY	4	4.Y.V 4.K.C 4.Y.V 4.N.C 4.Y.V	1.5 1.75 1.3 1.75 0.8	0
+378	20	yūkā	ʒuv	ʒuv	Romani	50	ʒ u v	3 7 3	AXN	SYB	14	14.S.C 14.Y.V 14.B.c	2.0 1.5 0.8	0
+#
+684	38	ákṣi	ákṣi	ɐkʂi	Sanskrit	507	ɐ k ʂ i	7 1 3 7	XBCZ	EKSI	15	15.E.V 15.K.C 15.S.C 15.I.V	1.5 1.75 1.5 0.8	0
+685	38	ákṣi	akkhi	ɑːkkʰə	Pali	512	ɑː k kʰ ə	7 1 1 7	XMBZ	AKKE	12	12.A.V 12.K.c 12.K.C 12.E.V	1.5 1.1 1.75 0.8	0
+686	38	ákṣi	ā̃kh	ɑːkʰ	Hindi	25	ɑː kʰ	7 1	XN	AK	6	6.A.V 6.K.c	1.5 0.8	0
+687	38	ákṣi	ā̃kh	ɑːkʰ	Urdu	25	ɑː kʰ	7 1	XN	AK	18	18.A.V 18.K.c	1.5 0.8	0
+688	38	ákṣi	ā̃khā	äkʰä	Nepali	25	ä kʰ ä	7 1 7	XBZ	AKA	10	10.A.V 10.K.C 10.A.V	1.5 1.75 0.8	0
+689	38	ákṣi	ā̃kh	ɑːkʰ	Bhojpuri	507	ɑː kʰ	7 1	XN	AK	3	3.A.V 3.K.c	1.5 0.8	0
+690	38	ákṣi	akkha	əkːʰ	Punjabi	25	ə kːʰ	7 1	XN	EK	13	13.E.V 13.K.c	1.5 0.8	0
+691	38	ákṣi	akhi	ɪkːə	Sindhi	25	ɪ kː ə	7 1 7	XBZ	IKE	16	16.I.V 16.K.C 16.E.V	1.5 1.75 0.8	0
+692	38	ákṣi	ā̃kha	ɑːkʰaː	Gujarati	25	ɑː kʰ aː	7 1 7	XBZ	AKA	5	5.A.V 5.K.C 5.A.V	1.5 1.75 0.8	0
+693	38	ákṣi	ḍoḷā	ḍoḷɑː	Marathi	274	ḍ o ḷ ɑː	1 7 5 7	AXBZ	TULA	9	9.T.C 9.U.V 9.L.C 9.A.V	2.0 1.5 1.75 0.8	0
+694	38	ákṣi	doḷo	ḍoḷɔ	Konkani	274	ḍ o ḷ ɔ	1 7 5 7	AXBZ	TULU	8	8.T.C 8.U.V 8.L.C 8.U.V	2.0 1.5 1.75 0.8	0
+695	38	ákṣi	soku	sɔku	Assamese	305	s ɔ k u	3 7 1 7	AXBZ	SUKY	1	1.S.C 1.U.V 1.K.C 1.Y.V	2.0 1.5 1.75 0.8	0
+696	38	ákṣi	cokh	tʃokʰ	Bengali	305	t ʃ o kʰ	1 3 7 1	ACXN	TSUK	2	2.T.C 2.S.C 2.U.V 2.K.c	2.0 1.5 1.5 0.8	0
+697	38	ákṣi	akhi	akʰi	Oriya	25	a kʰ i	7 1 7	XBZ	AKI	11	11.A.V 11.K.C 11.I.V	1.5 1.75 0.8	0
+698	38	ákṣi	None	None	Kashmiri	507	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+699	38	ákṣi	æsa	æsa	Sinhalese	25	æ s a	7 3 7	XBZ	ESA	17	17.E.V 17.S.C 17.A.V	1.5 1.75 0.8	0
+700	38	ákṣi	lō	loː	Dhivehi	529	l oː	5 7	AX	LU	4	4.L.C 4.U.V	2.0 1.5	0
+701	38	ákṣi	jakh	None	Romani	25	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1
+#
+253	14	álpa	álpa	əlp	Sanskrit	1747	ə l p	7 5 1	XLN	ELP	15	15.E.V 15.L.c 15.P.c	1.5 1.1 0.8	0
+254	14	álpa	khudda,	None	Pali	1745	N o n e	0 7 4 7	AXBZ	0UNE	12	12.0.C 12.U.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	1
+255	14	álpa	choṭā	tʃʰoːʈɑː	Hindi	77	t ʃʰ oː ʈ ɑː	1 3 7 1 7	ACXBZ	TSUTA	6	6.T.C 6.S.C 6.U.V 6.T.C 6.A.V	2.0 1.5 1.5 1.75 0.8	0
+256	14	álpa	choṭā	tʃʰoːʈɑː	Urdu	77	t ʃʰ oː ʈ ɑː	1 3 7 1 7	ACXBZ	TSUTA	18	18.T.C 18.S.C 18.U.V 18.T.C 18.A.V	2.0 1.5 1.5 1.75 0.8	0
+257	14	álpa	sāno	säno	Nepali	261	s ä n o	3 7 4 7	AXBZ	SANU	10	10.S.C 10.A.V 10.N.C 10.U.V	2.0 1.5 1.75 0.8	0
+258	14	álpa	choṭ,	tʃʰoːʈ	Bhojpuri	1737	t ʃʰ oː ʈ	1 3 7 1	ACXN	TSUT	3	3.T.C 3.S.C 3.U.V 3.T.c	2.0 1.5 1.5 0.8	0
+259	14	álpa	choṭā	tʃʰoːʈɑː	Punjabi	77	t ʃʰ oː ʈ ɑː	1 3 7 1 7	ACXBZ	TSUTA	13	13.T.C 13.S.C 13.U.V 13.T.C 13.A.V	2.0 1.5 1.5 1.75 0.8	0
+260	14	álpa	naṇḍho	nɑṇḍhoʊ	Sindhi	200	n ɑ ṇ ḍ h oʊ	4 7 4 1 3 7	AXMBCZ	NANTHU	16	16.N.C 16.A.V 16.N.c 16.T.C 16.H.C 16.U.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+261	14	álpa	nānũ	ɛnɑːɛnũ	Gujarati	261	ɛ n ɑːɛ n ũ	7 4 7 4 7	XBYBZ	ENANY	5	5.E.V 5.N.C 5.A.V 5.N.C 5.Y.V	1.5 1.75 1.3 1.75 0.8	0
+262	14	álpa	lahān,	ləɦan	Marathi	261	l ə ɦ a n	5 7 3 7 4	AXBYN	LEHAN	9	9.L.C 9.E.V 9.H.C 9.A.V 9.N.c	2.0 1.5 1.75 1.3 0.8	0
+263	14	álpa	dhākle,	dʰɑːkle	Konkani	261	dʰ ɑː k l e	1 7 1 5 7	AXBCZ	TAKLE	8	8.T.C 8.A.V 8.K.C 8.L.C 8.E.V	2.0 1.5 1.75 1.5 0.8	0
+264	14	álpa	xoru	xɔɹu	Assamese	349	x ɔ ɹ u	3 7 5 7	AXBZ	GURY	1	1.G.C 1.U.V 1.R.C 1.Y.V	2.0 1.5 1.75 0.8	0
+265	14	álpa	choṭ	tʃʰoːʈ	Bengali	77	t ʃʰ oː ʈ	1 3 7 1	ACXN	TSUT	2	2.T.C 2.S.C 2.U.V 2.T.c	2.0 1.5 1.5 0.8	0
+266	14	álpa	choṭô	tʃʰoʈɔ	Oriya	77	t ʃʰ o ʈ ɔ	1 3 7 1 7	ACXBZ	TSUTU	11	11.T.C 11.S.C 11.U.V 11.T.C 11.U.V	2.0 1.5 1.5 1.75 0.8	0
+267	14	álpa	lọkuṭ	ɛlọkuṭ	Kashmiri	1742	ɛ l ọ k u ṭ	7 5 7 1 7 1	XBYBYN	ELUKYT	7	7.E.V 7.L.C 7.U.V 7.K.C 7.Y.V 7.T.c	1.5 1.75 1.3 1.75 1.3 0.8	0
+268	14	álpa	puṁci,	puṁci	Sinhalese	420	p u ṁ c i	1 7 0 1 7	AXBCZ	PY0CI	17	17.P.C 17.Y.V 17.0.C 17.C.C 17.I.V	2.0 1.5 1.75 1.5 0.8	0
+269	14	álpa	kuda	kuda	Dhivehi	420	k u d a	1 7 1 7	AXBZ	KYTA	4	4.K.C 4.Y.V 4.T.C 4.A.V	2.0 1.5 1.75 0.8	0
+270	14	álpa	tikno	tikno	Romani	-15	t i k n o	1 7 1 4 7	AXBCZ	TIKNU	14	14.T.C 14.I.V 14.K.C 14.N.C 14.U.V	2.0 1.5 1.75 1.5 0.8	0
+#
+523	29	ásthi	ásthi	əstʰiː	Sanskrit	241	ə s tʰ iː	7 3 1 7	XMBZ	ESTI	15	15.E.V 15.S.c 15.T.C 15.I.V	1.5 1.1 1.75 0.8	0
+524	29	ásthi	aṭṭhi	əttʰiː	Pali	240	ə t tʰ iː	7 1 1 7	XMBZ	ETTI	12	12.E.V 12.T.c 12.T.C 12.I.V	1.5 1.1 1.75 0.8	0
+525	29	ásthi	haḍḍī	ɦəɖɖiː	Hindi	11	ɦ ə ɖɖ iː	3 7 1 7	AXBZ	HETI	6	6.H.C 6.E.V 6.T.C 6.I.V	2.0 1.5 1.75 0.8	0
+526	29	ásthi	haḍḍī	ɦəɖɖiː	Urdu	11	ɦ ə ɖɖ iː	3 7 1 7	AXBZ	HETI	18	18.H.C 18.E.V 18.T.C 18.I.V	2.0 1.5 1.75 0.8	0
+527	29	ásthi	hāḍ,	ɦɑːɖ	Nepali	11	ɦ ɑː ɖ	3 7 1	AXN	HAT	10	10.H.C 10.A.V 10.T.c	2.0 1.5 0.8	0
+528	29	ásthi	haḍḍī	ɦəɖɖiː	Bhojpuri	232	ɦ ə ɖɖ iː	3 7 1 7	AXBZ	HETI	3	3.H.C 3.E.V 3.T.C 3.I.V	2.0 1.5 1.75 0.8	0
+529	29	ásthi	haḍḍī	ɦəɖːiː	Punjabi	11	ɦ ə ɖː iː	3 7 1 7	AXBZ	HETI	13	13.H.C 13.E.V 13.T.C 13.I.V	2.0 1.5 1.75 0.8	0
+530	29	ásthi	haᶑo	ɦəɖo	Sindhi	11	ɦ ə ɖ o	3 7 1 7	AXBZ	HETU	16	16.H.C 16.E.V 16.T.C 16.U.V	2.0 1.5 1.75 0.8	0
+531	29	ásthi	hāḍkũ	hɑːɖ	Gujarati	11	h ɑː ɖ	3 7 1	AXN	HAT	5	5.H.C 5.A.V 5.T.c	2.0 1.5 0.8	0
+532	29	ásthi	hāḍ	hɑːɖ	Marathi	11	h ɑː ɖ	3 7 1	AXN	HAT	9	9.H.C 9.A.V 9.T.c	2.0 1.5 0.8	0
+533	29	ásthi	hāḍ	hɑːɖ	Konkani	11	h ɑː ɖ	3 7 1	AXN	HAT	8	8.H.C 8.A.V 8.T.c	2.0 1.5 0.8	0
+534	29	ásthi	har	ɦaɹ	Assamese	11	ɦ a ɹ	3 7 5	AXN	HAR	1	1.H.C 1.A.V 1.R.c	2.0 1.5 0.8	0
+535	29	ásthi	haṛ	ɦaɹ	Bengali	11	ɦ a ɹ	3 7 5	AXN	HAR	2	2.H.C 2.A.V 2.R.c	2.0 1.5 0.8	0
+536	29	ásthi	haḍô,	haɖɔ	Oriya	11	h a ɖ ɔ	3 7 1 7	AXBZ	HATU	11	11.H.C 11.A.V 11.T.C 11.U.V	2.0 1.5 1.75 0.8	0
+537	29	ásthi	None	None	Kashmiri	236	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+538	29	ásthi	kaṭu	kaṭu	Sinhalese	11	k a ṭ u	1 7 1 7	AXBZ	KATY	17	17.K.C 17.A.V 17.T.C 17.Y.V	2.0 1.5 1.75 0.8	0
+539	29	ásthi	kaṣi	kaṭu	Dhivehi	11	k a ṭ u	1 7 1 7	AXBZ	KATY	4	4.K.C 4.A.V 4.T.C 4.Y.V	2.0 1.5 1.75 0.8	0
+540	29	ásthi	kòkalo	keɪò	Romani	11	k eɪ ò	1 7 7	AXZ	KEU	14	14.K.C 14.E.V 14.U.V	2.0 1.5 0.8	0
+#
+990	55	áśman	áśman	ɐɕmɐn	Sanskrit	1940	ɐ ɕ m ɐ n	7 3 4 7 4	XBCYN	ESMEN	15	15.E.V 15.S.C 15.M.C 15.E.V 15.N.c	1.5 1.75 1.5 1.3 0.8	0
+991	55	áśman	asama	asama	Pali	1938	a s a m a	7 3 7 4 7	XBYBZ	ASAMA	12	12.A.V 12.S.C 12.A.V 12.M.C 12.A.V	1.5 1.75 1.3 1.75 0.8	0
+992	55	áśman	patthar	pəttʰəɾ	Hindi	81	p ə t tʰ ə ɾ	1 7 1 1 7 5	AXMBYN	PETTER	6	6.P.C 6.E.V 6.T.c 6.T.C 6.E.V 6.R.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+993	55	áśman	patthar	pətːʰəɾ	Urdu	81	p ə tːʰ ə ɾ	1 7 1 7 5	AXBYN	PETER	18	18.P.C 18.E.V 18.T.C 18.E.V 18.R.c	2.0 1.5 1.75 1.3 0.8	0
+994	55	áśman	ḍhuṅgā,	ɖʱṳŋɡä	Nepali	371	ɖʱ ṳ ŋ ɡ ä	1 7 4 1 7	AXMBZ	TYNKA	10	10.T.C 10.Y.V 10.N.c 10.K.C 10.A.V	2.0 1.5 1.1 1.75 0.8	0
+995	55	áśman	patthal	pəttʰal	Bhojpuri	1930	p ə t tʰ a l	1 7 1 1 7 5	AXMBYN	PETTAL	3	3.P.C 3.E.V 3.T.c 3.T.C 3.A.V 3.L.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+996	55	áśman	patthar	pətːʰəɾ	Punjabi	81	p ə tːʰ ə ɾ	1 7 1 7 5	AXBYN	PETER	13	13.P.C 13.E.V 13.T.C 13.E.V 13.R.c	2.0 1.5 1.75 1.3 0.8	0
+997	55	áśman	patharu	pətːʰəɾu	Sindhi	81	p ə tːʰ ə ɾ u	1 7 1 7 5 7	AXBYBZ	PETERY	16	16.P.C 16.E.V 16.T.C 16.E.V 16.R.C 16.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+998	55	áśman	paththar	pətʰtʰəɾ	Gujarati	81	p ə tʰtʰ ə ɾ	1 7 1 7 5	AXBYN	PETER	5	5.P.C 5.E.V 5.T.C 5.E.V 5.R.c	2.0 1.5 1.75 1.3 0.8	0
+999	55	áśman	dagaḍ	dagad	Marathi	286	d a g a d	1 7 1 7 1	AXBYN	TAKAT	9	9.T.C 9.A.V 9.K.C 9.A.V 9.T.c	2.0 1.5 1.75 1.3 0.8	0
+1000	55	áśman	phātar	paːtʰəɾ	Konkani	81	p aː tʰ ə ɾ	1 7 1 7 5	AXBYN	PATER	8	8.P.C 8.A.V 8.T.C 8.E.V 8.R.c	2.0 1.5 1.75 1.3 0.8	0
+1001	55	áśman	xil,	xil	Assamese	31	x i l	3 7 5	AXN	GIL	1	1.G.C 1.I.V 1.L.c	2.0 1.5 0.8	0
+1002	55	áśman	pathôr	pətʰɔɾ	Bengali	81	p ə tʰ ɔ ɾ	1 7 1 7 5	AXBYN	PETUR	2	2.P.C 2.E.V 2.T.C 2.U.V 2.R.c	2.0 1.5 1.75 1.3 0.8	0
+1003	55	áśman	pôthôrô,	pɔtʰɔɾɔ	Oriya	81	p ɔ tʰ ɔ ɾ ɔ	1 7 1 7 5 7	AXBYBZ	PUTURU	11	11.P.C 11.U.V 11.T.C 11.U.V 11.R.C 11.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1004	55	áśman	None	None	Kashmiri	1934	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1005	55	áśman	gala	gala	Sinhalese	-6	g a l a	1 7 5 7	AXBZ	KALA	17	17.K.C 17.A.V 17.L.C 17.A.V	2.0 1.5 1.75 0.8	0
+1006	55	áśman	gā	ɡəː	Dhivehi	351	ɡ əː	1 7	AX	KE	4	4.K.C 4.E.V	2.0 1.5	0
+1007	55	áśman	barr	parː	Romani	167	p a rː	1 7 5	AXN	PAR	14	14.P.C 14.A.V 14.R.c	2.0 1.5 0.8	0
+#
+181	10	éka	éka	eːk	Sanskrit	1361	eː k	7 1	XN	EK	15	15.E.V 15.K.c	1.5 0.8	0
+182	10	éka	eka	ˈekɑ	Pali	1361	ˈe k ɑ	7 1 7	XBZ	EKA	12	12.E.V 12.K.C 12.A.V	1.5 1.75 0.8	0
+183	10	éka	ek	eːk	Hindi	61	eː k	7 1	XN	EK	6	6.E.V 6.K.c	1.5 0.8	0
+184	10	éka	ek	jak	Urdu	61	j a k	6 7 1	AXN	JAK	18	18.J.C 18.A.V 18.K.c	2.0 1.5 0.8	0
+185	10	éka	ek	eːk	Nepali	61	eː k	7 1	XN	EK	10	10.E.V 10.K.c	1.5 0.8	0
+186	10	éka	ek	eːk	Bhojpuri	1361	eː k	7 1	XN	EK	3	3.E.V 3.K.c	1.5 0.8	0
+187	10	éka	ikka	ɪkːə	Punjabi	61	ɪ kː ə	7 1 7	XBZ	IKE	13	13.I.V 13.K.C 13.E.V	1.5 1.75 0.8	0
+188	10	éka	hiku	hiku	Sindhi	61	h i k u	3 7 1 7	AXBZ	HIKY	16	16.H.C 16.I.V 16.K.C 16.Y.V	2.0 1.5 1.75 0.8	0
+189	10	éka	eka	ekə	Gujarati	61	e k ə	7 1 7	XBZ	EKE	5	5.E.V 5.K.C 5.E.V	1.5 1.75 0.8	0
+190	10	éka	ek	eːk	Marathi	61	eː k	7 1	XN	EK	9	9.E.V 9.K.c	1.5 0.8	0
+191	10	éka	ek	eːk	Konkani	61	eː k	7 1	XN	EK	8	8.E.V 8.K.c	1.5 0.8	0
+192	10	éka	ek	ɛk	Assamese	61	ɛ k	7 1	XN	EK	1	1.E.V 1.K.c	1.5 0.8	0
+193	10	éka	ek	ɛk	Bengali	61	ɛ k	7 1	XN	EK	2	2.E.V 2.K.c	1.5 0.8	0
+194	10	éka	ekô	ekɔ	Oriya	61	e k ɔ	7 1 7	XBZ	EKU	11	11.E.V 11.K.C 11.U.V	1.5 1.75 0.8	0
+195	10	éka	akh	akʰ	Kashmiri	1363	a kʰ	7 1	XN	AK	7	7.A.V 7.K.c	1.5 0.8	0
+196	10	éka	eka	ekə	Sinhalese	61	e k ə	7 1 7	XBZ	EKE	17	17.E.V 17.K.C 17.E.V	1.5 1.75 0.8	0
+197	10	éka	ekek̊	ekeʔ	Dhivehi	61	e k e ʔ	7 1 7 1	XBYN	EKEH	4	4.E.V 4.K.C 4.E.V 4.H.c	1.5 1.75 1.3 0.8	0
+198	10	éka	jekh	jekh	Romani	61	j e k h	6 7 1 3	AXBC	JEKH	14	14.J.C 14.E.V 14.K.C 14.H.C	2.0 1.5 1.75 1.5	0
+#
+1097	61	ā́sa	ā́sa	ɑːs	Sanskrit	62	ɑː s	7 3	XN	AS	15	15.A.V 15.S.c	1.5 0.8	0
+1098	61	ā́sa	bhasma	bʱasma	Pali	60	bʱ a s m a	1 7 3 4 7	AXBCZ	PASMA	12	12.P.C 12.A.V 12.S.C 12.M.C 12.A.V	2.0 1.5 1.75 1.5 0.8	0
+1099	61	ā́sa	rākh	ɾɑːkʰ	Hindi	3	ɾ ɑː kʰ	5 7 1	AXN	RAK	6	6.R.C 6.A.V 6.K.c	2.0 1.5 0.8	0
+1100	61	ā́sa	rākh	ɾɑːkʰ	Urdu	1	ɾ ɑː kʰ	5 7 1	AXN	RAK	18	18.R.C 18.A.V 18.K.c	2.0 1.5 0.8	0
+1101	61	ā́sa	kharānī	kʰʌɾäni	Nepali	140	kʰ ʌ ɾ ä n i	1 7 5 7 4 7	AXBYBZ	KERANI	10	10.K.C 10.E.V 10.R.C 10.A.V 10.N.C 10.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1102	61	ā́sa	rākh	ɾɑːkʰ	Bhojpuri	54	ɾ ɑː kʰ	5 7 1	AXN	RAK	3	3.R.C 3.A.V 3.K.c	2.0 1.5 0.8	0
+1103	61	ā́sa	suāha,	ɾɑːkʰ	Punjabi	111	ɾ ɑː kʰ	5 7 1	AXN	RAK	13	13.R.C 13.A.V 13.K.c	2.0 1.5 0.8	0
+1104	61	ā́sa	chāī	saɪ	Sindhi	3	s aɪ	3 7	AX	SA	16	16.S.C 16.A.V	2.0 1.5	0
+1105	61	ā́sa	rākh	ɾɑːkʰ	Gujarati	3	ɾ ɑː kʰ	5 7 1	AXN	RAK	5	5.R.C 5.A.V 5.K.c	2.0 1.5 0.8	0
+1106	61	ā́sa	rākh	ɾɑːkʰ	Marathi	3	ɾ ɑː kʰ	5 7 1	AXN	RAK	9	9.R.C 9.A.V 9.K.c	2.0 1.5 0.8	0
+1107	61	ā́sa	rākh	ɾɑːkʰ	Konkani	606	ɾ ɑː kʰ	5 7 1	AXN	RAK	8	8.R.C 8.A.V 8.K.c	2.0 1.5 0.8	0
+1108	61	ā́sa	sai	saɪ	Assamese	152	s aɪ	3 7	AX	SA	1	1.S.C 1.A.V	2.0 1.5	0
+1109	61	ā́sa	chai	saɪ	Bengali	152	s aɪ	3 7	AX	SA	2	2.S.C 2.A.V	2.0 1.5	0
+1110	61	ā́sa	paum̐śô	None	Oriya	567	N o n e	0 7 4 7	AXBZ	0UNE	11	11.0.C 11.U.V 11.N.C 11.E.V	2.0 1.5 1.75 0.8	1
+1111	61	ā́sa	None	None	Kashmiri	57	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1112	61	ā́sa	mārga	None	Sinhalese	382	N o n e	0 7 4 7	AXBZ	0UNE	17	17.0.C 17.U.V 17.N.C 17.E.V	2.0 1.5 1.75 0.8	1
+1113	61	ā́sa	alhu	None	Dhivehi	382	N o n e	0 7 4 7	AXBZ	0UNE	4	4.0.C 4.U.V 4.N.C 4.E.V	2.0 1.5 1.75 0.8	0
+1114	61	ā́sa	ushar	None	Romani	140	N o n e	0 7 4 7	AXBZ	0UNE	14	14.0.C 14.U.V 14.N.C 14.E.V	2.0 1.5 1.75 0.8	1
+#
+1205	67	śvetá	śvetá	ʃʋeːt	Sanskrit	2356	ʃ ʋ eː t	3 6 7 1	ACXN	SWET	15	15.S.C 15.W.C 15.E.V 15.T.c	2.0 1.5 1.5 0.8	0
+1206	67	śvetá	sukka	ˈsukːɑ	Pali	2354	ˈs u kː ɑ	3 7 1 7	AXBZ	SYKA	12	12.S.C 12.Y.V 12.K.C 12.A.V	2.0 1.5 1.75 0.8	0
+1207	67	śvetá	safed	səpʰeːd	Hindi	97	s ə pʰ eː d	3 7 1 7 1	AXBYN	SEPET	6	6.S.C 6.E.V 6.P.C 6.E.V 6.T.c	2.0 1.5 1.75 1.3 0.8	0
+1208	67	śvetá	safed	safeːd	Urdu	97	s a f eː d	3 7 3 7 1	AXBYN	SABET	18	18.S.C 18.A.V 18.B.C 18.E.V 18.T.c	2.0 1.5 1.75 1.3 0.8	0
+1209	67	śvetá	seto	seto	Nepali	375	s e t o	3 7 1 7	AXBZ	SETU	10	10.S.C 10.E.V 10.T.C 10.U.V	2.0 1.5 1.75 0.8	0
+1210	67	śvetá	ujjar	ujjar	Bhojpuri	2346	u jj a r	7 6 7 5	XBYN	YJAR	3	3.Y.V 3.J.C 3.A.V 3.R.c	1.5 1.75 1.3 0.8	0
+1211	67	śvetá	safaid,	safaid	Punjabi	97	s a f ai d	3 7 3 7 1	AXBYN	SABAT	13	13.S.C 13.A.V 13.B.C 13.A.V 13.T.c	2.0 1.5 1.75 1.3 0.8	0
+1212	67	śvetá	acho	None	Sindhi	205	N o n e	0 7 4 7	AXBZ	0UNE	16	16.0.C 16.U.V 16.N.C 16.E.V	2.0 1.5 1.75 0.8	1
+1213	67	śvetá	saphed	sapʱed	Gujarati	267	s a pʱ e d	3 7 1 7 1	AXBYN	SAPET	5	5.S.C 5.A.V 5.P.C 5.E.V 5.T.c	2.0 1.5 1.75 1.3 0.8	0
+1214	67	śvetá	pāṇḍhre	pɑːndʱe	Marathi	290	p ɑː n dʱ e	1 7 4 1 7	AXMBZ	PANTE	9	9.P.C 9.A.V 9.N.c 9.T.C 9.E.V	2.0 1.5 1.1 1.75 0.8	0
+1215	67	śvetá	dhavo	dʰavo	Konkani	267	dʰ a v o	1 7 3 7	AXBZ	TABU	8	8.T.C 8.A.V 8.B.C 8.U.V	2.0 1.5 1.75 0.8	0
+1216	67	śvetá	boga	bɔɡa	Assamese	134	b ɔ ɡ a	1 7 1 7	AXBZ	PUKA	1	1.P.C 1.U.V 1.K.C 1.A.V	2.0 1.5 1.75 0.8	0
+1217	67	śvetá	śada	ʃada	Bengali	267	ʃ a d a	3 7 1 7	AXBZ	SATA	2	2.S.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	0
+1218	67	śvetá	dhôbôḷô	dʱɔbɔɭɔ	Oriya	267	dʱ ɔ b ɔ ɭ ɔ	1 7 1 7 5 7	AXBYBZ	TUPULU	11	11.T.C 11.U.V 11.P.C 11.U.V 11.L.C 11.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1219	67	śvetá	None	None	Kashmiri	2351	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1220	67	śvetá	sudu	sudu	Sinhalese	428	s u d u	3 7 1 7	AXBZ	SYTY	17	17.S.C 17.Y.V 17.T.C 17.Y.V	2.0 1.5 1.75 0.8	0
+1221	67	śvetá	hudu	hudu	Dhivehi	428	h u d u	3 7 1 7	AXBZ	HYTY	4	4.H.C 4.Y.V 4.T.C 4.Y.V	2.0 1.5 1.75 0.8	0
+1222	67	śvetá	parno	ˈparno	Romani	-18	ˈp a r n o	1 7 5 4 7	AXMBZ	PARNU	14	14.P.C 14.A.V 14.R.c 14.N.C 14.U.V	2.0 1.5 1.1 1.75 0.8	0
+#
+343	19	śván	śván	ɕʋɐn	Sanskrit	413	ɕ ʋ ɐ n	3 6 7 4	ACXN	SWEN	15	15.S.C 15.W.C 15.E.V 15.N.c	2.0 1.5 1.5 0.8	0
+344	19	śván	kukkura,	ˈkukːurɑ	Pali	411	ˈk u kː u r ɑ	1 7 1 7 5 7	AXBYBZ	KYKYRA	12	12.K.C 12.Y.V 12.K.C 12.Y.V 12.R.C 12.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+345	19	śván	kuttā	kʊttɑː	Hindi	18	k ʊ tt ɑː	1 7 1 7	AXBZ	KYTA	6	6.K.C 6.Y.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	0
+346	19	śván	kuttā	kʊttɑː	Urdu	18	k ʊ tt ɑː	1 7 1 7	AXBZ	KYTA	18	18.K.C 18.Y.V 18.T.C 18.A.V	2.0 1.5 1.75 0.8	0
+347	19	śván	kukur	kukur	Nepali	302	k u k u r	1 7 1 7 5	AXBYN	KYKYR	10	10.K.C 10.Y.V 10.K.C 10.Y.V 10.R.c	2.0 1.5 1.75 1.3 0.8	0
+348	19	śván	kukur	kukur	Bhojpuri	403	k u k u r	1 7 1 7 5	AXBYN	KYKYR	3	3.K.C 3.Y.V 3.K.C 3.Y.V 3.R.c	2.0 1.5 1.75 1.3 0.8	0
+349	19	śván	kuttā	kʊttɑː	Punjabi	18	k ʊ tt ɑː	1 7 1 7	AXBZ	KYTA	13	13.K.C 13.Y.V 13.T.C 13.A.V	2.0 1.5 1.75 0.8	0
+350	19	śván	kuto	kʊto	Sindhi	18	k ʊ t o	1 7 1 7	AXBZ	KYTU	16	16.K.C 16.Y.V 16.T.C 16.U.V	2.0 1.5 1.75 0.8	0
+351	19	śván	kutro	kʊtro	Gujarati	18	k ʊ t r o	1 7 1 5 7	AXBCZ	KYTRU	5	5.K.C 5.Y.V 5.T.C 5.R.C 5.U.V	2.0 1.5 1.75 1.5 0.8	0
+352	19	śván	kutrā	kʊtrɑː	Marathi	18	k ʊ t r ɑː	1 7 1 5 7	AXBCZ	KYTRA	9	9.K.C 9.Y.V 9.T.C 9.R.C 9.A.V	2.0 1.5 1.75 1.5 0.8	0
+353	19	śván	kutro,	kʊtro	Konkani	18	k ʊ t r o	1 7 1 5 7	AXBCZ	KYTRU	8	8.K.C 8.Y.V 8.T.C 8.R.C 8.U.V	2.0 1.5 1.75 1.5 0.8	0
+354	19	śván	kukur	kukuɹ	Assamese	302	k u k u ɹ	1 7 1 7 5	AXBYN	KYKYR	1	1.K.C 1.Y.V 1.K.C 1.Y.V 1.R.c	2.0 1.5 1.75 1.3 0.8	0
+355	19	śván	kukur	kukuɾ	Bengali	302	k u k u ɾ	1 7 1 7 5	AXBYN	KYKYR	2	2.K.C 2.Y.V 2.K.C 2.Y.V 2.R.c	2.0 1.5 1.75 1.3 0.8	0
+356	19	śván	kukurô	kukuɾɔ	Oriya	302	k u k u ɾ ɔ	1 7 1 7 5 7	AXBYBZ	KYKYRU	11	11.K.C 11.Y.V 11.K.C 11.Y.V 11.R.C 11.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+357	19	śván	hūn	huːn	Kashmiri	408	h uː n	3 7 4	AXN	HYN	7	7.H.C 7.Y.V 7.N.c	2.0 1.5 0.8	0
+358	19	śván	ballā	ballɑː	Sinhalese	394	b a ll ɑː	1 7 5 7	AXBZ	PALA	17	17.P.C 17.A.V 17.L.C 17.A.V	2.0 1.5 1.75 0.8	0
+359	19	śván	baḷu,	baḷu	Dhivehi	302	b a ḷ u	1 7 5 7	AXBZ	PALY	4	4.P.C 4.A.V 4.L.C 4.Y.V	2.0 1.5 1.75 0.8	0
+360	19	śván	ʒukel	ʒukel	Romani	595	ʒ u k e l	3 7 1 7 5	AXBYN	SYKEL	14	14.S.C 14.Y.V 14.K.C 14.E.V 14.L.c	2.0 1.5 1.75 1.3 0.8	0
+#
+648	36	śíras	śíras	ɕíɾɐs	Sanskrit	857	ɕ í ɾ ɐ s	3 7 5 7 3	AXBYN	SIRES	15	15.S.C 15.I.V 15.R.C 15.E.V 15.S.c	2.0 1.5 1.75 1.3 0.8	0
+649	36	śíras	sira	siˈɾaʔ	Pali	857	s i ˈɾ a ʔ	3 7 5 7 1	AXBYN	SIRAH	12	12.S.C 12.I.V 12.R.C 12.A.V 12.H.c	2.0 1.5 1.75 1.3 0.8	0
+650	36	śíras	sir	sɪɾ	Hindi	38	s ɪ ɾ	3 7 5	AXN	SIR	6	6.S.C 6.I.V 6.R.c	2.0 1.5 0.8	0
+651	36	śíras	sar	saɾ	Urdu	38	s a ɾ	3 7 5	AXN	SAR	18	18.S.C 18.A.V 18.R.c	2.0 1.5 0.8	0
+652	36	śíras	ṭāuko,	ʈäuko	Nepali	338	ʈ ä u k o	1 7 7 1 7	AXYBZ	TAYKU	10	10.T.C 10.A.V 10.Y.V 10.K.C 10.U.V	2.0 1.5 1.3 1.75 0.8	0
+653	36	śíras	kapār,	kapaːr	Bhojpuri	854	k a p aː r	1 7 1 7 5	AXBYN	KAPAR	3	3.K.C 3.A.V 3.P.C 3.A.V 3.R.c	2.0 1.5 1.75 1.3 0.8	0
+654	36	śíras	sir	sɪɾə	Punjabi	38	s ɪ ɾ ə	3 7 5 7	AXBZ	SIRE	13	13.S.C 13.I.V 13.R.C 13.E.V	2.0 1.5 1.75 0.8	0
+655	36	śíras	matho	maːtʰo	Sindhi	38	m aː tʰ o	4 7 1 7	AXBZ	MATU	16	16.M.C 16.A.V 16.T.C 16.U.V	2.0 1.5 1.75 0.8	0
+656	36	śíras	māthũ	ma:tʰũ	Gujarati	186	m a: tʰ ũ	4 7 1 7	AXBZ	MATY	5	5.M.C 5.A.V 5.T.C 5.Y.V	2.0 1.5 1.75 0.8	0
+657	36	śíras	ḍoke	ḍoke	Marathi	254	ḍ o k e	1 7 1 7	AXBZ	TUKE	9	9.T.C 9.U.V 9.K.C 9.E.V	2.0 1.5 1.75 0.8	0
+658	36	śíras	taklī,	takliː	Konkani	186	t a k l iː	1 7 1 5 7	AXBCZ	TAKLI	8	8.T.C 8.A.V 8.K.C 8.L.C 8.I.V	2.0 1.5 1.75 1.5 0.8	0
+659	36	śíras	mur,	muɹ	Assamese	338	m u ɹ	4 7 5	AXN	MYR	1	1.M.C 1.Y.V 1.R.c	2.0 1.5 0.8	0
+660	36	śíras	matha	matʰa	Bengali	186	m a tʰ a	4 7 1 7	AXBZ	MATA	2	2.M.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	0
+661	36	śíras	muṇḍô	muṇḍɔ	Oriya	38	m u ṇ ḍ ɔ	4 7 4 1 7	AXMBZ	MYNTU	11	11.M.C 11.Y.V 11.N.c 11.T.C 11.U.V	2.0 1.5 1.1 1.75 0.8	0
+662	36	śíras	None	None	Kashmiri	858	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+663	36	śíras	oluwa,	oluwa	Sinhalese	38	o l u w a	7 5 7 6 7	XBYBZ	ULYWA	17	17.U.V 17.L.C 17.Y.V 17.W.C 17.A.V	1.5 1.75 1.3 1.75 0.8	0
+664	36	śíras	saru	saːru	Dhivehi	38	s aː r u	3 7 5 7	AXBZ	SARY	4	4.S.C 4.A.V 4.R.C 4.Y.V	2.0 1.5 1.75 0.8	0
+665	36	śíras	śero	śero	Romani	38	ś e r o	3 7 5 7	AXBZ	SERU	14	14.S.C 14.E.V 14.R.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+1367	76	śúṣka	śúṣka	ʃʊʂk	Sanskrit	426	ʃ ʊ ʂ k	3 7 3 1	AXLN	SYSK	15	15.S.C 15.Y.V 15.S.c 15.K.c	2.0 1.5 1.1 0.8	0
+1368	76	śúṣka	sukkha	suːkkʰɑː	Pali	436	s uː k kʰ ɑː	3 7 1 1 7	AXMBZ	SYKKA	12	12.S.C 12.Y.V 12.K.c 12.K.C 12.A.V	2.0 1.5 1.1 1.75 0.8	0
+1369	76	śúṣka	sūkhā	suːkʰɑː	Hindi	20	s uː kʰ ɑː	3 7 1 7	AXBZ	SYKA	6	6.S.C 6.Y.V 6.K.C 6.A.V	2.0 1.5 1.75 0.8	0
+1370	76	śúṣka	xuśk	xuʃk	Urdu	20	x u ʃ k	3 7 3 1	AXLN	GYSK	18	18.G.C 18.Y.V 18.S.c 18.K.c	2.0 1.5 1.1 0.8	0
+1371	76	śúṣka	sukkhā	sukkʰä	Nepali	20	s u k kʰ ä	3 7 1 1 7	AXMBZ	SYKKA	10	10.S.C 10.Y.V 10.K.c 10.K.C 10.A.V	2.0 1.5 1.1 1.75 0.8	0
+1372	76	śúṣka	sūkhal	sukkʰal	Bhojpuri	428	s u k kʰ a l	3 7 1 1 7 5	AXMBYN	SYKKAL	3	3.S.C 3.Y.V 3.K.c 3.K.C 3.A.V 3.L.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+1373	76	śúṣka	sukkā	sukkɑː	Punjabi	20	s u kk ɑː	3 7 1 7	AXBZ	SYKA	13	13.S.C 13.Y.V 13.K.C 13.A.V	2.0 1.5 1.75 0.8	0
+1374	76	śúṣka	sukal	sukal	Sindhi	20	s u k a l	3 7 1 7 5	AXBYN	SYKAL	16	16.S.C 16.Y.V 16.K.C 16.A.V 16.L.c	2.0 1.5 1.75 1.3 0.8	0
+1375	76	śúṣka	sukũ,	sukũ	Gujarati	20	s u k ũ	3 7 1 7	AXBZ	SYKY	5	5.S.C 5.Y.V 5.K.C 5.Y.V	2.0 1.5 1.75 0.8	0
+1376	76	śúṣka	korḍe,	korḍe	Marathi	20	k o r ḍ e	1 7 5 1 7	AXMBZ	KURTE	9	9.K.C 9.U.V 9.R.c 9.T.C 9.E.V	2.0 1.5 1.1 1.75 0.8	0
+1377	76	śúṣka	sukẽ	sukẽ	Konkani	20	s u k ẽ	3 7 1 7	AXBZ	SYKE	8	8.S.C 8.Y.V 8.K.C 8.E.V	2.0 1.5 1.75 0.8	0
+1378	76	śúṣka	xukan	xukan	Assamese	20	x u k a n	3 7 1 7 4	AXBYN	GYKAN	1	1.G.C 1.Y.V 1.K.C 1.A.V 1.N.c	2.0 1.5 1.75 1.3 0.8	0
+1379	76	śúṣka	śukna	śukna	Bengali	20	ś u k n a	3 7 1 4 7	AXBCZ	SYKNA	2	2.S.C 2.Y.V 2.K.C 2.N.C 2.A.V	2.0 1.5 1.75 1.5 0.8	0
+1380	76	śúṣka	śukhila	śukʰila	Oriya	20	ś u kʰ i l a	3 7 1 7 5 7	AXBYBZ	SYKILA	11	11.S.C 11.Y.V 11.K.C 11.I.V 11.L.C 11.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1381	76	śúṣka	None	None	Kashmiri	432	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1382	76	śúṣka	wiyaḷi	None	Sinhalese	456	N o n e	0 7 4 7	AXBZ	0UNE	17	17.0.C 17.U.V 17.N.C 17.E.V	2.0 1.5 1.75 0.8	1
+1383	76	śúṣka	dahan̊’gu	None	Dhivehi	20	N o n e	0 7 4 7	AXBZ	0UNE	4	4.0.C 4.U.V 4.N.C 4.E.V	2.0 1.5 1.75 0.8	1
+1384	76	śúṣka	shuko	sʰuko	Romani	20	sʰ u k o	3 7 1 7	AXBZ	SYKU	14	14.S.C 14.Y.V 14.K.C 14.U.V	2.0 1.5 1.75 0.8	0
+#
+1277	71	śītá	śītá	ʃiːt	Sanskrit	310	ʃ iː t	3 7 1	AXN	SIT	15	15.S.C 15.I.V 15.T.c	2.0 1.5 0.8	0
+1278	71	śītá	sīta	ʃiːta	Pali	308	ʃ iː t a	3 7 1 7	AXBZ	SITA	12	12.S.C 12.I.V 12.T.C 12.A.V	2.0 1.5 1.75 0.8	0
+1279	71	śītá	ṭhaṇḍā	ʈʰəɳɖɑː	Hindi	458	ʈʰ ə ɳ ɖ ɑː	1 7 4 1 7	AXMBZ	TENTA	6	6.T.C 6.E.V 6.N.c 6.T.C 6.A.V	2.0 1.5 1.1 1.75 0.8	0
+1280	71	śītá	sard,	sarada	Urdu	458	s a r a d a	3 7 5 7 1 7	AXBYBZ	SARATA	18	18.S.C 18.A.V 18.R.C 18.A.V 18.T.C 18.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+1281	71	śītá	ṭhaṇḍā,	ʈʰəɳɖɑː	Nepali	332	ʈʰ ə ɳ ɖ ɑː	1 7 4 1 7	AXMBZ	TENTA	10	10.T.C 10.E.V 10.N.c 10.T.C 10.A.V	2.0 1.5 1.1 1.75 0.8	0
+1282	71	śītá	ṭhaṇḍā	ʈʰəɳɖɑː	Bhojpuri	301	ʈʰ ə ɳ ɖ ɑː	1 7 4 1 7	AXMBZ	TENTA	3	3.T.C 3.E.V 3.N.c 3.T.C 3.A.V	2.0 1.5 1.1 1.75 0.8	0
+1283	71	śītá	ṭhaṇḍā	ʈʰəɳɖɑː	Punjabi	458	ʈʰ ə ɳ ɖ ɑː	1 7 4 1 7	AXMBZ	TENTA	13	13.T.C 13.E.V 13.N.c 13.T.C 13.A.V	2.0 1.5 1.1 1.75 0.8	0
+1284	71	śītá	thadho	ʈʰəɳɖo	Sindhi	458	ʈʰ ə ɳ ɖ o	1 7 4 1 7	AXMBZ	TENTU	16	16.T.C 16.E.V 16.N.c 16.T.C 16.U.V	2.0 1.5 1.1 1.75 0.8	0
+1285	71	śītá	ṭhaṇḍu	None	Gujarati	458	N o n e	0 7 4 7	AXBZ	0UNE	5	5.0.C 5.U.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	1
+1286	71	śītá	gār,	gɑːr	Marathi	458	g ɑː r	1 7 5	AXN	KAR	9	9.K.C 9.A.V 9.R.c	2.0 1.5 0.8	0
+1287	71	śītá	thaṇḍa	None	Konkani	458	N o n e	0 7 4 7	AXBZ	0UNE	8	8.0.C 8.U.V 8.N.C 8.E.V	2.0 1.5 1.75 0.8	1
+1288	71	śītá	sẽsa,	sẽsa	Assamese	458	s ẽ s a	3 7 3 7	AXBZ	SESA	1	1.S.C 1.E.V 1.S.C 1.A.V	2.0 1.5 1.75 0.8	0
+1289	71	śītá	ṭhanḍa	tʰaɳɖa	Bengali	458	tʰ a ɳ ɖ a	1 7 4 1 7	AXMBZ	TANTA	2	2.T.C 2.A.V 2.N.c 2.T.C 2.A.V	2.0 1.5 1.1 1.75 0.8	0
+1290	71	śītá	thôṇḍa	tʰɔɳɖa	Oriya	458	tʰ ɔ ɳ ɖ a	1 7 4 1 7	AXMBZ	TUNTA	11	11.T.C 11.U.V 11.N.c 11.T.C 11.A.V	2.0 1.5 1.1 1.75 0.8	0
+1291	71	śītá	None	None	Kashmiri	301	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+1292	71	śītá	sisil	sisil	Sinhalese	392	s i s i l	3 7 3 7 5	AXBYN	SISIL	17	17.S.C 17.I.V 17.S.C 17.I.V 17.L.c	2.0 1.5 1.75 1.3 0.8	0
+1293	71	śītá	fini	fini	Dhivehi	528	f i n i	3 7 4 7	AXBZ	BINI	4	4.B.C 4.I.V 4.N.C 4.I.V	2.0 1.5 1.75 0.8	0
+1294	71	śītá	śudro	śudro	Romani	218	ś u d r o	3 7 1 5 7	AXBCZ	SYTRU	14	14.S.C 14.Y.V 14.T.C 14.R.C 14.U.V	2.0 1.5 1.75 1.5 0.8	0
+#
+576	32	śṛṅgá	śṛṅgá	ɕrŋɡɐ	Sanskrit	935	ɕ r ŋ ɡ ɐ	3 5 4 1 7	AXMBZ	SRNKE	15	15.S.C 15.R.V 15.N.c 15.K.C 15.E.V	2.0 1.5 1.1 1.75 0.8	0
+577	32	śṛṅgá	singa	siŋa	Pali	935	s i ŋ a	3 7 4 7	AXBZ	SINA	12	12.S.C 12.I.V 12.N.C 12.A.V	2.0 1.5 1.75 0.8	0
+578	32	śṛṅgá	sīṅg	siːŋɡ	Hindi	40	s iː ŋ ɡ	3 7 4 1	AXLN	SINK	6	6.S.C 6.I.V 6.N.c 6.K.c	2.0 1.5 1.1 0.8	0
+579	32	śṛṅgá	sīng	siːŋɡ	Urdu	40	s iː ŋ ɡ	3 7 4 1	AXLN	SINK	18	18.S.C 18.I.V 18.N.c 18.K.c	2.0 1.5 1.1 0.8	0
+580	32	śṛṅgá	siṅ,	siŋ	Nepali	40	s i ŋ	3 7 4	AXN	SIN	10	10.S.C 10.I.V 10.N.c	2.0 1.5 0.8	0
+581	32	śṛṅgá	sīṅg	siːŋɡ	Bhojpuri	935	s iː ŋ ɡ	3 7 4 1	AXLN	SINK	3	3.S.C 3.I.V 3.N.c 3.K.c	2.0 1.5 1.1 0.8	0
+582	32	śṛṅgá	siṅg	siŋɡ	Punjabi	40	s i ŋ ɡ	3 7 4 1	AXLN	SINK	13	13.S.C 13.I.V 13.N.c 13.K.c	2.0 1.5 1.1 0.8	0
+583	32	śṛṅgá	siṅu	siŋɡ	Sindhi	40	s i ŋ ɡ	3 7 4 1	AXLN	SINK	16	16.S.C 16.I.V 16.N.c 16.K.c	2.0 1.5 1.1 0.8	0
+584	32	śṛṅgá	śī̃gḍũ	ɕiɡɖũ	Gujarati	40	ɕ i ɡ ɖ ũ	3 7 1 1 7	AXMBZ	SIKTY	5	5.S.C 5.I.V 5.K.c 5.T.C 5.Y.V	2.0 1.5 1.1 1.75 0.8	0
+585	32	śṛṅgá	śiṅga	ɕiŋɡə	Marathi	40	ɕ i ŋ ɡ ə	3 7 4 1 7	AXMBZ	SINKE	9	9.S.C 9.I.V 9.N.c 9.K.C 9.E.V	2.0 1.5 1.1 1.75 0.8	0
+586	32	śṛṅgá	śīṅga	ɕiŋɡə	Konkani	40	ɕ i ŋ ɡ ə	3 7 4 1 7	AXMBZ	SINKE	8	8.S.C 8.I.V 8.N.c 8.K.C 8.E.V	2.0 1.5 1.1 1.75 0.8	0
+587	32	śṛṅgá	xiṅ	xiŋ	Assamese	40	x i ŋ	3 7 4	AXN	GIN	1	1.G.C 1.I.V 1.N.c	2.0 1.5 0.8	0
+588	32	śṛṅgá	śiṅ	xiŋ	Bengali	40	x i ŋ	3 7 4	AXN	GIN	2	2.G.C 2.I.V 2.N.c	2.0 1.5 0.8	0
+589	32	śṛṅgá	śiṅgô	siŋɡɔ	Oriya	40	s i ŋ ɡ ɔ	3 7 4 1 7	AXMBZ	SINKU	11	11.S.C 11.I.V 11.N.c 11.K.C 11.U.V	2.0 1.5 1.1 1.75 0.8	0
+590	32	śṛṅgá	None	None	Kashmiri	935	N o n e	0 7 4 7	AXBZ	0UNE	7	7.0.C 7.U.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	1
+591	32	śṛṅgá	aⁿga	eɪⁿgɑ	Sinhalese	40	eɪⁿ g ɑ	7 1 7	XBZ	EKA	17	17.E.V 17.K.C 17.A.V	1.5 1.75 0.8	0
+592	32	śṛṅgá	daḷu	dalu	Dhivehi	537	d a l u	1 7 5 7	AXBZ	TALY	4	4.T.C 4.A.V 4.L.C 4.Y.V	2.0 1.5 1.75 0.8	0
+593	32	śṛṅgá	śing	ɕiŋɡ	Romani	40	ɕ i ŋ ɡ	3 7 4 1	AXLN	SINK	14	14.S.C 14.I.V 14.N.c 14.K.c	2.0 1.5 1.1 0.8	0
+# Created using the LexStat class of LingPy-2.6.9
+# Parameters: 2:1_1.00_10000_0.70_global-2-0.50:local-1-0.50_0.30__T_shuffle_False:upgma:-2_0.7_0.00_-5.00
